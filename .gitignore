@@ -6,7 +6,13 @@ my_env/
 
 .env
 .env.local
-.env.*
+.env.*.local
+.env.development
+.env.production
+.env.test
+
+# Ne pas ignorer le fichier exemple
+!.env.example
 
 __pycache__/
 *.pyc
