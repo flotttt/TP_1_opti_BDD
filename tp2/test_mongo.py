@@ -1,27 +1,39 @@
+import os
 from pathlib import Path
+from urllib.parse import quote_plus
 
 from dotenv import load_dotenv
 from pymongo import MongoClient
-import os
 
 
 def get_mongo_uri() -> str:
     uri = os.getenv("MONGO_URI")
     if uri:
         return uri
-    username = os.getenv("MONGO_ROOT_USERNAME", "root")
-    password = os.getenv("MONGO_ROOT_PASSWORD", "example")
-    host = os.getenv("MONGO_HOST", "localhost")
-    port = os.getenv("MONGO_PORT", "27017")
-    database = os.getenv("MONGO_DATABASE", "test")
-    return f"mongodb://{username}:{password}@{host}:{port}/{database}?authSource=admin"
+    username = os.getenv("MONGO_ROOT_USERNAME")
+    password = os.getenv("MONGO_ROOT_PASSWORD")
+    host = os.getenv("MONGO_HOST")
+    port = os.getenv("MONGO_PORT")
+    database = os.getenv("MONGO_DATABASE")
+
+    # Encoder le username et password pour l'URI
+    username_encoded = quote_plus(username) if username else ""
+    password_encoded = quote_plus(password) if password else ""
+
+    return f"mongodb://{username_encoded}:{password_encoded}@{host}:{port}/{database}?authSource=admin"
 
 
 def main() -> None:
-    env_path = Path(".env")
+    # Charger le .env depuis le répertoire parent
+    env_path = Path(__file__).parent.parent / ".env"
     if env_path.exists():
         load_dotenv(env_path)
+    else:
+        print(f"Fichier .env non trouvé: {env_path}")
+        return
+
     uri = get_mongo_uri()
+    print(f"URI: {uri}")  # Debug
     client = MongoClient(uri, serverSelectionTimeoutMS=5000)
     info = client.server_info()
     db_names = client.list_database_names()
@@ -32,4 +44,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
