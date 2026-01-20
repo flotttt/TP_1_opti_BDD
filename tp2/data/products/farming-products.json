@@ -1,0 +1,2722 @@
+[
+  {
+    "id": "5011273040698",
+    "name": "Runny Honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/304/0698/front_en.43.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1377,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "5052909732600",
+    "name": "CLEAR HONEY",
+    "brand": "TESCO",
+    "image": "https://images.openfoodfacts.org/images/products/505/290/973/2600/front_en.37.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1410,
+      "proteins_100g": 0.3,
+      "carbohydrates_100g": 82.4,
+      "sugars_100g": 82.4,
+      "fat_100g": 0,
+      "saturated_fat_100g": null,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "4056489361855",
+    "name": "Miel crémeux français & responsable",
+    "brand": "Maribel",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/936/1855/front_en.7.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:honeys-from-france",
+      "en:sugars",
+      "fr:miels-cremeux",
+      "fr:miel-de-fleurs-de-france"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3088540004440",
+    "name": "Tartimiel® Lune de Miel® doseur 250 g",
+    "brand": "Lune de Miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/000/4440/front_fr.111.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1339,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": 5e-05
+    }
+  },
+  {
+    "id": "20072803",
+    "name": "Miel de fleurs",
+    "brand": "Maribel",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/007/2803/front_fr.99.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1264,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 75.1,
+      "sugars_100g": 75.1,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3088545004001",
+    "name": "Miel de Fleurs Liquide Doseur 500g",
+    "brand": "Lune de Miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/500/4001/front_en.11.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1339,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "3088540502663",
+    "name": "Miel de Montagne",
+    "brand": "Bernard Michaud, L'Apiculteur",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/050/2663/front_fr.55.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:mountain-products",
+      "en:flower-honeys",
+      "en:honeys-from-the-mountains"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5011273024650",
+    "name": "Runny Honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/302/4650/front_en.16.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1380,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.025
+    }
+  },
+  {
+    "id": "6111243380027",
+    "name": "Miel d'eucalyptus",
+    "brand": "miel el Aâssal",
+    "image": "https://images.openfoodfacts.org/images/products/611/124/338/0027/front_fr.3.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:eucalyptus-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "4088600313030",
+    "name": "Honey",
+    "brand": "Grandessa",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/031/3030/front_en.16.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1280,
+      "proteins_100g": 0.4,
+      "carbohydrates_100g": 76.4,
+      "sugars_100g": 76.4,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "20574093",
+    "name": "Runny Honey",
+    "brand": "Highgate Fayre",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/057/4093/front_en.20.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1510,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 88,
+      "sugars_100g": 80,
+      "fat_100g": 0.667,
+      "saturated_fat_100g": 0.667,
+      "fiber_100g": 0.667,
+      "salt_100g": 0.04
+    }
+  },
+  {
+    "id": "8480000154309",
+    "name": "Miel de Flores",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/015/4309/front_en.122.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1393,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 83,
+      "sugars_100g": 79,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0.04
+    }
+  },
+  {
+    "id": "3088540255279",
+    "name": "Miel de Fleurs BIO liquide Doseur 500g",
+    "brand": "Lune de miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/025/5279/front_fr.62.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1339,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": null,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "3088541002476",
+    "name": "Miel de France",
+    "brand": "Famille Michaud",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/100/2476/front_fr.22.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:honeys-from-france"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "01789621",
+    "name": "Runny Honey",
+    "brand": "Sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/178/9621/front_en.21.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1377,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "20276522",
+    "name": "Bio Flüssiger Honig Goldklar",
+    "brand": "Lidl, Maribel, Marlene",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/027/6522/front_de.73.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "de:prodauct-e"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5060298571250",
+    "name": "Blossom Honey",
+    "brand": "Hilltop",
+    "image": "https://images.openfoodfacts.org/images/products/506/029/857/1250/front_en.22.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:honey-based-preparations",
+      "en:honey-and-royal-jelly-mixtures"
+    ],
+    "nutrition": {
+      "energy_100g": 1280,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 76,
+      "sugars_100g": 76,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "20276515",
+    "name": "Miel de fleurs crémeux",
+    "brand": "Lidl, Maribel",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/027/6515/front_en.58.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "fr:miels-cremeux"
+    ],
+    "nutrition": {
+      "energy_100g": 1283,
+      "proteins_100g": 0.4,
+      "carbohydrates_100g": 75.1,
+      "sugars_100g": 75.1,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.1,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "5011273040339",
+    "name": "Organic Honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/304/0339/front_en.7.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1380,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "5011273044719",
+    "name": "Light & Mild Honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/304/4719/front_en.5.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1380,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.025
+    }
+  },
+  {
+    "id": "4088600020280",
+    "name": "Squeezy Honey",
+    "brand": "GRANDESSA",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/002/0280/front_en.23.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:honey-based-preparations"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "8480000154361",
+    "name": "Miel de Flores",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/015/4361/front_es.65.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1393,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 83,
+      "sugars_100g": 79,
+      "fat_100g": 0,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": 0.04
+    }
+  },
+  {
+    "id": "5425600101370",
+    "name": "Miel",
+    "brand": "Bee’s",
+    "image": "https://images.openfoodfacts.org/images/products/542/560/010/1370/front_fr.14.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1340,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 79.3,
+      "sugars_100g": 79.3,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "5060298572431",
+    "name": "Blossom Honey",
+    "brand": "Hiltop Honey",
+    "image": "https://images.openfoodfacts.org/images/products/506/029/857/2431/front_en.12.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:cherry-blossom-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1284,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 76,
+      "sugars_100g": 76,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "3270190138778",
+    "name": "Miel de fleurs",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/327/019/013/8778/front_en.72.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 0,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3088540502298",
+    "name": "Miel l'apiculteur de nos terroirs",
+    "brand": "Michaud Yves",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/050/2298/front_en.41.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5011273044757",
+    "name": "Honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/304/4757/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1380,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "4088600346854",
+    "name": "Multifloral Manuka honey",
+    "brand": "Specially Selected",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/034/6854/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:manuka-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1406,
+      "proteins_100g": 0.3,
+      "carbohydrates_100g": 83.1,
+      "sugars_100g": 71,
+      "fat_100g": 0.3,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3088545004018",
+    "name": "Miel",
+    "brand": "Family Michaud, lune de miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/500/4018/front_en.62.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:acacia-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1339,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "20001049",
+    "name": "Miel liquide",
+    "brand": "Maribel, Marlene",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/000/1049/front_en.46.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:honey-based-preparations",
+      "en:honey-and-royal-jelly-mixtures",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1264,
+      "proteins_100g": 0.4,
+      "carbohydrates_100g": 75.1,
+      "sugars_100g": 75.1,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": null,
+      "fiber_100g": 0.1,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "20404499",
+    "name": "Miel d'Acacia avec Rayon",
+    "brand": "Deluxe, Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/040/4499/front_en.47.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:acacia-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5018374888341",
+    "name": "6 Free Range Eggs",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/501/837/488/8341/front_en.33.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:medium-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 547,
+      "proteins_100g": 12.6,
+      "carbohydrates_100g": 0.1,
+      "sugars_100g": 0.1,
+      "fat_100g": 9,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 0,
+      "salt_100g": 0.39
+    }
+  },
+  {
+    "id": "4056489519928",
+    "name": "Manuka Honey",
+    "brand": "Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/951/9928/front_en.27.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:manuka-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1464,
+      "proteins_100g": 0.1,
+      "carbohydrates_100g": 86.9,
+      "sugars_100g": 85.9,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.295
+    }
+  },
+  {
+    "id": "6923815199032",
+    "name": "Miel",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/692/381/519/9032/front_fr.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5011273000678",
+    "name": "Runny Honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/300/0678/front_en.5.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1380,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.025
+    }
+  },
+  {
+    "id": "3088540504292",
+    "name": "Miel de fleurs Crémeux Pot Plastique 500g",
+    "brand": "Lune de miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/050/4292/front_fr.95.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "fr:miels-cremeux"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "20057206",
+    "name": "Œufs frais plein air",
+    "brand": "Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/005/7206/front_fr.72.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 583,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 9.8,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 0,
+      "salt_100g": 0.31
+    }
+  },
+  {
+    "id": "3564707087384",
+    "name": "10 Œuf frais",
+    "brand": "Bio Village, LUCIEN GEORGELIN",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/708/7384/front_fr.141.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:variable-size-eggs-by-batch",
+      "fr:proteines"
+    ],
+    "nutrition": {
+      "energy_100g": 584,
+      "proteins_100g": 12,
+      "carbohydrates_100g": 0.7,
+      "sugars_100g": 0.7,
+      "fat_100g": 9.9,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 0,
+      "salt_100g": 0.3
+    }
+  },
+  {
+    "id": "0096619032938",
+    "name": "Organic Raw & Unfiltered Honey",
+    "brand": "Kirkland Signature",
+    "image": "https://images.openfoodfacts.org/images/products/009/661/903/2938/front_en.50.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 800,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 81,
+      "sugars_100g": 76.2,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "0055828910017",
+    "name": "Organic Honey",
+    "brand": "Naturoney",
+    "image": "https://images.openfoodfacts.org/images/products/005/582/891/0017/front_en.50.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1260,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 85,
+      "sugars_100g": 80,
+      "fat_100g": 0,
+      "saturated_fat_100g": null,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3564700814628",
+    "name": "Oeufs frais plein air Oméga3 x 12",
+    "brand": "Marque Repère, Oeufs de Nos Régions",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/081/4628/front_fr.73.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:fresh-eggs",
+      "en:variable-size-eggs-by-batch"
+    ],
+    "nutrition": {
+      "energy_100g": 584,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 9.8,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 0,
+      "salt_100g": 0.3
+    }
+  },
+  {
+    "id": "3564700462942",
+    "name": "Miel squeezer",
+    "brand": "Marque Repère, Nid d'Abeille",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/046/2942/front_fr.38.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1360,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000119004475",
+    "name": "Tesco Pure Clear Honey 454G",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/500/011/900/4475/front_en.6.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1390,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81,
+      "sugars_100g": 81,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "4056489710066",
+    "name": "Runny Honey",
+    "brand": "lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/971/0066/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1500,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 88,
+      "sugars_100g": 79.7,
+      "fat_100g": 0.6,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": null,
+      "salt_100g": 0.04
+    }
+  },
+  {
+    "id": "3088540404264",
+    "name": "Miel de fleurs",
+    "brand": "Lune de Miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/040/4264/front_fr.55.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "20057237",
+    "name": "Œufs",
+    "brand": "Plein Air",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/005/7237/front_fr.60.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:variable-size-eggs-by-batch"
+    ],
+    "nutrition": {
+      "energy_100g": 584,
+      "proteins_100g": 12.7,
+      "carbohydrates_100g": 0.27,
+      "sugars_100g": 0.27,
+      "fat_100g": 9.83,
+      "saturated_fat_100g": 2.64,
+      "fiber_100g": 0,
+      "salt_100g": 0.31
+    }
+  },
+  {
+    "id": "3250392877996",
+    "name": "Miel de France crémeux",
+    "brand": "Merci!",
+    "image": "https://images.openfoodfacts.org/images/products/325/039/287/7996/front_fr.46.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:honeys-from-france",
+      "fr:miels-cremeux"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5011273040209",
+    "name": "Organic honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/304/0209/front_en.24.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1398,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "3088540374307",
+    "name": "Miel de fleurs",
+    "brand": "Lune de Miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/037/4307/front_en.55.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:honey-based-preparations"
+    ],
+    "nutrition": {
+      "energy_100g": 1360,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": 0.001,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "4056489307020",
+    "name": "Clear Honey",
+    "brand": "Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/930/7020/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:clear-honey"
+    ],
+    "nutrition": {
+      "energy_100g": 1524,
+      "proteins_100g": 0.1,
+      "carbohydrates_100g": 88,
+      "sugars_100g": 79.7,
+      "fat_100g": 0.6,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.04
+    }
+  },
+  {
+    "id": "3088540002262",
+    "name": "Miel l'apiculteur",
+    "brand": "L'Apiculteur, Yves Michaud",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/000/2262/front_fr.30.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1339,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5011273040650",
+    "name": "Honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/304/0650/front_en.11.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1377,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4088600233307",
+    "name": "Clear Honey",
+    "brand": "Aldi",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/023/3307/front_en.9.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1280,
+      "proteins_100g": 0.667,
+      "carbohydrates_100g": 76.7,
+      "sugars_100g": 76.7,
+      "fat_100g": 0,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3088540504261",
+    "name": "Miel de fleurs liquide",
+    "brand": "Lune de Miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/050/4261/front_fr.31.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1272,
+      "proteins_100g": 0.3,
+      "carbohydrates_100g": 82,
+      "sugars_100g": 82,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "4088600170633",
+    "name": "BRITISH FREE RANGE 12 LARGE EGGS",
+    "brand": "MEREVALE",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/017/0633/front_en.3.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:british-free-range-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 548,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 9,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.383
+    }
+  },
+  {
+    "id": "20057251",
+    "name": "Stéphanie eleveur",
+    "brand": "Oeufs de  france",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/005/7251/front_fr.60.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:fresh-eggs",
+      "en:variable-size-eggs-by-batch"
+    ],
+    "nutrition": {
+      "energy_100g": 584,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 9.8,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 0,
+      "salt_100g": 0.31
+    }
+  },
+  {
+    "id": "3245412846991",
+    "name": "Oeufs de poules élevées en plein air* *Conformément au mode de production biologique Catégorie A",
+    "brand": "Carrefour BIO, Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/324/541/284/6991/front_fr.146.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:fresh-eggs",
+      "fr:labeled-eggs",
+      "fr:labeled-products",
+      "fr:oeufs-biologiques"
+    ],
+    "nutrition": {
+      "energy_100g": 584,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 9.8,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 0,
+      "salt_100g": 0.31
+    }
+  },
+  {
+    "id": "3564707000239",
+    "name": "Œufs bio x6",
+    "brand": "Bio Village, Marque Repère",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/700/0239/front_fr.113.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 293,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5018374888303",
+    "name": "Large free range eggs",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/501/837/488/8303/front_en.22.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 548,
+      "proteins_100g": 12.6,
+      "carbohydrates_100g": 0.1,
+      "sugars_100g": 0.1,
+      "fat_100g": 9,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 0,
+      "salt_100g": 0.3825
+    }
+  },
+  {
+    "id": "00819268",
+    "name": "Pure Honey",
+    "brand": "Simply M&S,Marks & Spencer",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/081/9268/front_en.14.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1370,
+      "proteins_100g": 0.05,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.2,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.25,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "5057545952931",
+    "name": "Clear Honey",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/754/595/2931/front_en.4.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1385,
+      "proteins_100g": 0.3,
+      "carbohydrates_100g": 82.4,
+      "sugars_100g": 82.4,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "20436568",
+    "name": "Clear Honey",
+    "brand": "Highgate Fayre, Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/043/6568/front_en.44.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1524,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 82,
+      "sugars_100g": 81,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0.5,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "01217155",
+    "name": "6 British Free Range Eggs",
+    "brand": "Sainsbury",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/121/7155/front_en.27.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 598,
+      "proteins_100g": 14.1,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 9.6,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "8906021927697",
+    "name": "Pure Honey Ani3ma",
+    "brand": "ne3ma",
+    "image": "https://images.openfoodfacts.org/images/products/890/602/192/7697/front_fr.8.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "fr:pure-honey"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3564707108089",
+    "name": "Bio village - Miel de Fleurs",
+    "brand": "Bio Village, Marque Repère",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/710/8089/front_fr.40.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1360,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "3088541012697",
+    "name": "Miel",
+    "brand": "Lune de Miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/101/2697/front_fr.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1339,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": 0,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "3270190205685",
+    "name": "12 OEUFS FRAIS de poules élevées en plein air",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/327/019/020/5685/front_fr.154.400.jpg",
+    "nutriscore": "A",
+    "nova_group": null,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 602,
+      "proteins_100g": 12,
+      "carbohydrates_100g": 0.7,
+      "sugars_100g": 0.7,
+      "fat_100g": 10,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": null,
+      "salt_100g": 0.33
+    }
+  },
+  {
+    "id": "3560070672707",
+    "name": "Miel de fleurs liquide",
+    "brand": "Carrefour BIO,Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/356/007/067/2707/front_fr.55.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3088541002469",
+    "name": "Miel de France",
+    "brand": "Famille MICHAUD",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/100/2469/front_fr.31.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:honeys-from-france"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3560070220731",
+    "name": "Miel de fleurs",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/356/007/022/0731/front_fr.50.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "4088600382166",
+    "name": "Clear Honey",
+    "brand": "Grandessa",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/038/2166/front_en.8.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1284,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 76,
+      "sugars_100g": 76,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "3088540202662",
+    "name": "Miel l'Apiculteur Montagne",
+    "brand": "Miel l'Apiculteur",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/020/2662/front_fr.26.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:mountain-products",
+      "en:flower-honeys",
+      "en:honeys-from-the-mountains"
+    ],
+    "nutrition": {
+      "energy_100g": 1264,
+      "proteins_100g": 0.38,
+      "carbohydrates_100g": 75.1,
+      "sugars_100g": 75.1,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4088600231907",
+    "name": "British Freerange 12 Medium Eggs",
+    "brand": "Werevale",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/023/1907/front_en.40.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:fresh-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 559,
+      "proteins_100g": 12.7,
+      "carbohydrates_100g": 0.98,
+      "sugars_100g": 0.98,
+      "fat_100g": 9.02,
+      "saturated_fat_100g": 2.55,
+      "fiber_100g": 0.98,
+      "salt_100g": 0.387
+    }
+  },
+  {
+    "id": "3270190021179",
+    "name": "Oeufs frais BIO",
+    "brand": "Carrefour BIO, Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/327/019/002/1179/front_fr.168.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:fresh-eggs",
+      "en:variable-size-eggs-by-batch",
+      "fr:oeufs-labellises-biologiques"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5052320423460",
+    "name": "Organic 6 Mixed Sizes Free Range Eggs",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/232/042/3460/front_en.8.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 548,
+      "proteins_100g": 12.6,
+      "carbohydrates_100g": 0.1,
+      "sugars_100g": 0.1,
+      "fat_100g": 9,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 0,
+      "salt_100g": 0.39
+    }
+  },
+  {
+    "id": "20068066",
+    "name": "Blüten Honig",
+    "brand": "Norma, toque du chef",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/006/8066/front_en.133.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flussiger-honig",
+      "en:susse-brotaufstriche"
+    ],
+    "nutrition": {
+      "energy_100g": 1585,
+      "proteins_100g": 4.6,
+      "carbohydrates_100g": 38,
+      "sugars_100g": 2.2,
+      "fat_100g": 23,
+      "saturated_fat_100g": 12,
+      "fiber_100g": null,
+      "salt_100g": 0.96
+    }
+  },
+  {
+    "id": "3088541001417",
+    "name": "Miel de fleurs",
+    "brand": "Famille Michaud",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/100/1417/front_fr.4.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1339,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 80,
+      "sugars_100g": 80,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": null,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "00369626",
+    "name": "Clear Honey",
+    "brand": "By Sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/036/9626/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1377,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "5011273024759",
+    "name": "Rowse organic honey",
+    "brand": "Rowse",
+    "image": "https://images.openfoodfacts.org/images/products/501/127/302/4759/front_en.12.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1380,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.025
+    }
+  },
+  {
+    "id": "3088542004264",
+    "name": "Lait de nos fermes",
+    "brand": "Lune de Miel",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/200/4264/front_fr.42.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 3,
+    "categories": [
+      "en:dairies",
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honey-based-preparations",
+      "en:honey-and-royal-jelly-mixtures"
+    ],
+    "nutrition": {
+      "energy_100g": 1360,
+      "proteins_100g": 0.7,
+      "carbohydrates_100g": 82,
+      "sugars_100g": 64,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "01454437",
+    "name": "12 free range British eggs",
+    "brand": "Sainsbury's,by sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/145/4437/front_en.21.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 598,
+      "proteins_100g": 14.1,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0,
+      "fat_100g": 9.6,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": 0,
+      "salt_100g": 0.3725
+    }
+  },
+  {
+    "id": "01292619",
+    "name": "Clear Honey",
+    "brand": "Sainsbury’s",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/129/2619/front_en.17.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1377,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81.5,
+      "sugars_100g": 80.8,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "6111270420017",
+    "name": "Miel d'Eucalyptus",
+    "brand": "Al janoub",
+    "image": "https://images.openfoodfacts.org/images/products/611/127/042/0017/front_en.6.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:eucalyptus-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1279,
+      "proteins_100g": 0.47,
+      "carbohydrates_100g": 81,
+      "sugars_100g": null,
+      "fat_100g": 0.04,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3564707082303",
+    "name": "Miel liquide",
+    "brand": "Bio Village, Marque Repère",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/708/2303/front_fr.40.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "en:liquid-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "20171742",
+    "name": "Cretan Blossom Honey",
+    "brand": "eridanous",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/017/1742/front_en.62.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 6720,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 81,
+      "sugars_100g": 76.2,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "2006050035649",
+    "name": "Miel de Fleurs",
+    "brand": "TAMARA",
+    "image": "https://images.openfoodfacts.org/images/products/200/605/003/5649/front_fr.5.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "01217117",
+    "name": "6 Free Range British Eggs Large",
+    "brand": "Sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/121/7117/front_en.25.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs"
+    ],
+    "nutrition": {
+      "energy_100g": 595,
+      "proteins_100g": 14.1,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 9.6,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": 0.5,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5010251450252",
+    "name": "Pure Clear Honey",
+    "brand": "Morrisons",
+    "image": "https://images.openfoodfacts.org/images/products/501/025/145/0252/front_en.14.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1306,
+      "proteins_100g": 0.4,
+      "carbohydrates_100g": 76.4,
+      "sugars_100g": 76.4,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3251320080617",
+    "name": "6 oeufs fermiers label rouge de",
+    "brand": "Fermiers de Loué, LOUÉ",
+    "image": "https://images.openfoodfacts.org/images/products/325/132/008/0617/front_fr.111.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "fr:oeufs-fermiers-label-rouge"
+    ],
+    "nutrition": {
+      "energy_100g": 584,
+      "proteins_100g": 12.7,
+      "carbohydrates_100g": 0.3,
+      "sugars_100g": 0.3,
+      "fat_100g": 9.8,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 0,
+      "salt_100g": 0.3
+    }
+  },
+  {
+    "id": "8434164562890",
+    "name": "Miel de Flores",
+    "brand": "Granja san francisco",
+    "image": "https://images.openfoodfacts.org/images/products/843/416/456/2890/front_en.4.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "20001056",
+    "name": "Miel crémeux",
+    "brand": "Maribel",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/000/1056/front_fr.50.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys",
+      "fr:miels-cremeux"
+    ],
+    "nutrition": {
+      "energy_100g": 1264,
+      "proteins_100g": 0.4,
+      "carbohydrates_100g": 75.1,
+      "sugars_100g": 75.1,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.1,
+      "salt_100g": 2.5e-05
+    }
+  },
+  {
+    "id": "3256220269377",
+    "name": "Oeufs Plein air Bleu Blanc Coeur - Boîte de 10",
+    "brand": "U Bio,U",
+    "image": "https://images.openfoodfacts.org/images/products/325/622/026/9377/front_fr.69.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:variable-size-eggs-by-batch",
+      "fr:oeufs-biologiques",
+      "fr:oeufs-labellises",
+      "fr:produits-labellises"
+    ],
+    "nutrition": {
+      "energy_100g": 584,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 9.8,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 0,
+      "salt_100g": 0.31
+    }
+  },
+  {
+    "id": "20460815",
+    "name": "Salatbox Hähnchenbrust (Penny DE)/ Miel de Flores (Lidl ES)",
+    "brand": "Maribel,Penny Ready",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/046/0815/front_de.140.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:breakfasts",
+      "en:meals",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:prepared-salads",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 460,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 5.5,
+      "sugars_100g": 3.9,
+      "fat_100g": 7.9,
+      "saturated_fat_100g": 0.8,
+      "fiber_100g": 1.4,
+      "salt_100g": 0.7175
+    }
+  },
+  {
+    "id": "3445735810697",
+    "name": "Miel d’acacia",
+    "brand": "DACACLA",
+    "image": "https://images.openfoodfacts.org/images/products/344/573/581/0697/front_fr.14.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:acacia-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3088540202617",
+    "name": "Miel acacia de France",
+    "brand": "Miel l'Apiculteur",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/020/2617/front_fr.18.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:honeys-from-france",
+      "en:acacia-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1322,
+      "proteins_100g": 0.4,
+      "carbohydrates_100g": 78.6,
+      "sugars_100g": 78.6,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "20057152",
+    "name": "Œufs frais",
+    "brand": "LIDL",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/005/7152/front_fr.60.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:farming-products",
+      "en:eggs",
+      "en:chicken-eggs",
+      "en:free-range-chicken-eggs",
+      "en:fresh-eggs",
+      "en:variable-size-eggs-by-batch"
+    ],
+    "nutrition": {
+      "energy_100g": 586,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 9.8,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 0,
+      "salt_100g": 0.305
+    }
+  },
+  {
+    "id": "3088541003145",
+    "name": "Miel bio de fleurs",
+    "brand": "Famille Michaud",
+    "image": "https://images.openfoodfacts.org/images/products/308/854/100/3145/front_fr.35.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys",
+      "en:flower-honeys"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5054781025115",
+    "name": "Honey",
+    "brand": "Asda",
+    "image": "https://images.openfoodfacts.org/images/products/505/478/102/5115/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1450,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 84,
+      "sugars_100g": 82,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5051140109882",
+    "name": "Tesco Organic Squeezy Clear Honey",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/114/010/9882/front_fr.11.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:breakfasts",
+      "en:spreads",
+      "en:sweet-spreads",
+      "en:bee-products",
+      "en:farming-products",
+      "en:sweeteners",
+      "en:honeys"
+    ],
+    "nutrition": {
+      "energy_100g": 1364,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 81,
+      "sugars_100g": 81,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": null,
+      "salt_100g": 0.1
+    }
+  }
+]

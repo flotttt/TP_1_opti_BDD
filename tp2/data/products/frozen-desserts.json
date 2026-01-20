@@ -1,0 +1,5313 @@
+[
+  {
+    "id": "3415581101928",
+    "name": "Vanilla Ice Cream",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/110/1928/front_en.27.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1050,
+      "proteins_100g": 4.3,
+      "carbohydrates_100g": 20,
+      "sugars_100g": 18.8,
+      "fat_100g": 17,
+      "saturated_fat_100g": 10.4,
+      "fiber_100g": 0,
+      "salt_100g": 0.16
+    }
+  },
+  {
+    "id": "6111255771196",
+    "name": "Noisetta",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/125/577/1196/front_en.11.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 2268,
+      "proteins_100g": 3.1,
+      "carbohydrates_100g": 58.4,
+      "sugars_100g": 57.3,
+      "fat_100g": 32.9,
+      "saturated_fat_100g": 7.3,
+      "fiber_100g": null,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "6111243860413",
+    "name": "Ice Pulpe Orange 1.5cl",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/124/386/0413/front_fr.11.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:plant-based-beverages",
+      "en:carbonated-drinks",
+      "en:frozen-desserts",
+      "en:fruit-based-beverages",
+      "en:ice-creams-and-sorbets",
+      "en:sodas",
+      "en:fruit-sodas"
+    ],
+    "nutrition": {
+      "energy_100g": 167,
+      "proteins_100g": 0.03,
+      "carbohydrates_100g": 9.7,
+      "sugars_100g": 4,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 5.48999975
+    }
+  },
+  {
+    "id": "5012262004011",
+    "name": "Traditional Dairy Ice Cream",
+    "brand": "Mackie's of Scotland",
+    "image": "https://images.openfoodfacts.org/images/products/501/226/200/4011/front_en.14.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 770,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 19.2,
+      "sugars_100g": 18.2,
+      "fat_100g": 10.3,
+      "saturated_fat_100g": 6.4,
+      "fiber_100g": null,
+      "salt_100g": 0.1675
+    }
+  },
+  {
+    "id": "8711327373105",
+    "name": "Ванилов сладолед с парчета бисквити с шоколадов чипс и шоколадови парчета",
+    "brand": "Ben & Jerry's, Unilever norge",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/737/3105/front_en.236.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup"
+    ],
+    "nutrition": {
+      "energy_100g": 1145,
+      "proteins_100g": 4.1,
+      "carbohydrates_100g": 31,
+      "sugars_100g": 25,
+      "fat_100g": 15,
+      "saturated_fat_100g": 9.2,
+      "fiber_100g": 0.4,
+      "salt_100g": 0.17
+    }
+  },
+  {
+    "id": "8000500425183",
+    "name": "Glace au Nutella",
+    "brand": "Nutella",
+    "image": "https://images.openfoodfacts.org/images/products/800/050/042/5183/front_en.70.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1439,
+      "proteins_100g": 4.1,
+      "carbohydrates_100g": 29.8,
+      "sugars_100g": 29,
+      "fat_100g": 23,
+      "saturated_fat_100g": 9.7,
+      "fiber_100g": null,
+      "salt_100g": 0.1125
+    }
+  },
+  {
+    "id": "8711327615380",
+    "name": "Carte D'Or Les Essentiels Glace Crème Glacée Vanille 700ml",
+    "brand": "Carte D'or, Les Essentiels",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/761/5380/front_fr.92.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 402,
+      "proteins_100g": 1.2,
+      "carbohydrates_100g": 13,
+      "sugars_100g": 9.1,
+      "fat_100g": 4.4,
+      "saturated_fat_100g": 2.9,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.06
+    }
+  },
+  {
+    "id": "8714100590430",
+    "name": "Swedish Glace dairy-free smooth Vanilla",
+    "brand": "miko, wall-s",
+    "image": "https://images.openfoodfacts.org/images/products/871/410/059/0430/front_en.43.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 733,
+      "proteins_100g": 1,
+      "carbohydrates_100g": 29,
+      "sugars_100g": 22,
+      "fat_100g": 5.8,
+      "saturated_fat_100g": 4.9,
+      "fiber_100g": null,
+      "salt_100g": 0.11
+    }
+  },
+  {
+    "id": "8711327370708",
+    "name": "Chocolate Fudge Brownie",
+    "brand": "Ben & Jerry's,Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/737/0708/front_en.161.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:chocolate-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 914,
+      "proteins_100g": 3.7,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 23,
+      "fat_100g": 11,
+      "saturated_fat_100g": 6.8,
+      "fiber_100g": 1.74,
+      "salt_100g": 0.2
+    }
+  },
+  {
+    "id": "5010238020355",
+    "name": "Clotted Cream Ice Cream",
+    "brand": "Kelly’s",
+    "image": "https://images.openfoodfacts.org/images/products/501/023/802/0355/front_en.8.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:ice-cream-in-a-box"
+    ],
+    "nutrition": {
+      "energy_100g": 959,
+      "proteins_100g": 3.1,
+      "carbohydrates_100g": 21,
+      "sugars_100g": 17.3,
+      "fat_100g": 15,
+      "saturated_fat_100g": 9.5,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "8711327529793",
+    "name": "Magadascan Vanilla",
+    "brand": "Carte D'Or",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/752/9793/front_en.30.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 781,
+      "proteins_100g": 2.12,
+      "carbohydrates_100g": 26.9,
+      "sugars_100g": 18.8,
+      "fat_100g": 7.5,
+      "saturated_fat_100g": 6.73,
+      "fiber_100g": 0.962,
+      "salt_100g": 0.0769
+    }
+  },
+  {
+    "id": "5027324001839",
+    "name": "Passionfruit & Mango Mochi Ice Cream",
+    "brand": "Little Moons",
+    "image": "https://images.openfoodfacts.org/images/products/502/732/400/1839/front_en.75.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:mochi-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 1010,
+      "proteins_100g": 1.56,
+      "carbohydrates_100g": 37.5,
+      "sugars_100g": 21.9,
+      "fat_100g": 9.38,
+      "saturated_fat_100g": 7.81,
+      "fiber_100g": null,
+      "salt_100g": 0.312
+    }
+  },
+  {
+    "id": "00393645",
+    "name": "Taste the Difference vanilla ice cream",
+    "brand": "Taste the difference,Sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/039/3645/front_en.34.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 924,
+      "proteins_100g": 3.97,
+      "carbohydrates_100g": 19.3,
+      "sugars_100g": 17.5,
+      "fat_100g": 14.4,
+      "saturated_fat_100g": 10.6,
+      "fiber_100g": 1.32,
+      "salt_100g": 0.143
+    }
+  },
+  {
+    "id": "4056489223368",
+    "name": "Eis Mandel",
+    "brand": "Bon Gelati, Lidl, Lidl Bon Gelati",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/922/3368/front_en.42.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate-and-almonds"
+    ],
+    "nutrition": {
+      "energy_100g": 1446,
+      "proteins_100g": 5.6,
+      "carbohydrates_100g": 29.7,
+      "sugars_100g": 26.9,
+      "fat_100g": 22.5,
+      "saturated_fat_100g": 13.7,
+      "fiber_100g": 1.5,
+      "salt_100g": 0.08
+    }
+  },
+  {
+    "id": "5000169595336",
+    "name": "Organic Vanilla Ice Cream",
+    "brand": "Waitrose",
+    "image": "https://images.openfoodfacts.org/images/products/500/016/959/5336/front_en.14.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 833,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 17.8,
+      "sugars_100g": 17.8,
+      "fat_100g": 12.3,
+      "saturated_fat_100g": 8.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.13
+    }
+  },
+  {
+    "id": "3415581105926",
+    "name": "Strawberries & Cream Ice Cream",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/110/5926/front_en.14.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1000,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 21.9,
+      "sugars_100g": 21.8,
+      "fat_100g": 15,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.15
+    }
+  },
+  {
+    "id": "8711327608665",
+    "name": "Glaces Amande",
+    "brand": "MAGNUM",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/8665/front_fr.25.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate-and-almonds"
+    ],
+    "nutrition": {
+      "energy_100g": 1389,
+      "proteins_100g": 4.6,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 28,
+      "fat_100g": 20,
+      "saturated_fat_100g": 13,
+      "fiber_100g": null,
+      "salt_100g": 0.14
+    }
+  },
+  {
+    "id": "3251510550005",
+    "name": "Oasis sorbet Tropical",
+    "brand": "Oasis",
+    "image": "https://images.openfoodfacts.org/images/products/325/151/055/0005/front_fr.69.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:ice-pops",
+      "en:multifruit-sorbets",
+      "fr:sucettes-glacees"
+    ],
+    "nutrition": {
+      "energy_100g": 473,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 27.9,
+      "sugars_100g": 24,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.3,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "4056489977681",
+    "name": "Deluxe Madagascar Vanilla Ice Cream",
+    "brand": "Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/997/7681/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1042,
+      "proteins_100g": 4.3,
+      "carbohydrates_100g": 19.9,
+      "sugars_100g": 19.9,
+      "fat_100g": 16.9,
+      "saturated_fat_100g": 10.9,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.1175
+    }
+  },
+  {
+    "id": "3415581114928",
+    "name": "Salted Caramel Ice Cream",
+    "brand": "Haagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/111/4928/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1092,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 28.1,
+      "sugars_100g": 21.5,
+      "fat_100g": 14.7,
+      "saturated_fat_100g": 9.5,
+      "fiber_100g": null,
+      "salt_100g": 0.49025
+    }
+  },
+  {
+    "id": "3415581113921",
+    "name": "Belgian Chocolate Ice Cream",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/111/3921/front_en.24.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:chocolate-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1310,
+      "proteins_100g": 4.5,
+      "carbohydrates_100g": 26.3,
+      "sugars_100g": 24.4,
+      "fat_100g": 20,
+      "saturated_fat_100g": 12.7,
+      "fiber_100g": 2.2,
+      "salt_100g": 0.1275
+    }
+  },
+  {
+    "id": "5036589250838",
+    "name": "Vanilla Ice Cream",
+    "brand": "Yeo Valley",
+    "image": "https://images.openfoodfacts.org/images/products/503/658/925/0838/front_en.26.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 599,
+      "proteins_100g": 2.9,
+      "carbohydrates_100g": 11.9,
+      "sugars_100g": 11.9,
+      "fat_100g": 9.3,
+      "saturated_fat_100g": 5.7,
+      "fiber_100g": null,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "4056489223351",
+    "name": "Mini Mix Classic",
+    "brand": "BON Gelati,Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/922/3351/front_de.44.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1427,
+      "proteins_100g": 4.2,
+      "carbohydrates_100g": 30.6,
+      "sugars_100g": 27.6,
+      "fat_100g": 22.1,
+      "saturated_fat_100g": 15.1,
+      "fiber_100g": 1.6,
+      "salt_100g": 0.07
+    }
+  },
+  {
+    "id": "3415581176025",
+    "name": "Strawberry Cheesecake Ice Cream",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/117/6025/front_en.5.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1059,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 28.8,
+      "sugars_100g": 25.7,
+      "fat_100g": 13.6,
+      "saturated_fat_100g": 9.3,
+      "fiber_100g": 0.4,
+      "salt_100g": 0.7875
+    }
+  },
+  {
+    "id": "8711327371002",
+    "name": "Ben&Jerry's Half Baked 465ml",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/737/1002/front_en.58.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:dairies",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup"
+    ],
+    "nutrition": {
+      "energy_100g": 967,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 28,
+      "sugars_100g": 23,
+      "fat_100g": 12,
+      "saturated_fat_100g": 7.1,
+      "fiber_100g": 1.3,
+      "salt_100g": 0.18
+    }
+  },
+  {
+    "id": "8000920200025",
+    "name": "Viennetta Vanille",
+    "brand": "Miko,Unilever,Viennetta,Frigo",
+    "image": "https://images.openfoodfacts.org/images/products/800/092/020/0025/front_en.33.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 487,
+      "proteins_100g": 1,
+      "carbohydrates_100g": 13,
+      "sugars_100g": 9.6,
+      "fat_100g": 6.6,
+      "saturated_fat_100g": 5.8,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.04
+    }
+  },
+  {
+    "id": "3415581101010",
+    "name": "Vanilla",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/110/1010/front_en.17.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs",
+      "de:vanilleeis"
+    ],
+    "nutrition": {
+      "energy_100g": 1041,
+      "proteins_100g": 4.3,
+      "carbohydrates_100g": 19.9,
+      "sugars_100g": 19.9,
+      "fat_100g": 16.9,
+      "saturated_fat_100g": 11.3,
+      "fiber_100g": 0,
+      "salt_100g": 0.16
+    }
+  },
+  {
+    "id": "7613034975386",
+    "name": "Extrême original - vanille pépites de nougatine",
+    "brand": "Nestlé",
+    "image": "https://images.openfoodfacts.org/images/products/761/303/497/5386/front_fr.75.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-cones",
+      "fr:creme-glace"
+    ],
+    "nutrition": {
+      "energy_100g": 1238,
+      "proteins_100g": 3.4,
+      "carbohydrates_100g": 38.9,
+      "sugars_100g": 29,
+      "fat_100g": 14,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0.9,
+      "salt_100g": 0.1275
+    }
+  },
+  {
+    "id": "8480000864819",
+    "name": "Helado proteínas plátano brownie",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/086/4819/front_es.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 615,
+      "proteins_100g": 9.3,
+      "carbohydrates_100g": 17,
+      "sugars_100g": 10,
+      "fat_100g": 4.8,
+      "saturated_fat_100g": 3.4,
+      "fiber_100g": null,
+      "salt_100g": 0.2
+    }
+  },
+  {
+    "id": "3608580005469",
+    "name": "2 Crème Brûlée",
+    "brand": "Bonne Maman",
+    "image": "https://images.openfoodfacts.org/images/products/360/858/000/5469/front_fr.11.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:dairies",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:creme-brulee"
+    ],
+    "nutrition": {
+      "energy_100g": 989,
+      "proteins_100g": 4.5,
+      "carbohydrates_100g": 21,
+      "sugars_100g": 21,
+      "fat_100g": 15,
+      "saturated_fat_100g": 8.5,
+      "fiber_100g": 0,
+      "salt_100g": 0.11
+    }
+  },
+  {
+    "id": "5900130030630",
+    "name": "Salted caramel & Australian macadamia",
+    "brand": "Nestlé, Froneri, Nuii",
+    "image": "https://images.openfoodfacts.org/images/products/590/013/003/0630/front_en.53.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1503,
+      "proteins_100g": 3.8,
+      "carbohydrates_100g": 38,
+      "sugars_100g": 30,
+      "fat_100g": 21,
+      "saturated_fat_100g": 12,
+      "fiber_100g": 0.8,
+      "salt_100g": 0.28
+    }
+  },
+  {
+    "id": "3760039982056",
+    "name": "Crème glacée Vanille gousses entières de Madagascar 450G/750ml",
+    "brand": "L'Angélys",
+    "image": "https://images.openfoodfacts.org/images/products/376/003/998/2056/front_fr.86.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 721,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 18,
+      "fat_100g": 10,
+      "saturated_fat_100g": 5.9,
+      "fiber_100g": null,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "5060081113735",
+    "name": "Vanilla Clotted Ice Cream",
+    "brand": "Jude's",
+    "image": "https://images.openfoodfacts.org/images/products/506/008/111/3735/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 619,
+      "proteins_100g": 2.9,
+      "carbohydrates_100g": 12.7,
+      "sugars_100g": 12.6,
+      "fat_100g": 9.3,
+      "saturated_fat_100g": 5.7,
+      "fiber_100g": null,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "8711327611924",
+    "name": "Magnum Mini Almond",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/761/1924/front_de.40.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate-and-almonds"
+    ],
+    "nutrition": {
+      "energy_100g": 1435,
+      "proteins_100g": 4.8,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 29,
+      "fat_100g": 21,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.14
+    }
+  },
+  {
+    "id": "12131900",
+    "name": "Glace Macadamia Nut Brittle",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/213/1900/front_fr.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:desserts-glaces",
+      "en:surgeles"
+    ],
+    "nutrition": {
+      "energy_100g": 1146,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 25.3,
+      "sugars_100g": 24.2,
+      "fat_100g": 17.3,
+      "saturated_fat_100g": 10.6,
+      "fiber_100g": null,
+      "salt_100g": 0.16
+    }
+  },
+  {
+    "id": "8712100889288",
+    "name": "Solero Batonnet Glace Parfum Exotic 3x90ml",
+    "brand": "Ola,Solero,unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/210/088/9288/front_en.31.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-fruit-sorbet"
+    ],
+    "nutrition": {
+      "energy_100g": 453,
+      "proteins_100g": 1.3,
+      "carbohydrates_100g": 20,
+      "sugars_100g": 19,
+      "fat_100g": 2.3,
+      "saturated_fat_100g": 2.1,
+      "fiber_100g": 1.5,
+      "salt_100g": 0.06
+    }
+  },
+  {
+    "id": "8711327609648",
+    "name": "Magnum Glace Bâtonnet Amande 8x100ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/9648/front_fr.6.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate-and-almonds"
+    ],
+    "nutrition": {
+      "energy_100g": 1389,
+      "proteins_100g": 4.6,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 28,
+      "fat_100g": 20,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 1.1,
+      "salt_100g": 0.14
+    }
+  },
+  {
+    "id": "8711327606234",
+    "name": "Magnum Glace Bâtonnet Vanille & Chocolat Classic 4x100ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/6234/front_fr.48.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 965,
+      "proteins_100g": 2.5,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 20,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.8,
+      "fiber_100g": null,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "6111126005597",
+    "name": "le gourmanf",
+    "brand": "الشرگي",
+    "image": "https://images.openfoodfacts.org/images/products/611/112/600/5597/front_en.3.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:frozen-foods",
+      "en:fermented-dairy-desserts",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:yogurts",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 628,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": 23412.83,
+      "fat_100g": 5,
+      "saturated_fat_100g": 2.29,
+      "fiber_100g": null,
+      "salt_100g": 0.34
+    }
+  },
+  {
+    "id": "8711327609082",
+    "name": "Magnum Glace Bâtonnet Mini Classique, Amande & Chocolat Blanc 6x55ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/9082/front_en.77.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1033,
+      "proteins_100g": 2.6,
+      "carbohydrates_100g": 24,
+      "sugars_100g": 21,
+      "fat_100g": 15,
+      "saturated_fat_100g": 11,
+      "fiber_100g": null,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "3415581122015",
+    "name": "Macadamia Nut Brittle",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/112/2015/front_fr.56.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1105,
+      "proteins_100g": 3.9,
+      "carbohydrates_100g": 25.1,
+      "sugars_100g": 25,
+      "fat_100g": 16.4,
+      "saturated_fat_100g": 10.7,
+      "fiber_100g": 0.1,
+      "salt_100g": 0.22
+    }
+  },
+  {
+    "id": "8711327374515",
+    "name": "Ben & Jerry's Glace en Pot Peanut Butter Cup 465ml",
+    "brand": "Ben & Jerry's,Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/737/4515/front_en.99.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:luxury-ice-cream-in-a-cup",
+      "fr:glace-au-beurre-de-cacahuetes"
+    ],
+    "nutrition": {
+      "energy_100g": 1182,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 21,
+      "fat_100g": 19,
+      "saturated_fat_100g": 11,
+      "fiber_100g": 1.2,
+      "salt_100g": 0.4
+    }
+  },
+  {
+    "id": "3270160864294",
+    "name": "Mochi glace",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/086/4294/front_fr.28.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:mochi-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 879,
+      "proteins_100g": 0.6,
+      "carbohydrates_100g": 40,
+      "sugars_100g": 24,
+      "fat_100g": 5.3,
+      "saturated_fat_100g": 3.9,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.17
+    }
+  },
+  {
+    "id": "3415581152920",
+    "name": "Cookies & Cream 460 ml",
+    "brand": "Isdalen AS",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/115/2920/front_en.28.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1096,
+      "proteins_100g": 4.4,
+      "carbohydrates_100g": 24.2,
+      "sugars_100g": 20.8,
+      "fat_100g": 16.3,
+      "saturated_fat_100g": 11.1,
+      "fiber_100g": 0.3,
+      "salt_100g": 0.17
+    }
+  },
+  {
+    "id": "8711327576810",
+    "name": "Twister Mini Pineapple Ananas",
+    "brand": "Unilever,Frigo",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/757/6810/front_de.30.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-pops",
+      "ru:lody-ananasowe"
+    ],
+    "nutrition": {
+      "energy_100g": 418,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 17,
+      "fat_100g": 0.6,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": null,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "5000169263594",
+    "name": "Madagascan Vanilla Ice Cream",
+    "brand": "Waitrose",
+    "image": "https://images.openfoodfacts.org/images/products/500/016/926/3594/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1009,
+      "proteins_100g": 4.2,
+      "carbohydrates_100g": 19.5,
+      "sugars_100g": 19.5,
+      "fat_100g": 16.3,
+      "saturated_fat_100g": 10.9,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.13
+    }
+  },
+  {
+    "id": "5000159541374",
+    "name": "Snickers Ice Cream New Recipe",
+    "brand": "Snickers",
+    "image": "https://images.openfoodfacts.org/images/products/500/015/954/1374/front_en.4.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:frozen-foods",
+      "en:bars",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:frozen-bars",
+      "fr:snickers-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 1570,
+      "proteins_100g": 6.51,
+      "carbohydrates_100g": 37.5,
+      "sugars_100g": 27.6,
+      "fat_100g": 22.1,
+      "saturated_fat_100g": 10.4,
+      "fiber_100g": null,
+      "salt_100g": 0.265
+    }
+  },
+  {
+    "id": "5000159541336",
+    "name": "Snickers Ice Cream x6",
+    "brand": "Snickers",
+    "image": "https://images.openfoodfacts.org/images/products/500/015/954/1336/front_en.52.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries",
+      "en:frozen-desserts",
+      "en:chocolate-candies",
+      "en:ice-creams-and-sorbets",
+      "en:bars",
+      "en:ice-creams",
+      "en:candy-chocolate-bars",
+      "en:frozen-bars",
+      "fr:barres-chocolatees-aux-fruits-oleagineux"
+    ],
+    "nutrition": {
+      "energy_100g": 1420,
+      "proteins_100g": 5.96,
+      "carbohydrates_100g": 33.8,
+      "sugars_100g": 23.8,
+      "fat_100g": 19.9,
+      "saturated_fat_100g": 9.52,
+      "fiber_100g": null,
+      "salt_100g": 0.238
+    }
+  },
+  {
+    "id": "8712566291144",
+    "name": "Soft scoop",
+    "brand": "Wall's",
+    "image": "https://images.openfoodfacts.org/images/products/871/256/629/1144/front_en.5.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 753,
+      "proteins_100g": 1.8,
+      "carbohydrates_100g": 28,
+      "sugars_100g": 17,
+      "fat_100g": 6.3,
+      "saturated_fat_100g": 5.7,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.0875
+    }
+  },
+  {
+    "id": "4056489238614",
+    "name": "Gelatelli Chocolate",
+    "brand": "Gelatelli",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/923/8614/front_en.57.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:chocolate-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 465,
+      "proteins_100g": 8.4,
+      "carbohydrates_100g": 17.3,
+      "sugars_100g": 8.2,
+      "fat_100g": 3,
+      "saturated_fat_100g": 2.1,
+      "fiber_100g": 2.4,
+      "salt_100g": 0.0005
+    }
+  },
+  {
+    "id": "5060469988566",
+    "name": "Gold Standard 100% Whey",
+    "brand": "Optimum Nutrition",
+    "image": "https://images.openfoodfacts.org/images/products/506/046/998/8566/front_en.64.400.jpg",
+    "nutriscore": "NOT-APPLICABLE",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:dietary-supplements",
+      "en:bodybuilding-supplements",
+      "en:protein-powders"
+    ],
+    "nutrition": {
+      "energy_100g": 1670,
+      "proteins_100g": 80,
+      "carbohydrates_100g": 10,
+      "sugars_100g": 3.33,
+      "fat_100g": 3.33,
+      "saturated_fat_100g": 1.67,
+      "fiber_100g": 3.33,
+      "salt_100g": 1.08
+    }
+  },
+  {
+    "id": "8711327576865",
+    "name": "Magnum Glace Bâtonnet Deluxe Chocolat 4x85ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/757/6865/front_fr.38.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1152,
+      "proteins_100g": 3.3,
+      "carbohydrates_100g": 26,
+      "sugars_100g": 24,
+      "fat_100g": 17,
+      "saturated_fat_100g": 12,
+      "fiber_100g": null,
+      "salt_100g": 0.07
+    }
+  },
+  {
+    "id": "3270160840298",
+    "name": "Sorbet Le Cacao",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/084/0298/front_fr.49.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 629,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 26,
+      "sugars_100g": 23,
+      "fat_100g": 2.5,
+      "saturated_fat_100g": 1.6,
+      "fiber_100g": 4,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "3560071016661",
+    "name": "Crème glacée vanille",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/356/007/101/6661/front_fr.63.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:ice-cream-in-a-box",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 770,
+      "proteins_100g": 2,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 21,
+      "fat_100g": 8.4,
+      "saturated_fat_100g": 5.6,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.14
+    }
+  },
+  {
+    "id": "3274664225674",
+    "name": "Glace Vanille Bourbon",
+    "brand": "Nestlé, La Laitière",
+    "image": "https://images.openfoodfacts.org/images/products/327/466/422/5674/front_fr.40.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 772,
+      "proteins_100g": 1.4,
+      "carbohydrates_100g": 31,
+      "sugars_100g": 21,
+      "fat_100g": 6,
+      "saturated_fat_100g": 4,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.14
+    }
+  },
+  {
+    "id": "3415581115017",
+    "name": "Glace vanille pécan",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/111/5017/front_fr.23.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:dairy-substitutes",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-and-pecan-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1102,
+      "proteins_100g": 4.9,
+      "carbohydrates_100g": 19.6,
+      "sugars_100g": 19.5,
+      "fat_100g": 18.3,
+      "saturated_fat_100g": 8.5,
+      "fiber_100g": 0.8,
+      "salt_100g": 0.34
+    }
+  },
+  {
+    "id": "3415581114713",
+    "name": "LIDL EIS Häagen-Dazs Salted Caramel Pint400ml 3.99€ 1l 9,98€",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/111/4713/front_fr.52.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:cremes-glacees-en-pot",
+      "en:desserts-glaces",
+      "en:glaces",
+      "en:glaces-et-sorbets",
+      "en:snacks-sucres",
+      "en:surgeles"
+    ],
+    "nutrition": {
+      "energy_100g": 1182,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 28.1,
+      "sugars_100g": 24.4,
+      "fat_100g": 16.3,
+      "saturated_fat_100g": 10.9,
+      "fiber_100g": 0,
+      "salt_100g": 0.5
+    }
+  },
+  {
+    "id": "12327200",
+    "name": "Favorite selection mini cups",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/232/7200/front_fr.23.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1121,
+      "proteins_100g": 4.3,
+      "carbohydrates_100g": 22.3,
+      "sugars_100g": 20.4,
+      "fat_100g": 16.1,
+      "saturated_fat_100g": 10.8,
+      "fiber_100g": 0.3,
+      "salt_100g": 0.19
+    }
+  },
+  {
+    "id": "8000500406427",
+    "name": "Kinder Chocolate Ice Cream",
+    "brand": "Kinder",
+    "image": "https://images.openfoodfacts.org/images/products/800/050/040/6427/front_fr.54.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 1540,
+      "proteins_100g": 6.1,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 29.7,
+      "fat_100g": 24.2,
+      "saturated_fat_100g": 15.2,
+      "fiber_100g": null,
+      "salt_100g": 0.3
+    }
+  },
+  {
+    "id": "3415581153026",
+    "name": "Häagen Dazs pralines cream",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/115/3026/front_en.17.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1099,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 28.1,
+      "sugars_100g": 27.6,
+      "fat_100g": 14.9,
+      "saturated_fat_100g": 9.1,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.31
+    }
+  },
+  {
+    "id": "5012262004516",
+    "name": "Honeycomb ice cream",
+    "brand": "Mackie's of Scotland",
+    "image": "https://images.openfoodfacts.org/images/products/501/226/200/4516/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 841,
+      "proteins_100g": 3.8,
+      "carbohydrates_100g": 23.8,
+      "sugars_100g": 22,
+      "fat_100g": 10.3,
+      "saturated_fat_100g": 6.4,
+      "fiber_100g": null,
+      "salt_100g": 0.1675
+    }
+  },
+  {
+    "id": "8711327622678",
+    "name": "Magnum vegan chill blueberry cookie",
+    "brand": "Magnum, Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/762/2678/front_fr.5.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1274,
+      "proteins_100g": 1.6,
+      "carbohydrates_100g": 34,
+      "sugars_100g": 26,
+      "fat_100g": 17,
+      "saturated_fat_100g": 11,
+      "fiber_100g": null,
+      "salt_100g": 0.06
+    }
+  },
+  {
+    "id": "8711327626386",
+    "name": "Cookies on Cookie Dough",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/762/6386/front_en.65.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:dairy-substitutes",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:vegan-products",
+      "en:frozen-desserts",
+      "en:non-dairy-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:plant-based-ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 946,
+      "proteins_100g": 1.5,
+      "carbohydrates_100g": 33,
+      "sugars_100g": 19,
+      "fat_100g": 9.4,
+      "saturated_fat_100g": 6.7,
+      "fiber_100g": null,
+      "salt_100g": 0.14
+    }
+  },
+  {
+    "id": "8711327637696",
+    "name": "Cookie Dough",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/763/7696/front_en.32.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1142,
+      "proteins_100g": 4.1,
+      "carbohydrates_100g": 31,
+      "sugars_100g": 25,
+      "fat_100g": 15,
+      "saturated_fat_100g": 9.2,
+      "fiber_100g": null,
+      "salt_100g": 0.1675
+    }
+  },
+  {
+    "id": "40875125",
+    "name": "Premium Bourbon - Dairy ice cream",
+    "brand": "Bon Gelati",
+    "image": "https://images.openfoodfacts.org/images/products/000/004/087/5125/front_en.95.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 889,
+      "proteins_100g": 3,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 19.6,
+      "fat_100g": 12.5,
+      "saturated_fat_100g": 11.4,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "3270160730902",
+    "name": "Le Yaourt",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/073/0902/front_fr.38.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:frozen-yogurts"
+    ],
+    "nutrition": {
+      "energy_100g": 808,
+      "proteins_100g": 4.2,
+      "carbohydrates_100g": 21,
+      "sugars_100g": 15,
+      "fat_100g": 10,
+      "saturated_fat_100g": 7,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.0003
+    }
+  },
+  {
+    "id": "8711327374256",
+    "name": "B&j vanille pecan 465ml",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/737/4256/front_fr.119.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-and-pecan-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 992,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 24,
+      "sugars_100g": 22,
+      "fat_100g": 14,
+      "saturated_fat_100g": 7.9,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.32
+    }
+  },
+  {
+    "id": "5900130034980",
+    "name": "Glaces chocolat blanc et caramel pécan",
+    "brand": "Nuii",
+    "image": "https://images.openfoodfacts.org/images/products/590/013/003/4980/front_en.13.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:specific-products",
+      "en:frozen-desserts",
+      "en:products-for-specific-diets",
+      "en:ice-creams-and-sorbets",
+      "en:products-without-gluten",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-tubs",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "fr:glaces-au-caramel"
+    ],
+    "nutrition": {
+      "energy_100g": 1030,
+      "proteins_100g": 3.4,
+      "carbohydrates_100g": 24,
+      "sugars_100g": 19,
+      "fat_100g": 15,
+      "saturated_fat_100g": 8.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.26
+    }
+  },
+  {
+    "id": "5010693601960",
+    "name": "Juice Orange Ice Lollies",
+    "brand": "Del Monte",
+    "image": "https://images.openfoodfacts.org/images/products/501/069/360/1960/front_en.25.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 1,
+    "categories": [
+      "en:beverages-and-beverages-preparations",
+      "en:plant-based-foods-and-beverages",
+      "en:beverages",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:plant-based-beverages",
+      "en:frozen-desserts",
+      "en:fruit-based-beverages",
+      "en:juices-and-nectars",
+      "en:fruit-juices",
+      "en:ice-pops",
+      "en:100-juice-ice-lollies",
+      "en:frozen-lollies"
+    ],
+    "nutrition": {
+      "energy_100g": 389,
+      "proteins_100g": 1.2,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 20,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0.2,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5012262004028",
+    "name": "Traditional Real Dairy Ice Cream",
+    "brand": "Mackie's of Scotland",
+    "image": "https://images.openfoodfacts.org/images/products/501/226/200/4028/front_es.8.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 770,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 19.3,
+      "sugars_100g": 18.3,
+      "fat_100g": 10.3,
+      "saturated_fat_100g": 6.4,
+      "fiber_100g": null,
+      "salt_100g": 0.35
+    }
+  },
+  {
+    "id": "8000500363539",
+    "name": "Ferrero Rocher classic",
+    "brand": "Ferrero,Ferrero Rocher",
+    "image": "https://images.openfoodfacts.org/images/products/800/050/036/3539/front_en.65.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries",
+      "en:frozen-desserts",
+      "en:chocolate-candies",
+      "en:ice-creams-and-sorbets",
+      "en:bonbons",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 1621,
+      "proteins_100g": 5,
+      "carbohydrates_100g": 28.9,
+      "sugars_100g": 26.2,
+      "fat_100g": 27.8,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0.177
+    }
+  },
+  {
+    "id": "8711327483729",
+    "name": "Magnum double gold caramel billionaire",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/748/3729/front_fr.84.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1161,
+      "proteins_100g": 3.7,
+      "carbohydrates_100g": 33,
+      "sugars_100g": 25,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.7,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.29
+    }
+  },
+  {
+    "id": "12137700",
+    "name": "Vanilla Caramel Brownie",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/213/7700/front_fr.36.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:cremes-glacees-en-pot"
+    ],
+    "nutrition": {
+      "energy_100g": 1117,
+      "proteins_100g": 4.3,
+      "carbohydrates_100g": 26.9,
+      "sugars_100g": 24.8,
+      "fat_100g": 15.7,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0.3,
+      "salt_100g": 0.2
+    }
+  },
+  {
+    "id": "12137000",
+    "name": "Blueberries & cream",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/213/7000/front_fr.18.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 1025,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 20.7,
+      "sugars_100g": 18.5,
+      "fat_100g": 16.1,
+      "saturated_fat_100g": 9.9,
+      "fiber_100g": null,
+      "salt_100g": 0.17
+    }
+  },
+  {
+    "id": "5010238297115",
+    "name": "Fruit Pastilles Lollies",
+    "brand": "Rowntree's",
+    "image": "https://images.openfoodfacts.org/images/products/501/023/829/7115/front_en.29.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:candies",
+      "en:ice-pops"
+    ],
+    "nutrition": {
+      "energy_100g": 350,
+      "proteins_100g": 0.1,
+      "carbohydrates_100g": 20,
+      "sugars_100g": 17.3,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 1,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8711327591011",
+    "name": "Viennetta Dessert Glacé Caramel Salé 7 parts",
+    "brand": "Unilever,Viennetta,Miko",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/759/1011/front_fr.54.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 521,
+      "proteins_100g": 1,
+      "carbohydrates_100g": 13,
+      "sugars_100g": 9.9,
+      "fat_100g": 7.5,
+      "saturated_fat_100g": 6.5,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.17
+    }
+  },
+  {
+    "id": "6111195023423",
+    "name": "Leka Cream",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/119/502/3423/front_en.8.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "8711327615090",
+    "name": "Glace Café Arabica de Colombie",
+    "brand": "Carte D'or, Les Essentiels, Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/761/5090/front_fr.67.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:luxury-ice-cream-in-a-box"
+    ],
+    "nutrition": {
+      "energy_100g": 491,
+      "proteins_100g": 1.7,
+      "carbohydrates_100g": 17,
+      "sugars_100g": 13,
+      "fat_100g": 4.7,
+      "saturated_fat_100g": 3.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.07
+    }
+  },
+  {
+    "id": "8711327609341",
+    "name": "Magnum Ice Cream Lolly ALMOND 110 ML",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/9341/front_en.42.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars"
+    ],
+    "nutrition": {
+      "energy_100g": 1155,
+      "proteins_100g": 3.9,
+      "carbohydrates_100g": 26,
+      "sugars_100g": 23.24,
+      "fat_100g": 17,
+      "saturated_fat_100g": 9.96,
+      "fiber_100g": null,
+      "salt_100g": 0.00029
+    }
+  },
+  {
+    "id": "8712566344321",
+    "name": "Push up haribo",
+    "brand": "Haribo, Heartbrand, Langnese, Max, Miko, Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/256/634/4321/front_en.56.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 448,
+      "proteins_100g": 1.3,
+      "carbohydrates_100g": 20,
+      "sugars_100g": 14,
+      "fat_100g": 2.2,
+      "saturated_fat_100g": 2,
+      "fiber_100g": null,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "5000159541459",
+    "name": "Mars ice cream x6",
+    "brand": "Mars",
+    "image": "https://images.openfoodfacts.org/images/products/500/015/954/1459/front_en.49.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:frozen-foods",
+      "en:bars",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:frozen-bars"
+    ],
+    "nutrition": {
+      "energy_100g": 1113,
+      "proteins_100g": 3.1,
+      "carbohydrates_100g": 31,
+      "sugars_100g": 24,
+      "fat_100g": 14,
+      "saturated_fat_100g": 8.5,
+      "fiber_100g": null,
+      "salt_100g": 0.1775
+    }
+  },
+  {
+    "id": "5027324001860",
+    "name": "Honey Roasted Pistachio Soft Mochi & Gelato Ice Cream",
+    "brand": "Little Moons",
+    "image": "https://images.openfoodfacts.org/images/products/502/732/400/1860/front_en.41.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:mochi-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 938,
+      "proteins_100g": 3.75,
+      "carbohydrates_100g": 37.5,
+      "sugars_100g": 24.1,
+      "fat_100g": 6.25,
+      "saturated_fat_100g": 3.12,
+      "fiber_100g": null,
+      "salt_100g": 0.156
+    }
+  },
+  {
+    "id": "8711327373013",
+    "name": "Phish food",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/737/3013/front_en.8.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup"
+    ],
+    "nutrition": {
+      "energy_100g": 1145,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 35,
+      "sugars_100g": 27,
+      "fat_100g": 13,
+      "saturated_fat_100g": 8.9,
+      "fiber_100g": null,
+      "salt_100g": 0.17
+    }
+  },
+  {
+    "id": "8711327623057",
+    "name": "Magnum Glace Bâtonnet Citron Euphoria 3x90ml",
+    "brand": "MAGNUM",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/762/3057/front_fr.40.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1002,
+      "proteins_100g": 2.9,
+      "carbohydrates_100g": 26,
+      "sugars_100g": 22,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.11
+    }
+  },
+  {
+    "id": "5000159483063",
+    "name": "Bounty Ice cream",
+    "brand": "BOUNTY",
+    "image": "https://images.openfoodfacts.org/images/products/500/015/948/3063/front_en.90.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries",
+      "en:frozen-foods",
+      "en:chocolate-candies",
+      "en:frozen-desserts",
+      "en:bars",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:frozen-bars"
+    ],
+    "nutrition": {
+      "energy_100g": 1130,
+      "proteins_100g": 3.19,
+      "carbohydrates_100g": 25.9,
+      "sugars_100g": 22,
+      "fat_100g": 16.8,
+      "saturated_fat_100g": 11.2,
+      "fiber_100g": null,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "5000159541435",
+    "name": "Mars Ice Cream x7",
+    "brand": "Mars",
+    "image": "https://images.openfoodfacts.org/images/products/500/015/954/1435/front_fr.27.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:confectioneries",
+      "en:frozen-foods",
+      "en:chocolate-candies",
+      "en:frozen-desserts",
+      "en:bars",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:candy-chocolate-bars",
+      "en:caramel-chocolate-bars",
+      "en:frozen-bars"
+    ],
+    "nutrition": {
+      "energy_100g": 1380,
+      "proteins_100g": 3.75,
+      "carbohydrates_100g": 37.5,
+      "sugars_100g": 24,
+      "fat_100g": 17.5,
+      "saturated_fat_100g": 8.5,
+      "fiber_100g": null,
+      "salt_100g": 0.19
+    }
+  },
+  {
+    "id": "8711327539624",
+    "name": "Cookie Vermont-ster",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/753/9624/front_en.113.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup"
+    ],
+    "nutrition": {
+      "energy_100g": 949,
+      "proteins_100g": 3.1,
+      "carbohydrates_100g": 24,
+      "sugars_100g": 21,
+      "fat_100g": 13,
+      "saturated_fat_100g": 6.4,
+      "fiber_100g": 1.6,
+      "salt_100g": 0.17
+    }
+  },
+  {
+    "id": "8711327615229",
+    "name": "Carte D'Or Les Essentiels Glace Crème Glacée Crème de Vanille 700ml",
+    "brand": "Carte D'or, Les Essentiels",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/761/5229/front_fr.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 433,
+      "proteins_100g": 1.3,
+      "carbohydrates_100g": 14,
+      "sugars_100g": 11,
+      "fat_100g": 4.4,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.07
+    }
+  },
+  {
+    "id": "0796554054025",
+    "name": "Pany Duo",
+    "brand": "Africabis",
+    "image": "https://images.openfoodfacts.org/images/products/079/655/405/4025/front_fr.3.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:snacks",
+      "en:breakfasts",
+      "en:desserts",
+      "en:spreads",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:frozen-foods",
+      "en:sweet-spreads",
+      "en:frozen-desserts",
+      "en:chocolates",
+      "en:ice-creams-and-sorbets",
+      "en:white-chocolates",
+      "fr:pates-a-tartiner",
+      "fr:pate-a-tarntiner"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5060191280105",
+    "name": "Mr. Freeze Big Pop",
+    "brand": "Mr freeze, Mr. Freeze",
+    "image": "https://images.openfoodfacts.org/images/products/506/019/128/0105/front_fr.48.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-pops"
+    ],
+    "nutrition": {
+      "energy_100g": 197,
+      "proteins_100g": 0.1,
+      "carbohydrates_100g": 11.2,
+      "sugars_100g": 11.2,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "3251512810008",
+    "name": "Sorbet multifruits Oasis",
+    "brand": "Froneri, Oasis",
+    "image": "https://images.openfoodfacts.org/images/products/325/151/281/0008/front_fr.52.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:ice-pops",
+      "en:multifruit-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 469,
+      "proteins_100g": 0.4,
+      "carbohydrates_100g": 27.7,
+      "sugars_100g": 20.2,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "8714100658499",
+    "name": "MAGNUM Glace Bâtonnet Amande Vegan 3x90ml",
+    "brand": "Magnum,Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/410/065/8499/front_en.177.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:dairy-substitutes",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:vegan-products",
+      "en:frozen-desserts",
+      "en:non-dairy-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:plant-based-ice-creams",
+      "en:plant-based-ice-cream-bars"
+    ],
+    "nutrition": {
+      "energy_100g": 1105,
+      "proteins_100g": 2.2,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 20,
+      "fat_100g": 17,
+      "saturated_fat_100g": 9.9,
+      "fiber_100g": 1.88,
+      "salt_100g": 0.08
+    }
+  },
+  {
+    "id": "20810382",
+    "name": "Bourbon Vanilla",
+    "brand": "Bon Gelati, GelatelliBon Gelati",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/081/0382/front_en.314.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 913,
+      "proteins_100g": 2.6,
+      "carbohydrates_100g": 25.4,
+      "sugars_100g": 21.3,
+      "fat_100g": 11.8,
+      "saturated_fat_100g": 10.8,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "3415581520712",
+    "name": "Fruit collection 4 pots, 3 x 81 g + 1 x 83 g",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/152/0712/front_fr.67.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:surgeles"
+    ],
+    "nutrition": {
+      "energy_100g": 1068,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 21.6,
+      "sugars_100g": 20.8,
+      "fat_100g": 13.6,
+      "saturated_fat_100g": 9,
+      "fiber_100g": 0.8,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "8711327577619",
+    "name": "Magnum Glace Bâtonnet Deluxe Caramel 4x85ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/757/7619/front_fr.66.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1210,
+      "proteins_100g": 2.9,
+      "carbohydrates_100g": 30,
+      "sugars_100g": 26,
+      "fat_100g": 17,
+      "saturated_fat_100g": 12,
+      "fiber_100g": 1.4,
+      "salt_100g": 0.19
+    }
+  },
+  {
+    "id": "6111180003775",
+    "name": "Glace",
+    "brand": "IDÉAL",
+    "image": "https://images.openfoodfacts.org/images/products/611/118/000/3775/front_fr.19.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 2146,
+      "proteins_100g": 2.3,
+      "carbohydrates_100g": 75,
+      "sugars_100g": 64,
+      "fat_100g": 23,
+      "saturated_fat_100g": 23,
+      "fiber_100g": 0.4,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5060191281195",
+    "name": "Mr Freeze 45ml 20pk",
+    "brand": "CONAXESS TRADE NORGE AS",
+    "image": "https://images.openfoodfacts.org/images/products/506/019/128/1195/front_en.15.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-pops"
+    ],
+    "nutrition": {
+      "energy_100g": 126,
+      "proteins_100g": 0.1,
+      "carbohydrates_100g": 6.9,
+      "sugars_100g": 6.9,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": null,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "8711327608207",
+    "name": "Magnum Glace Bâtonnet Mini Vanille & Chocolat Classic 6x55ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/8207/front_fr.24.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1033,
+      "proteins_100g": 2.6,
+      "carbohydrates_100g": 24,
+      "sugars_100g": 21,
+      "fat_100g": 15,
+      "saturated_fat_100g": 11,
+      "fiber_100g": null,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "3270160840205",
+    "name": "La vanille de Madagascar - Pure Sélection",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/084/0205/front_fr.43.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 807,
+      "proteins_100g": 4.5,
+      "carbohydrates_100g": 20,
+      "sugars_100g": 19,
+      "fat_100g": 11,
+      "saturated_fat_100g": 7.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "3274664142452",
+    "name": "Glace vanille chocolat & noisettes 4 x 65 g",
+    "brand": "Cote d’or",
+    "image": "https://images.openfoodfacts.org/images/products/327/466/414/2452/front_fr.50.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1507,
+      "proteins_100g": 4.5,
+      "carbohydrates_100g": 34,
+      "sugars_100g": 30,
+      "fat_100g": 23,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 1.9,
+      "salt_100g": 0.15
+    }
+  },
+  {
+    "id": "3256224110545",
+    "name": "Bac crème glacée vanille 500G",
+    "brand": "U",
+    "image": "https://images.openfoodfacts.org/images/products/325/622/411/0545/front_fr.66.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 767,
+      "proteins_100g": 2,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 21,
+      "fat_100g": 8.2,
+      "saturated_fat_100g": 5.6,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "8711327480537",
+    "name": "Magnum Batonnet Gold Caramel Billion 85ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/748/0537/front_en.62.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars"
+    ],
+    "nutrition": {
+      "energy_100g": 1133,
+      "proteins_100g": 3.7,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 25,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.6,
+      "fiber_100g": null,
+      "salt_100g": 0.27
+    }
+  },
+  {
+    "id": "4056489375135",
+    "name": "Mini Almond",
+    "brand": "Bon Gelati,Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/937/5135/front_pt.53.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:sweet-snacks",
+      "en:cocoa-and-its-products",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate-and-almonds"
+    ],
+    "nutrition": {
+      "energy_100g": 1441,
+      "proteins_100g": 5.3,
+      "carbohydrates_100g": 31.6,
+      "sugars_100g": 29.5,
+      "fat_100g": 21.7,
+      "saturated_fat_100g": 13.5,
+      "fiber_100g": null,
+      "salt_100g": 0.08
+    }
+  },
+  {
+    "id": "4056489411703",
+    "name": "Proteïne ijs bar Lidl",
+    "brand": "Gelatelli, Lidl Gelatelli, Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/941/1703/front_en.65.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1200,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 27.4,
+      "sugars_100g": 20.2,
+      "fat_100g": 15.2,
+      "saturated_fat_100g": 8.8,
+      "fiber_100g": 3.6,
+      "salt_100g": 0.24
+    }
+  },
+  {
+    "id": "8711327576957",
+    "name": "Twister Mini",
+    "brand": "Twister",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/757/6957/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:dairy-substitutes",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:plant-based-ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 326,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 17,
+      "sugars_100g": 13,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.4,
+      "fiber_100g": null,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "8711327589360",
+    "name": "Glace en Pot Caramel Salé Sundae Dulce De-lish 427ml",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/758/9360/front_en.145.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup",
+      "en:sundae-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 904,
+      "proteins_100g": 2.7,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 21,
+      "fat_100g": 11,
+      "saturated_fat_100g": 7.9,
+      "fiber_100g": 0.7,
+      "salt_100g": 0.32
+    }
+  },
+  {
+    "id": "8711327580244",
+    "name": "Calippo",
+    "brand": "Unilever,Wall’s",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/758/0244/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-pops"
+    ],
+    "nutrition": {
+      "energy_100g": 434,
+      "proteins_100g": 0.625,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 17.5,
+      "fat_100g": 0.625,
+      "saturated_fat_100g": 0.125,
+      "fiber_100g": 1.12,
+      "salt_100g": 0.0125
+    }
+  },
+  {
+    "id": "3415581520927",
+    "name": "Fruit Collection",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/152/0927/front_en.34.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 935,
+      "proteins_100g": 3.58,
+      "carbohydrates_100g": 21.6,
+      "sugars_100g": 20.7,
+      "fat_100g": 13.6,
+      "saturated_fat_100g": 9.01,
+      "fiber_100g": 0.494,
+      "salt_100g": 0.133
+    }
+  },
+  {
+    "id": "8711327608887",
+    "name": "Magnum Glace Bâtonnet Amande 6x100ml",
+    "brand": "Magnum,Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/8887/front_fr.30.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate-and-almonds"
+    ],
+    "nutrition": {
+      "energy_100g": 1389,
+      "proteins_100g": 4.6,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 28,
+      "fat_100g": 20,
+      "saturated_fat_100g": 13,
+      "fiber_100g": null,
+      "salt_100g": 0.14
+    }
+  },
+  {
+    "id": "5056285800151",
+    "name": "Ice Cream Gooey Brownie",
+    "brand": "Halo Top",
+    "image": "https://images.openfoodfacts.org/images/products/505/628/580/0151/front_en.46.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 546,
+      "proteins_100g": 4.5,
+      "carbohydrates_100g": 20,
+      "sugars_100g": 11,
+      "fat_100g": 3.62,
+      "saturated_fat_100g": 2.17,
+      "fiber_100g": null,
+      "salt_100g": 0.56
+    }
+  },
+  {
+    "id": "3415581571110",
+    "name": "Favorite Selection Festive Edition",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/157/1110/front_fr.102.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:cremes-glacees-en-pot",
+      "en:desserts-glaces",
+      "en:surgeles"
+    ],
+    "nutrition": {
+      "energy_100g": 1079,
+      "proteins_100g": 4.4,
+      "carbohydrates_100g": 27.1,
+      "sugars_100g": 26.8,
+      "fat_100g": 14.7,
+      "saturated_fat_100g": 10.1,
+      "fiber_100g": 0,
+      "salt_100g": 0.25
+    }
+  },
+  {
+    "id": "3270160730971",
+    "name": "La rafraîchissante, citron, citron vert, gingembre",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/073/0971/front_fr.66.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:lime-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 332,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 20,
+      "sugars_100g": 19,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "07370793",
+    "name": "Berry Crunch Flavour Bar",
+    "brand": "Nestle Optifast",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/737/0793/front_en.12.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:bars",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:coffee-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1460,
+      "proteins_100g": 32,
+      "carbohydrates_100g": 30,
+      "sugars_100g": 11.5,
+      "fat_100g": 11.2,
+      "saturated_fat_100g": 5.54,
+      "fiber_100g": null,
+      "salt_100g": 1.56
+    }
+  },
+  {
+    "id": "4056489238607",
+    "name": "High Protein Salted Caramel Ice Cream",
+    "brand": "Gelatelli, Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/923/8607/front_en.98.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 549,
+      "proteins_100g": 7.09,
+      "carbohydrates_100g": 22.7,
+      "sugars_100g": 11.9,
+      "fat_100g": 3.28,
+      "saturated_fat_100g": 2.3,
+      "fiber_100g": 2.72,
+      "salt_100g": 0.423
+    }
+  },
+  {
+    "id": "12153400",
+    "name": "vanilla collection",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/215/3400/front_en.23.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:variety-packs",
+      "en:ice-cream-bars",
+      "en:ice-cream-tubs",
+      "en:ice-cream-bar-variety-packs"
+    ],
+    "nutrition": {
+      "energy_100g": 1190,
+      "proteins_100g": 4.1,
+      "carbohydrates_100g": 26.2,
+      "sugars_100g": 25.1,
+      "fat_100g": 18.1,
+      "saturated_fat_100g": 11.2,
+      "fiber_100g": 0.128,
+      "salt_100g": 0.167
+    }
+  },
+  {
+    "id": "12131200",
+    "name": "Glace",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/213/1200/front_en.19.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1000,
+      "proteins_100g": 4.07,
+      "carbohydrates_100g": 21.9,
+      "sugars_100g": 21.9,
+      "fat_100g": 14.9,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0.247,
+      "salt_100g": 0.145
+    }
+  },
+  {
+    "id": "4056489424765",
+    "name": "Peanut Butter",
+    "brand": "Gelatelli, Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/942/4765/front_en.54.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 682,
+      "proteins_100g": 9,
+      "carbohydrates_100g": 17.2,
+      "sugars_100g": 8.4,
+      "fat_100g": 8.3,
+      "saturated_fat_100g": 4,
+      "fiber_100g": 3.2,
+      "salt_100g": 0.68
+    }
+  },
+  {
+    "id": "8711327582897",
+    "name": "Magnum Glace Bâtonnet parfum Popcorn Double Starchaser 4x85ml",
+    "brand": "Magnum, Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/758/2897/front_fr.49.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1151,
+      "proteins_100g": 3,
+      "carbohydrates_100g": 33,
+      "sugars_100g": 26,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.5,
+      "fiber_100g": 1.2,
+      "salt_100g": 0.26
+    }
+  },
+  {
+    "id": "5010251725022",
+    "name": "Madagascan Vanilla Ice Cream",
+    "brand": "Morrisons,the Best",
+    "image": "https://images.openfoodfacts.org/images/products/501/025/172/5022/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 699,
+      "proteins_100g": 2.4,
+      "carbohydrates_100g": 11.9,
+      "sugars_100g": 11.8,
+      "fat_100g": 12.1,
+      "saturated_fat_100g": 8.4,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "8711327532359",
+    "name": "Magnum Glace Bâtonnet Classic 6x100ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/753/2359/front_fr.39.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:batonnets-glaces",
+      "en:batonnets-glaces-enrobes-de-chocolat",
+      "en:batonnets-glaces-vanille-enrobes-de-chocolat-au-lait",
+      "en:desserts-glaces",
+      "en:glaces",
+      "en:glaces-et-sorbets",
+      "en:glaces-a-la-vanille",
+      "en:surgeles"
+    ],
+    "nutrition": {
+      "energy_100g": 965,
+      "proteins_100g": 2.5,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 20,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.8,
+      "fiber_100g": null,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "8711327629394",
+    "name": "Ben & Jerry's Glace en Pot Spectacu-love 465ml",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/762/9394/front_fr.9.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:luxury-ice-cream-in-a-cup"
+    ],
+    "nutrition": {
+      "energy_100g": 1036,
+      "proteins_100g": 3.2,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 18,
+      "fat_100g": 16,
+      "saturated_fat_100g": 8.9,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.19
+    }
+  },
+  {
+    "id": "3760039981028",
+    "name": "Sorbet plein fruit Framboise 500G/750ml",
+    "brand": "L'Angélys",
+    "image": "https://images.openfoodfacts.org/images/products/376/003/998/1028/front_fr.47.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:sorbets",
+      "en:raspberry-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 530,
+      "proteins_100g": 0.8,
+      "carbohydrates_100g": 26,
+      "sugars_100g": 25,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 7.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3250390600671",
+    "name": "Crème glacée vanille de madagascar",
+    "brand": "Adelie, Intermarché",
+    "image": "https://images.openfoodfacts.org/images/products/325/039/060/0671/front_fr.35.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 849,
+      "proteins_100g": 2.2,
+      "carbohydrates_100g": 25.2,
+      "sugars_100g": 21.8,
+      "fat_100g": 10.2,
+      "saturated_fat_100g": 7.2,
+      "fiber_100g": 0.7,
+      "salt_100g": 0.21
+    }
+  },
+  {
+    "id": "8000500363492",
+    "name": "Raffaello ice cream",
+    "brand": "Confetteria",
+    "image": "https://images.openfoodfacts.org/images/products/800/050/036/3492/front_en.156.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars"
+    ],
+    "nutrition": {
+      "energy_100g": 1506,
+      "proteins_100g": 5.2,
+      "carbohydrates_100g": 28.6,
+      "sugars_100g": 26.9,
+      "fat_100g": 24.8,
+      "saturated_fat_100g": 20.4,
+      "fiber_100g": null,
+      "salt_100g": 0.198
+    }
+  },
+  {
+    "id": "3274667005341",
+    "name": "Pirulo mix",
+    "brand": "Nestlé",
+    "image": "https://images.openfoodfacts.org/images/products/327/466/700/5341/front_fr.23.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-pops"
+    ],
+    "nutrition": {
+      "energy_100g": 289,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 17,
+      "sugars_100g": 17,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8712100889233",
+    "name": "Soleil Exotic",
+    "brand": "Solero",
+    "image": "https://images.openfoodfacts.org/images/products/871/210/088/9233/front_en.62.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 603,
+      "proteins_100g": 1.62,
+      "carbohydrates_100g": 25,
+      "sugars_100g": null,
+      "fat_100g": 3.38,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "20294571",
+    "name": "Schoko-Vanille",
+    "brand": "Bon Gelati,Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/029/4571/front_de.31.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-cones",
+      "en:chocolate-vanilla-ice-cream-cones"
+    ],
+    "nutrition": {
+      "energy_100g": 1194,
+      "proteins_100g": 3.9,
+      "carbohydrates_100g": 38,
+      "sugars_100g": 25.7,
+      "fat_100g": 12.6,
+      "saturated_fat_100g": 9.5,
+      "fiber_100g": null,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "3274664142469",
+    "name": "Glace au chocolat",
+    "brand": "Cote d'Or",
+    "image": "https://images.openfoodfacts.org/images/products/327/466/414/2469/front_fr.64.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1529,
+      "proteins_100g": 4.8,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 29,
+      "fat_100g": 23,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 2.8,
+      "salt_100g": 0.15
+    }
+  },
+  {
+    "id": "8690526067803",
+    "name": "Milk burguer",
+    "brand": "Eti",
+    "image": "https://images.openfoodfacts.org/images/products/869/052/606/7803/front_ro.26.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:frozen-foods",
+      "en:biscuits-and-cakes",
+      "en:frozen-desserts",
+      "ro:mini-prajituri-pe-baza-de-lapte"
+    ],
+    "nutrition": {
+      "energy_100g": 1348,
+      "proteins_100g": 4.7,
+      "carbohydrates_100g": 51,
+      "sugars_100g": 33,
+      "fat_100g": 13,
+      "saturated_fat_100g": 7.8,
+      "fiber_100g": 2.4,
+      "salt_100g": 0.13
+    }
+  },
+  {
+    "id": "6111180003782",
+    "name": "Glace",
+    "brand": "Idéal",
+    "image": "https://images.openfoodfacts.org/images/products/611/118/000/3782/front_fr.25.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:ice-cream-mix"
+    ],
+    "nutrition": {
+      "energy_100g": 1990,
+      "proteins_100g": 4.8,
+      "carbohydrates_100g": 64.6,
+      "sugars_100g": 56,
+      "fat_100g": 19.7,
+      "saturated_fat_100g": 19.2,
+      "fiber_100g": 4.93,
+      "salt_100g": 0.351
+    }
+  },
+  {
+    "id": "3274664225681",
+    "name": "Glace chocolat La Laitière",
+    "brand": "Nestlé",
+    "image": "https://images.openfoodfacts.org/images/products/327/466/422/5681/front_fr.27.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:chocolate-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 831,
+      "proteins_100g": 3.2,
+      "carbohydrates_100g": 27,
+      "sugars_100g": 23,
+      "fat_100g": 8.1,
+      "saturated_fat_100g": 5.3,
+      "fiber_100g": 2.5,
+      "salt_100g": 0.14
+    }
+  },
+  {
+    "id": "8711327539396",
+    "name": "Ben & Jerry's Glace en Pot Banane & Caramel Sundae Banoffee Pie 427ml",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/753/9396/front_en.116.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup",
+      "en:sundae-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 1032,
+      "proteins_100g": 2.6,
+      "carbohydrates_100g": 29,
+      "sugars_100g": 24,
+      "fat_100g": 13,
+      "saturated_fat_100g": 7.8,
+      "fiber_100g": null,
+      "salt_100g": 0.27
+    }
+  },
+  {
+    "id": "6111178000519",
+    "name": "Titan vanille",
+    "brand": "null",
+    "image": "https://images.openfoodfacts.org/images/products/611/117/800/0519/front_fr.12.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts"
+    ],
+    "nutrition": {
+      "energy_100g": 1017,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 21,
+      "sugars_100g": 19,
+      "fat_100g": 16,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5036589252399",
+    "name": "Mint Choc Chip Ice Cream",
+    "brand": "Yeo Valley",
+    "image": "https://images.openfoodfacts.org/images/products/503/658/925/2399/front_en.18.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 611,
+      "proteins_100g": 2.8,
+      "carbohydrates_100g": 12.2,
+      "sugars_100g": 12.1,
+      "fat_100g": 9.5,
+      "saturated_fat_100g": 5.8,
+      "fiber_100g": null,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "8711327606081",
+    "name": "Chocolat blanc",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/6081/front_fr.68.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-white-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 962,
+      "proteins_100g": 3.1,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 20,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.7,
+      "fiber_100g": null,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "8711327612372",
+    "name": "Magnum Ice Cream Lolly 110 ML",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/761/2372/front_en.7.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 937,
+      "proteins_100g": 2.4,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 20,
+      "fat_100g": 13,
+      "saturated_fat_100g": 9.5,
+      "fiber_100g": 0,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "7613034975416",
+    "name": "Extrême Chocolat",
+    "brand": "Nestlé",
+    "image": "https://images.openfoodfacts.org/images/products/761/303/497/5416/front_fr.79.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-cones",
+      "fr:cones-au-chocolat"
+    ],
+    "nutrition": {
+      "energy_100g": 1222,
+      "proteins_100g": 3.7,
+      "carbohydrates_100g": 38,
+      "sugars_100g": 28,
+      "fat_100g": 13,
+      "saturated_fat_100g": 9.2,
+      "fiber_100g": 2.5,
+      "salt_100g": 0.1375
+    }
+  },
+  {
+    "id": "3270160739073",
+    "name": "la passionnée fraise pastèque",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/073/9073/front_fr.42.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:ice-pops",
+      "en:multifruit-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 301,
+      "proteins_100g": 0.3,
+      "carbohydrates_100g": 17,
+      "sugars_100g": 14,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": 0.8,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "3270160841165",
+    "name": "Creme glacée vanille",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/084/1165/front_fr.45.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 803,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 21,
+      "sugars_100g": 19,
+      "fat_100g": 10,
+      "saturated_fat_100g": 7,
+      "fiber_100g": 0.4,
+      "salt_100g": 0.11
+    }
+  },
+  {
+    "id": "8711327386334",
+    "name": "Netflix & Chill'd Peanut Butter Ice Cream",
+    "brand": "Unilever norge",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/738/6334/front_en.193.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup",
+      "en:diepvries"
+    ],
+    "nutrition": {
+      "energy_100g": 1156,
+      "proteins_100g": 4.9,
+      "carbohydrates_100g": 28,
+      "sugars_100g": 23,
+      "fat_100g": 16,
+      "saturated_fat_100g": 7.1,
+      "fiber_100g": null,
+      "salt_100g": 0.7
+    }
+  },
+  {
+    "id": "3332792000164",
+    "name": "24 Panachés",
+    "brand": "Yéti, Yétigel",
+    "image": "https://images.openfoodfacts.org/images/products/333/279/200/0164/front_fr.13.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "fr:sucettes-glacees"
+    ],
+    "nutrition": {
+      "energy_100g": 301,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 18,
+      "sugars_100g": 18,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": null,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "3250392452094",
+    "name": "Bac vanille de Madagascar (CG) - BIO - 900mL",
+    "brand": "Adélie",
+    "image": "https://images.openfoodfacts.org/images/products/325/039/245/2094/front_fr.30.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs",
+      "fr:vrac-glace"
+    ],
+    "nutrition": {
+      "energy_100g": 703,
+      "proteins_100g": 3.9,
+      "carbohydrates_100g": 22.5,
+      "sugars_100g": 22.5,
+      "fat_100g": 6.6,
+      "saturated_fat_100g": 4,
+      "fiber_100g": 1.3,
+      "salt_100g": 8
+    }
+  },
+  {
+    "id": "3564700014417",
+    "name": "Vrac crème glacée vanille",
+    "brand": "Marque Repère, Eskiss, Trofic",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/001/4417/front_fr.40.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 770,
+      "proteins_100g": 2,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 22,
+      "fat_100g": 8.4,
+      "saturated_fat_100g": 5.6,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "8711200564149",
+    "name": "B&J 100ml CookieDough CL3 X12x375EB",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/120/056/4149/front_en.7.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup"
+    ],
+    "nutrition": {
+      "energy_100g": 830,
+      "proteins_100g": 2.9,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 18,
+      "fat_100g": 11,
+      "saturated_fat_100g": 7.1,
+      "fiber_100g": 4.02777777777778,
+      "salt_100g": 0.11
+    }
+  },
+  {
+    "id": "3415581545715",
+    "name": "Mini pots crème glacée caramel collection",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/154/5715/front_fr.101.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1163,
+      "proteins_100g": 4.5,
+      "carbohydrates_100g": 25.6,
+      "sugars_100g": 19.9,
+      "fat_100g": 17.4,
+      "saturated_fat_100g": 11.5,
+      "fiber_100g": 0.1,
+      "salt_100g": 0.355
+    }
+  },
+  {
+    "id": "8480000645142",
+    "name": "Popitos flash",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/064/5142/front_es.28.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:confectioneries",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:granizados"
+    ],
+    "nutrition": {
+      "energy_100g": 136,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 8,
+      "sugars_100g": 8,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "3760039982575",
+    "name": "Sorbet plein fruit Mangue 500G/750ml 2022",
+    "brand": "L'Angélys",
+    "image": "https://images.openfoodfacts.org/images/products/376/003/998/2575/front_fr.20.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:mango-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 557,
+      "proteins_100g": 0.9,
+      "carbohydrates_100g": 30,
+      "sugars_100g": 27,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": null,
+      "salt_100g": 0.5
+    }
+  },
+  {
+    "id": "20548391",
+    "name": "Sorbetto al Limone",
+    "brand": "Gelatelli",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/054/8391/front_it.25.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:lemon-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 510,
+      "proteins_100g": 0.2,
+      "carbohydrates_100g": 29.2,
+      "sugars_100g": 25.6,
+      "fat_100g": 0.1,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "8006040610072",
+    "name": "Helado pistacho",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/800/604/061/0072/front_es.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:dairy-substitutes",
+      "en:desserts",
+      "en:frozen-foods",
+      "en:vegan-products",
+      "en:frozen-desserts",
+      "en:non-dairy-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:plant-based-ice-creams",
+      "pt:gelado-vegan"
+    ],
+    "nutrition": {
+      "energy_100g": 1510,
+      "proteins_100g": 3.2,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 29,
+      "fat_100g": 24,
+      "saturated_fat_100g": 16,
+      "fiber_100g": 3.5,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "4779024793125",
+    "name": "Greek yoghurt",
+    "brand": "Aistė",
+    "image": "https://images.openfoodfacts.org/images/products/477/902/479/3125/front_en.30.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 1,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:dairies",
+      "en:fermented-foods",
+      "en:fermented-milk-products",
+      "en:dairy-substitutes",
+      "en:desserts",
+      "en:dairy-desserts",
+      "en:frozen-foods",
+      "en:fermented-dairy-desserts",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:yogurts",
+      "en:plant-based-ice-creams",
+      "en:greek-style-yogurts",
+      "en:low-fat-yogurts",
+      "lt:graikiškas-jogurtas"
+    ],
+    "nutrition": {
+      "energy_100g": 260,
+      "proteins_100g": 9,
+      "carbohydrates_100g": 2.3,
+      "sugars_100g": 2.3,
+      "fat_100g": 2,
+      "saturated_fat_100g": 1.1,
+      "fiber_100g": 0,
+      "salt_100g": 0.2
+    }
+  },
+  {
+    "id": "6111178000786",
+    "name": "glace vanille fraise pingouin",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/117/800/0786/front_fr.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 400,
+      "proteins_100g": 1.5,
+      "carbohydrates_100g": 12.5,
+      "sugars_100g": 12,
+      "fat_100g": 40,
+      "saturated_fat_100g": 25,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "0077567254238",
+    "name": "Natural Vanilla Ice Cream",
+    "brand": "Breyers,Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/007/756/725/4238/front_en.8.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts"
+    ],
+    "nutrition": {
+      "energy_100g": 808,
+      "proteins_100g": 3.41,
+      "carbohydrates_100g": 21.59,
+      "sugars_100g": 21.21,
+      "fat_100g": 10.23,
+      "saturated_fat_100g": 6.82,
+      "fiber_100g": 0,
+      "salt_100g": 0.1443
+    }
+  },
+  {
+    "id": "8711327621176",
+    "name": "Magnum CAW 8x 100ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/762/1176/front_fr.5.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 985,
+      "proteins_100g": 3.2,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 21,
+      "fat_100g": 14,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0,
+      "salt_100g": 0.13
+    }
+  },
+  {
+    "id": "8712566328208",
+    "name": "Magnum Amande",
+    "brand": "Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/256/632/8208/front_en.120.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate-and-almonds"
+    ],
+    "nutrition": {
+      "energy_100g": 1377,
+      "proteins_100g": 4.8,
+      "carbohydrates_100g": 31,
+      "sugars_100g": 28,
+      "fat_100g": 20,
+      "saturated_fat_100g": 12,
+      "fiber_100g": null,
+      "salt_100g": 0.13
+    }
+  },
+  {
+    "id": "3251510551002",
+    "name": "Sorbet Pêche Pomme Framboise",
+    "brand": "Oasis",
+    "image": "https://images.openfoodfacts.org/images/products/325/151/055/1002/front_fr.36.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:multifruit-sorbets",
+      "en:peach-sorbets",
+      "en:raspberry-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 468,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 27.2,
+      "sugars_100g": 21.9,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.05
+    }
+  },
+  {
+    "id": "3256221116045",
+    "name": "Bac Crème glacée à la vanille de Madagascar - 471g",
+    "brand": "U, U Bio",
+    "image": "https://images.openfoodfacts.org/images/products/325/622/111/6045/front_fr.56.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 722,
+      "proteins_100g": 2.4,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 20,
+      "fat_100g": 8.3,
+      "saturated_fat_100g": 5,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "8480000641021",
+    "name": "Helados mini sin azúcar",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/064/1021/front_en.19.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1224,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 31.5,
+      "sugars_100g": 7,
+      "fat_100g": 19.7,
+      "saturated_fat_100g": 13.2,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.18
+    }
+  },
+  {
+    "id": "8711327374324",
+    "name": "Ben & Jerry's Glace en Pot Caramel Brownie Party 465ml",
+    "brand": "Ben & Jerry's",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/737/4324/front_fr.149.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 956,
+      "proteins_100g": 3.5,
+      "carbohydrates_100g": 27,
+      "sugars_100g": 23,
+      "fat_100g": 12,
+      "saturated_fat_100g": 7.4,
+      "fiber_100g": 0.49,
+      "salt_100g": 0.39
+    }
+  },
+  {
+    "id": "3760039982018",
+    "name": "Crème glacée Café 450G/750ml",
+    "brand": "L'Angelys",
+    "image": "https://images.openfoodfacts.org/images/products/376/003/998/2018/front_en.61.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:coffee-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 812,
+      "proteins_100g": 3.8,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 21,
+      "fat_100g": 8.4,
+      "saturated_fat_100g": 5.6,
+      "fiber_100g": null,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3270160840274",
+    "name": "Pure sélection - Sorbet plein fruit fraise",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/084/0274/front_fr.32.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:strawberry-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 402,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 21,
+      "sugars_100g": 21,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 6.3,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "12136500",
+    "name": "Glace Manguo &raspberry",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/213/6500/front_fr.35.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1000,
+      "proteins_100g": 3.3,
+      "carbohydrates_100g": 27.8,
+      "sugars_100g": 27.5,
+      "fat_100g": 12.5,
+      "saturated_fat_100g": 8.3,
+      "fiber_100g": 0.6,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8711327572836",
+    "name": "Ben & Jerry's Ice Cream Dessert CHOCOLATEY LOVE A-FAIR 465 ML",
+    "brand": "Ben & Jerry's, Ben & jerrys",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/757/2836/front_en.5.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:luxury-ice-cream-in-a-cup"
+    ],
+    "nutrition": {
+      "energy_100g": 979,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 22,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.5,
+      "fiber_100g": null,
+      "salt_100g": 0.35
+    }
+  },
+  {
+    "id": "4088600165530",
+    "name": "Clotted Cream Ice Cream",
+    "brand": "Aldi",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/016/5530/front_en.14.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 900,
+      "proteins_100g": 3.6,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 21,
+      "fat_100g": 12,
+      "saturated_fat_100g": 8.3,
+      "fiber_100g": null,
+      "salt_100g": 0.11
+    }
+  },
+  {
+    "id": "29141593",
+    "name": "Madagascan vanilla luxury ice cream",
+    "brand": "Marks & Spencer",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/914/1593/front_en.19.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-in-a-box"
+    ],
+    "nutrition": {
+      "energy_100g": 955,
+      "proteins_100g": 4.37,
+      "carbohydrates_100g": 18.3,
+      "sugars_100g": 15.8,
+      "fat_100g": 15.2,
+      "saturated_fat_100g": 9.58,
+      "fiber_100g": 0.704,
+      "salt_100g": 0.113
+    }
+  },
+  {
+    "id": "6111250473118",
+    "name": "fair",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/125/047/3118/front_fr.12.400.jpg",
+    "nutriscore": "C",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 657,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 28,
+      "sugars_100g": 24,
+      "fat_100g": 4,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8711327607163",
+    "name": "Magnum Glace Bâtonnet Vanille & Chocolat Classic 8x100ml",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/760/7163/front_fr.19.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate",
+      "en:vanilla-ice-cream-bars-coated-with-milk-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 965,
+      "proteins_100g": 2.5,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 20,
+      "fat_100g": 14,
+      "saturated_fat_100g": 9.8,
+      "fiber_100g": null,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "8711327615199",
+    "name": "Glace Rhum raisin",
+    "brand": "CARTE D'OR",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/761/5199/front_fr.15.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 105,
+      "proteins_100g": 2.5,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 18,
+      "fat_100g": 7.5,
+      "saturated_fat_100g": 5.1,
+      "fiber_100g": null,
+      "salt_100g": 0.12
+    }
+  },
+  {
+    "id": "5056285800175",
+    "name": "Ice Cream Chocolate Chip Cookie Dough",
+    "brand": "Halo Top",
+    "image": "https://images.openfoodfacts.org/images/products/505/628/580/0175/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:ice-cream-in-a-box"
+    ],
+    "nutrition": {
+      "energy_100g": 589,
+      "proteins_100g": 4.18,
+      "carbohydrates_100g": 22.4,
+      "sugars_100g": 16,
+      "fat_100g": 4.18,
+      "saturated_fat_100g": 2.78,
+      "fiber_100g": 0,
+      "salt_100g": 0.247
+    }
+  },
+  {
+    "id": "5060381940215",
+    "name": "Yoghurt ijs",
+    "brand": "Claudia And Fin",
+    "image": "https://images.openfoodfacts.org/images/products/506/038/194/0215/front_en.10.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:variety-packs",
+      "en:ice-cream-bars",
+      "en:ice-cream-bar-variety-packs"
+    ],
+    "nutrition": {
+      "energy_100g": 500,
+      "proteins_100g": 2.69,
+      "carbohydrates_100g": 12.3,
+      "sugars_100g": 12.3,
+      "fat_100g": 5,
+      "saturated_fat_100g": 3.46,
+      "fiber_100g": 6.92,
+      "salt_100g": 0.0769
+    }
+  },
+  {
+    "id": "5063334000356",
+    "name": "Coconut  lolly",
+    "brand": "Sainsburys",
+    "image": "https://images.openfoodfacts.org/images/products/506/333/400/0356/front_en.8.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-pops"
+    ],
+    "nutrition": {
+      "energy_100g": 419,
+      "proteins_100g": 0.676,
+      "carbohydrates_100g": 19.5,
+      "sugars_100g": 18.8,
+      "fat_100g": 2.3,
+      "saturated_fat_100g": 2.03,
+      "fiber_100g": 0.676,
+      "salt_100g": 0.0946
+    }
+  },
+  {
+    "id": "00821203",
+    "name": "Prince Polo XXL Smak Orzechowy",
+    "brand": "Prince Polo",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/082/1203/front_en.3.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:frozen-foods",
+      "en:bars",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "20707330",
+    "name": "Salted caramel premium ice cream",
+    "brand": "Bon Gelati, GELATELLI",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/070/7330/front_fr.60.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "fr:glaces-au-caramel"
+    ],
+    "nutrition": {
+      "energy_100g": 916,
+      "proteins_100g": 3.1,
+      "carbohydrates_100g": 27.8,
+      "sugars_100g": 23.6,
+      "fat_100g": 10.5,
+      "saturated_fat_100g": 9.3,
+      "fiber_100g": 0.2,
+      "salt_100g": 0.59
+    }
+  },
+  {
+    "id": "3596710386291",
+    "name": "Vanille",
+    "brand": "Auchan",
+    "image": "https://images.openfoodfacts.org/images/products/359/671/038/6291/front_fr.114.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 698,
+      "proteins_100g": 1.9,
+      "carbohydrates_100g": 26,
+      "sugars_100g": 20,
+      "fat_100g": 6.2,
+      "saturated_fat_100g": 5.5,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.06
+    }
+  },
+  {
+    "id": "7613031608188",
+    "name": "Cônes Extrême Vanille",
+    "brand": "Nestlé",
+    "image": "https://images.openfoodfacts.org/images/products/761/303/160/8188/front_fr.21.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-cones"
+    ],
+    "nutrition": {
+      "energy_100g": 1247,
+      "proteins_100g": 3.2,
+      "carbohydrates_100g": 38,
+      "sugars_100g": 29,
+      "fat_100g": 14,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 1.3,
+      "salt_100g": 0.15
+    }
+  },
+  {
+    "id": "3560071438340",
+    "name": "Vainilla de Madagascar",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/356/007/143/8340/front_en.39.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 715,
+      "proteins_100g": 4.2,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 21,
+      "fat_100g": 6.7,
+      "saturated_fat_100g": 3.9,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.00045
+    }
+  },
+  {
+    "id": "8000500384718",
+    "name": "Bueno Ice Cone White 4-pack",
+    "brand": "Ferrero,Kinder",
+    "image": "https://images.openfoodfacts.org/images/products/800/050/038/4718/front_fr.28.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-cones"
+    ],
+    "nutrition": {
+      "energy_100g": 1470,
+      "proteins_100g": 6.45,
+      "carbohydrates_100g": 35.8,
+      "sugars_100g": 27.4,
+      "fat_100g": 20,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 1.29,
+      "salt_100g": 0.213
+    }
+  },
+  {
+    "id": "3415581113716",
+    "name": "EDEKA EIS Häagen-Dazs  Belgian Chocolate 460ml 4.44€ 1l 9.65€",
+    "brand": "Häagen-Dazs, EDEKA Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/111/3716/front_de.41.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1314,
+      "proteins_100g": 4.5,
+      "carbohydrates_100g": 26.3,
+      "sugars_100g": 24.4,
+      "fat_100g": 20.7,
+      "saturated_fat_100g": 12.7,
+      "fiber_100g": 2.4,
+      "salt_100g": 0.13
+    }
+  },
+  {
+    "id": "8683130003787",
+    "name": "Magnum Double Chocolat",
+    "brand": "Magnum",
+    "image": "https://images.openfoodfacts.org/images/products/868/313/000/3787/front_en.8.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "8711327326750",
+    "name": "Solero - Red Berries",
+    "brand": "HB",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/732/6750/front_en.23.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-fruit-sorbet"
+    ],
+    "nutrition": {
+      "energy_100g": 597,
+      "proteins_100g": 1.62,
+      "carbohydrates_100g": 27.1,
+      "sugars_100g": 17.6,
+      "fat_100g": 3.09,
+      "saturated_fat_100g": 2.79,
+      "fiber_100g": 2.06,
+      "salt_100g": 0.0794
+    }
+  },
+  {
+    "id": "5052910791283",
+    "name": "Vagla Ice Cream",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/291/079/1283/front_en.17.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 728,
+      "proteins_100g": 2.8,
+      "carbohydrates_100g": 19.2,
+      "sugars_100g": 19,
+      "fat_100g": 9.3,
+      "saturated_fat_100g": 7.4,
+      "fiber_100g": 0.8,
+      "salt_100g": 0.25
+    }
+  },
+  {
+    "id": "8711327615045",
+    "name": "Carte D'Or Les Essentiels Glace Crème Glacée Chocolat Noir 700ml",
+    "brand": "Carte D'or, Les Essentiels",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/761/5045/front_fr.32.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:chocolate-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 491,
+      "proteins_100g": 2,
+      "carbohydrates_100g": 14,
+      "sugars_100g": 12,
+      "fat_100g": 5.6,
+      "saturated_fat_100g": 3.7,
+      "fiber_100g": 1.7,
+      "salt_100g": 0.08
+    }
+  },
+  {
+    "id": "8402001018978",
+    "name": "Helado Biscuit",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/840/200/101/8978/front_es.10.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1318,
+      "proteins_100g": 2.8,
+      "carbohydrates_100g": 32,
+      "sugars_100g": 20,
+      "fat_100g": 19,
+      "saturated_fat_100g": 8.7,
+      "fiber_100g": null,
+      "salt_100g": 0.255
+    }
+  },
+  {
+    "id": "8711327385603",
+    "name": "CARTE D'OR Glace Crème Glacée Vanille de Madagascar 900ml",
+    "brand": "Carte d'or, Unilever",
+    "image": "https://images.openfoodfacts.org/images/products/871/132/738/5603/front_fr.126.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:vanilla-ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 401,
+      "proteins_100g": 1.2,
+      "carbohydrates_100g": 13,
+      "sugars_100g": 9,
+      "fat_100g": 4.4,
+      "saturated_fat_100g": 2.9,
+      "fiber_100g": 0.17,
+      "salt_100g": 0.06
+    }
+  },
+  {
+    "id": "5900130031118",
+    "name": "White chocolate & Scandinavian mountain cranberries",
+    "brand": "Nestlé, Froneri, Nuii",
+    "image": "https://images.openfoodfacts.org/images/products/590/013/003/1118/front_en.54.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-bars",
+      "en:ice-cream-bars-coated-with-chocolate"
+    ],
+    "nutrition": {
+      "energy_100g": 1428,
+      "proteins_100g": 4.8,
+      "carbohydrates_100g": 37,
+      "sugars_100g": 31,
+      "fat_100g": 19,
+      "saturated_fat_100g": 12,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.26
+    }
+  },
+  {
+    "id": "5000159484695",
+    "name": "Twix glacé x6",
+    "brand": "Twix",
+    "image": "https://images.openfoodfacts.org/images/products/500/015/948/4695/front_fr.85.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:desserts",
+      "en:sweet-snacks",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:bars",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:frozen-bars"
+    ],
+    "nutrition": {
+      "energy_100g": 1180,
+      "proteins_100g": 2.78,
+      "carbohydrates_100g": 34.8,
+      "sugars_100g": 25.5,
+      "fat_100g": 14.6,
+      "saturated_fat_100g": 9.05,
+      "fiber_100g": null,
+      "salt_100g": 0.255
+    }
+  },
+  {
+    "id": "3270160840229",
+    "name": "Le chocolat",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/084/0229/front_fr.48.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs",
+      "en:chocolate-ice-cream-tubs",
+      "en:ice-cream-in-a-box"
+    ],
+    "nutrition": {
+      "energy_100g": 952,
+      "proteins_100g": 5,
+      "carbohydrates_100g": 27,
+      "sugars_100g": 24,
+      "fat_100g": 11,
+      "saturated_fat_100g": 6.8,
+      "fiber_100g": 2,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "3245411236366",
+    "name": "Sorbet citron avec morceaux",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/324/541/123/6366/front_fr.23.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:lemon-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 500,
+      "proteins_100g": 0.01,
+      "carbohydrates_100g": 29,
+      "sugars_100g": 22,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": 0.6,
+      "salt_100g": 0.09
+    }
+  },
+  {
+    "id": "8480000644923",
+    "name": "Mochi Mango",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/064/4923/front_en.70.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:mochi-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 857,
+      "proteins_100g": 0.6,
+      "carbohydrates_100g": 47.2,
+      "sugars_100g": 28.3,
+      "fat_100g": 1.1,
+      "saturated_fat_100g": 0.4,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.03
+    }
+  },
+  {
+    "id": "3415581569117",
+    "name": "Macadamia nut brittle mini cups",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/156/9117/front_fr.43.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1100,
+      "proteins_100g": 3.95,
+      "carbohydrates_100g": 25.2,
+      "sugars_100g": 24.2,
+      "fat_100g": 16.4,
+      "saturated_fat_100g": 10.7,
+      "fiber_100g": 0.123,
+      "salt_100g": 0.219
+    }
+  },
+  {
+    "id": "12131400",
+    "name": "salted caramel",
+    "brand": "Häagen-Dazs",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/213/1400/front_fr.6.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1046,
+      "proteins_100g": 4.1,
+      "carbohydrates_100g": 27.8,
+      "sugars_100g": 23.5,
+      "fat_100g": 17.2,
+      "saturated_fat_100g": 10.8,
+      "fiber_100g": null,
+      "salt_100g": 0.6
+    }
+  },
+  {
+    "id": "3270160840281",
+    "name": "Le citron",
+    "brand": "Picard",
+    "image": "https://images.openfoodfacts.org/images/products/327/016/084/0281/front_fr.29.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:sorbets",
+      "en:lemon-sorbets"
+    ],
+    "nutrition": {
+      "energy_100g": 373,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 22,
+      "fat_100g": 0.5,
+      "saturated_fat_100g": 0.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "20086091",
+    "name": "Walnut Bon Gelati",
+    "brand": "Bon Gelati",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/008/6091/front_en.51.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams"
+    ],
+    "nutrition": {
+      "energy_100g": 1067,
+      "proteins_100g": 4.3,
+      "carbohydrates_100g": 22.7,
+      "sugars_100g": 19.9,
+      "fat_100g": 16.2,
+      "saturated_fat_100g": 10.3,
+      "fiber_100g": 0.6,
+      "salt_100g": 0.06
+    }
+  },
+  {
+    "id": "5027324001181",
+    "name": "Mochis",
+    "brand": "Little Moons",
+    "image": "https://images.openfoodfacts.org/images/products/502/732/400/1181/front_de.28.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:mochi-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 895,
+      "proteins_100g": 3,
+      "carbohydrates_100g": 36,
+      "sugars_100g": 24,
+      "fat_100g": 6.6,
+      "saturated_fat_100g": 4.2,
+      "fiber_100g": 0,
+      "salt_100g": 0.13
+    }
+  },
+  {
+    "id": "8480000644190",
+    "name": "Helados de Fresa",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/064/4190/front_es.8.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-pops"
+    ],
+    "nutrition": {
+      "energy_100g": 393,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 23,
+      "sugars_100g": 21,
+      "fat_100g": 0,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0.02
+    }
+  },
+  {
+    "id": "3415583001714",
+    "name": "Macaron strawberry raspberry",
+    "brand": "HÄAGEN-DAZS, Pierre Hermé",
+    "image": "https://images.openfoodfacts.org/images/products/341/558/300/1714/front_fr.29.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:ice-creams-and-sorbets",
+      "en:ice-creams",
+      "en:ice-cream-tubs"
+    ],
+    "nutrition": {
+      "energy_100g": 1094,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 26.1,
+      "sugars_100g": 25.4,
+      "fat_100g": 14.9,
+      "saturated_fat_100g": 8.8,
+      "fiber_100g": 0.8,
+      "salt_100g": 0.13
+    }
+  },
+  {
+    "id": "5027324001235",
+    "name": "Mochi ice cream Summer raspberry",
+    "brand": "Little Moons",
+    "image": "https://images.openfoodfacts.org/images/products/502/732/400/1235/front_en.40.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:desserts",
+      "en:frozen-foods",
+      "en:frozen-desserts",
+      "en:mochi-ice-cream"
+    ],
+    "nutrition": {
+      "energy_100g": 908,
+      "proteins_100g": 2.4,
+      "carbohydrates_100g": 37,
+      "sugars_100g": 28,
+      "fat_100g": 6.7,
+      "saturated_fat_100g": 4.2,
+      "fiber_100g": null,
+      "salt_100g": 0.1
+    }
+  }
+]

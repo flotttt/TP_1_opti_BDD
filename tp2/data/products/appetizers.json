@@ -1,0 +1,5673 @@
+[
+  {
+    "id": "5060042641000",
+    "name": "Lightly sea salted crisps",
+    "brand": "Tyrrell's",
+    "image": "https://images.openfoodfacts.org/images/products/506/004/264/1000/front_en.179.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil",
+      "fr:chips-de-pommes-de-terre-classiques"
+    ],
+    "nutrition": {
+      "energy_100g": 1992,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 49,
+      "sugars_100g": 0.64,
+      "fat_100g": 27,
+      "saturated_fat_100g": 2.4,
+      "fiber_100g": 5.5,
+      "salt_100g": 0.83
+    }
+  },
+  {
+    "id": "7300400481588",
+    "name": "FIBRES",
+    "brand": "Wasa",
+    "image": "https://images.openfoodfacts.org/images/products/730/040/048/1588/front_en.269.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:breads",
+      "en:extruded-crispbreads",
+      "en:crispbreads",
+      "en:crispbreads-wholemeal",
+      "en:extruded-and-grilled-crispbread"
+    ],
+    "nutrition": {
+      "energy_100g": 1397,
+      "proteins_100g": 12,
+      "carbohydrates_100g": 47,
+      "sugars_100g": 2,
+      "fat_100g": 5,
+      "saturated_fat_100g": 1,
+      "fiber_100g": 26,
+      "salt_100g": 1.2
+    }
+  },
+  {
+    "id": "5410041001204",
+    "name": "Tuc Original",
+    "brand": "Mondelēz",
+    "image": "https://images.openfoodfacts.org/images/products/541/004/100/1204/front_en.520.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2017,
+      "proteins_100g": 8.3,
+      "carbohydrates_100g": 67,
+      "sugars_100g": 7.1,
+      "fat_100g": 19,
+      "saturated_fat_100g": 9,
+      "fiber_100g": 2.4,
+      "salt_100g": 1.7
+    }
+  },
+  {
+    "id": "5053990101597",
+    "name": "Sour Cream & Onion",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/010/1597/front_en.55.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2163,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 2.1,
+      "fat_100g": 29,
+      "saturated_fat_100g": 2.9,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.18
+    }
+  },
+  {
+    "id": "5017764128104",
+    "name": "Chips",
+    "brand": "Kettle",
+    "image": "https://images.openfoodfacts.org/images/products/501/776/412/8104/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2070,
+      "proteins_100g": 7.7,
+      "carbohydrates_100g": 56.7,
+      "sugars_100g": 0.1,
+      "fat_100g": 25.4,
+      "saturated_fat_100g": 3.5,
+      "fiber_100g": 4,
+      "salt_100g": 0.9
+    }
+  },
+  {
+    "id": "5053990101573",
+    "name": "Pringles Sare",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/010/1573/front_en.44.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2214,
+      "proteins_100g": 6.1,
+      "carbohydrates_100g": 55,
+      "sugars_100g": 0.9,
+      "fat_100g": 31,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 3.5,
+      "salt_100g": 1
+    }
+  },
+  {
+    "id": "7300400481571",
+    "name": "wasa",
+    "brand": "Barilla,Wasa",
+    "image": "https://images.openfoodfacts.org/images/products/730/040/048/1571/front_fr.1734.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:breads",
+      "en:crispbreads",
+      "en:crispbreads-wholemeal"
+    ],
+    "nutrition": {
+      "energy_100g": 1423,
+      "proteins_100g": 9,
+      "carbohydrates_100g": 62,
+      "sugars_100g": 2,
+      "fat_100g": 1.5,
+      "saturated_fat_100g": 0.3,
+      "fiber_100g": 20,
+      "salt_100g": 1
+    }
+  },
+  {
+    "id": "5053990156009",
+    "name": "Pringles Original",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/015/6009/front_fr.230.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fruits-and-vegetables-based-foods",
+      "en:snacks",
+      "en:vegetable-based-foods-and-beverages",
+      "en:salty-snacks",
+      "en:vegetables-based-foods",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:vegetables",
+      "en:crisps",
+      "en:crisps-made-from-reconstituted-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2227,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 1.4,
+      "fat_100g": 31,
+      "saturated_fat_100g": 6.6,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5013665111610",
+    "name": "Lightly Salted Low Fat Corn Cakes",
+    "brand": "Kallø",
+    "image": "https://images.openfoodfacts.org/images/products/501/366/511/1610/front_en.39.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:cereals-and-their-products",
+      "en:crackers-appetizers",
+      "en:puffed-cereal-cakes",
+      "en:puffed-corn-cakes",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-maize"
+    ],
+    "nutrition": {
+      "energy_100g": 1500,
+      "proteins_100g": 6.9,
+      "carbohydrates_100g": 81.4,
+      "sugars_100g": 1.38,
+      "fat_100g": 1.38,
+      "saturated_fat_100g": 0.414,
+      "fiber_100g": null,
+      "salt_100g": 1.34
+    }
+  },
+  {
+    "id": "8434165466333",
+    "name": "Krit krititas galletas saladas",
+    "brand": "Cuétara, Krit",
+    "image": "https://images.openfoodfacts.org/images/products/843/416/546/6333/front_en.44.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-appetizers",
+      "es:galletas-saladas",
+      "es:galletitas-saladas"
+    ],
+    "nutrition": {
+      "energy_100g": 2113,
+      "proteins_100g": 6.5,
+      "carbohydrates_100g": 60,
+      "sugars_100g": 8.7,
+      "fat_100g": 26,
+      "saturated_fat_100g": 12,
+      "fiber_100g": 2.5,
+      "salt_100g": 1.7
+    }
+  },
+  {
+    "id": "5053990161669",
+    "name": "Картофельные чипсы со вкусом парики",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/016/1669/front_en.185.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:paprika-crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2180,
+      "proteins_100g": 6.7,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 3.2,
+      "fat_100g": 30,
+      "saturated_fat_100g": 2.8,
+      "fiber_100g": 4.4,
+      "salt_100g": 1.28
+    }
+  },
+  {
+    "id": "5013665115373",
+    "name": "Lentil & Pea Veggie Cakes - Beetroot & Balsamic",
+    "brand": "Kallø",
+    "image": "https://images.openfoodfacts.org/images/products/501/366/511/5373/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:vegetable-cakes"
+    ],
+    "nutrition": {
+      "energy_100g": 1780,
+      "proteins_100g": 25.5,
+      "carbohydrates_100g": 51.1,
+      "sugars_100g": 3.19,
+      "fat_100g": 11.7,
+      "saturated_fat_100g": 1.06,
+      "fiber_100g": 6.38,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5053990107339",
+    "name": "Pringles",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/010/7339/front_fr.194.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2227,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 1.4,
+      "fat_100g": 31,
+      "saturated_fat_100g": 6.6,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5060042641406",
+    "name": "Sea salt & cider vinegar chips",
+    "brand": "Tyrrells",
+    "image": "https://images.openfoodfacts.org/images/products/506/004/264/1406/front_en.254.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:salt-and-vinegar-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 1950,
+      "proteins_100g": 5.8,
+      "carbohydrates_100g": 51,
+      "sugars_100g": 2.5,
+      "fat_100g": 25,
+      "saturated_fat_100g": 2.2,
+      "fiber_100g": 5.1,
+      "salt_100g": 1.77
+    }
+  },
+  {
+    "id": "5053990155354",
+    "name": "Sour Cream & Onion",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/015/5354/front_en.42.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2191,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 2.7,
+      "fat_100g": 30,
+      "saturated_fat_100g": 6.4,
+      "fiber_100g": 3.4,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "5060283762199",
+    "name": "SEA SALT LENTIL CHIPS",
+    "brand": "PROPER CHIPS",
+    "image": "https://images.openfoodfacts.org/images/products/506/028/376/2199/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2017,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 61,
+      "sugars_100g": 0.6,
+      "fat_100g": 21,
+      "saturated_fat_100g": 1.6,
+      "fiber_100g": 2.5,
+      "salt_100g": 0.405
+    }
+  },
+  {
+    "id": "5053990127726",
+    "name": "Pringles Original",
+    "brand": "PRINGLES",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/012/7726/front_en.68.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil",
+      "en:antipasti",
+      "en:aperitivos",
+      "en:aperitivos-salados-elaborados-con-patata",
+      "en:botanas",
+      "en:chips-fritos",
+      "en:patatine-e-fritti",
+      "en:patatine-sottili",
+      "en:snack-salati-a-base-di-patate",
+      "en:snacks-salados",
+      "en:snacks-salati"
+    ],
+    "nutrition": {
+      "energy_100g": 2253,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 1.4,
+      "fat_100g": 31,
+      "saturated_fat_100g": 6.6,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5010265002836",
+    "name": "The Original Crunchy Rye Breads",
+    "brand": "Ryvita",
+    "image": "https://images.openfoodfacts.org/images/products/501/026/500/2836/front_en.35.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:breads",
+      "en:crackers-appetizers",
+      "en:crispbreads"
+    ],
+    "nutrition": {
+      "energy_100g": 1480,
+      "proteins_100g": 10.5,
+      "carbohydrates_100g": 68.6,
+      "sugars_100g": 2.86,
+      "fat_100g": 0.952,
+      "saturated_fat_100g": 0.19,
+      "fiber_100g": 13.3,
+      "salt_100g": 0.762
+    }
+  },
+  {
+    "id": "0612322000127",
+    "name": "Super Seeded Oatcakes",
+    "brand": "Nairn&#039;s",
+    "image": "https://images.openfoodfacts.org/images/products/061/232/200/0127/front_en.22.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:aperitivos",
+      "en:botanas",
+      "en:snacks-salados"
+    ],
+    "nutrition": {
+      "energy_100g": 1920,
+      "proteins_100g": 12,
+      "carbohydrates_100g": 50,
+      "sugars_100g": 1,
+      "fat_100g": 21,
+      "saturated_fat_100g": 4,
+      "fiber_100g": 11,
+      "salt_100g": 1.68
+    }
+  },
+  {
+    "id": "3336971805021",
+    "name": "Chips de lentilles saveur fines herbes",
+    "brand": "Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/180/5021/front_en.203.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:crackers-appetizers",
+      "en:lentil-crisps",
+      "fr:chips-produits-aperitifs"
+    ],
+    "nutrition": {
+      "energy_100g": 1900,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 56.7,
+      "sugars_100g": 2.3,
+      "fat_100g": 19,
+      "saturated_fat_100g": 1.7,
+      "fiber_100g": 7.33,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5050974505259",
+    "name": "Ryvita Multigrain Crispbread",
+    "brand": "RYVITA",
+    "image": "https://images.openfoodfacts.org/images/products/505/097/450/5259/front_en.58.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:breads",
+      "en:crackers-appetizers",
+      "en:plain-salty-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 1480,
+      "proteins_100g": 12.4,
+      "carbohydrates_100g": 55.2,
+      "sugars_100g": 3.81,
+      "fat_100g": 4.76,
+      "saturated_fat_100g": 0.952,
+      "fiber_100g": 17.1,
+      "salt_100g": 0.571
+    }
+  },
+  {
+    "id": "5000137121994",
+    "name": "Cream Crackers",
+    "brand": "Jacob’s",
+    "image": "https://images.openfoodfacts.org/images/products/500/013/712/1994/front_en.27.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1841,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 67.7,
+      "sugars_100g": 1.4,
+      "fat_100g": 13.5,
+      "saturated_fat_100g": 6.2,
+      "fiber_100g": 3.8,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "4033634061020",
+    "name": "Organic Crisp Bread",
+    "brand": "DR KARG'S",
+    "image": "https://images.openfoodfacts.org/images/products/403/363/406/1020/front_en.84.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:breads",
+      "en:crackers-appetizers",
+      "en:crispbreads",
+      "en:aliments-d-origine-vegetale",
+      "en:aliments-et-boissons-a-base-de-vegetaux",
+      "en:amuse-gueules",
+      "en:biscuits-sucres-biscuits-aperitifs",
+      "en:cereales-et-pommes-de-terre",
+      "en:pains",
+      "en:pains-croustillants",
+      "en:pains-croustillants-complets",
+      "en:snacks-sales"
+    ],
+    "nutrition": {
+      "energy_100g": 1851,
+      "proteins_100g": 18,
+      "carbohydrates_100g": 47,
+      "sugars_100g": 2.4,
+      "fat_100g": 18,
+      "saturated_fat_100g": 4.7,
+      "fiber_100g": 10,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "3168930002987",
+    "name": "Cuites au four nature",
+    "brand": "Lay’s",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/000/2987/front_en.134.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:crisps-made-from-reconstituted-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 1860,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 73,
+      "sugars_100g": 5.3,
+      "fat_100g": 13,
+      "saturated_fat_100g": 1.4,
+      "fiber_100g": 6.2,
+      "salt_100g": 0.84
+    }
+  },
+  {
+    "id": "0061232201948",
+    "name": "Cheese Oatcakes",
+    "brand": "nairn's",
+    "image": "https://images.openfoodfacts.org/images/products/006/123/220/1948/front_en.79.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-appetizers",
+      "en:aperitivos",
+      "en:botanas",
+      "en:snacks-salados"
+    ],
+    "nutrition": {
+      "energy_100g": 1980,
+      "proteins_100g": 13.6,
+      "carbohydrates_100g": 44.7,
+      "sugars_100g": 0.6,
+      "fat_100g": 26.6,
+      "saturated_fat_100g": 12,
+      "fiber_100g": 7.2,
+      "salt_100g": 2.8
+    }
+  },
+  {
+    "id": "5053990167845",
+    "name": "Sour Cream & Onion chips",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/016/7845/front_en.66.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2163,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 2.1,
+      "fat_100g": 29,
+      "saturated_fat_100g": 2.9,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.2
+    }
+  },
+  {
+    "id": "5053990107384",
+    "name": "Pringles sour cream & onion",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/010/7384/front_en.106.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2163,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 2.1,
+      "fat_100g": 29,
+      "saturated_fat_100g": 2.9,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.2
+    }
+  },
+  {
+    "id": "5053990127740",
+    "name": "Pringles Sour Cream",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/012/7740/front_en.87.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:canned-foods",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:meals",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:canned-meals",
+      "de:knabbergebäck",
+      "de:knabbergebäck-mit-sauerrahm-und-zwiebelgeschmack"
+    ],
+    "nutrition": {
+      "energy_100g": 2163,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 2.1,
+      "fat_100g": 29,
+      "saturated_fat_100g": 2.9,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.2
+    }
+  },
+  {
+    "id": "5601363006668",
+    "name": "Pelotazos futebolas",
+    "brand": "Cheetos",
+    "image": "https://images.openfoodfacts.org/images/products/560/136/300/6668/front_fr.30.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-maize",
+      "fr:crackersappetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2176,
+      "proteins_100g": 5.4,
+      "carbohydrates_100g": 61.4,
+      "sugars_100g": 6.5,
+      "fat_100g": 27.8,
+      "saturated_fat_100g": 4,
+      "fiber_100g": 1.4,
+      "salt_100g": 1.6
+    }
+  },
+  {
+    "id": "5060198820052",
+    "name": "Peter's Yard Original Sourdough Crackers",
+    "brand": "Peter's Yard",
+    "image": "https://images.openfoodfacts.org/images/products/506/019/882/0052/front_en.12.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:breads",
+      "en:crackers-appetizers",
+      "en:crispbreads"
+    ],
+    "nutrition": {
+      "energy_100g": 1552,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 69,
+      "sugars_100g": 4,
+      "fat_100g": 2.8,
+      "saturated_fat_100g": 1.2,
+      "fiber_100g": 8.1,
+      "salt_100g": 1.6
+    }
+  },
+  {
+    "id": "8410199790958",
+    "name": "Pelotazos",
+    "brand": "Cheetos",
+    "image": "https://images.openfoodfacts.org/images/products/841/019/979/0958/front_es.86.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-maize"
+    ],
+    "nutrition": {
+      "energy_100g": 2177,
+      "proteins_100g": 5.4,
+      "carbohydrates_100g": 61.4,
+      "sugars_100g": 6.5,
+      "fat_100g": 27.8,
+      "saturated_fat_100g": 4,
+      "fiber_100g": 1.4,
+      "salt_100g": 1.6
+    }
+  },
+  {
+    "id": "5053990161966",
+    "name": "TEXAS BBQ SAUCE",
+    "brand": "PRINGLES",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/016/1966/front_en.64.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato",
+      "en:texas-bbq-sauce-flavour-savoury-snack"
+    ],
+    "nutrition": {
+      "energy_100g": 2163,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 4.1,
+      "fat_100g": 29,
+      "saturated_fat_100g": 2.9,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.08
+    }
+  },
+  {
+    "id": "3497917000907",
+    "name": "Chips saveur fromage du Jura",
+    "brand": "Brets",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/700/0907/front_fr.222.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:chips-de-pommes-de-terre-ondulees"
+    ],
+    "nutrition": {
+      "energy_100g": 2177,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 1.1,
+      "fat_100g": 31,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 4.8,
+      "salt_100g": 1.7
+    }
+  },
+  {
+    "id": "3336971805038",
+    "name": "Chips de lentilles saveur tomate mozza",
+    "brand": "Natu' & Bon,Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/180/5038/front_en.94.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:crackers-appetizers",
+      "en:lentil-crisps",
+      "en:puffed-salty-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 1894,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 3.8,
+      "fat_100g": 19,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": 7.2,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "0061232202952",
+    "name": "Fine Milled Oatcakes",
+    "brand": "Nairn's",
+    "image": "https://images.openfoodfacts.org/images/products/006/123/220/2952/front_en.34.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1952,
+      "proteins_100g": 11.2,
+      "carbohydrates_100g": 55,
+      "sugars_100g": 0.7,
+      "fat_100g": 20.4,
+      "saturated_fat_100g": 8.1,
+      "fiber_100g": 9,
+      "salt_100g": 1.61
+    }
+  },
+  {
+    "id": "0612322000202",
+    "name": "Fruit & Seed Oatcakes",
+    "brand": "Nairn's",
+    "image": "https://images.openfoodfacts.org/images/products/061/232/200/0202/front_en.23.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits"
+    ],
+    "nutrition": {
+      "energy_100g": 1840,
+      "proteins_100g": 9.6,
+      "carbohydrates_100g": 60,
+      "sugars_100g": 16,
+      "fat_100g": 15.2,
+      "saturated_fat_100g": 4.8,
+      "fiber_100g": 9.6,
+      "salt_100g": 0.516
+    }
+  },
+  {
+    "id": "8410076481597",
+    "name": "Tortilla Nachips Original",
+    "brand": "Old El Paso",
+    "image": "https://images.openfoodfacts.org/images/products/841/007/648/1597/front_en.317.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2050,
+      "proteins_100g": 7.67,
+      "carbohydrates_100g": 59,
+      "sugars_100g": 0.67,
+      "fat_100g": 23.7,
+      "saturated_fat_100g": 2.33,
+      "fiber_100g": 6,
+      "salt_100g": 0.49
+    }
+  },
+  {
+    "id": "5000168001104",
+    "name": "Table Water",
+    "brand": "Carr's",
+    "image": "https://images.openfoodfacts.org/images/products/500/016/800/1104/front_en.95.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:small-crackers"
+    ],
+    "nutrition": {
+      "energy_100g": 1749,
+      "proteins_100g": 10.1,
+      "carbohydrates_100g": 74.7,
+      "sugars_100g": 1.5,
+      "fat_100g": 7.7,
+      "saturated_fat_100g": 3.3,
+      "fiber_100g": 4.2,
+      "salt_100g": 1.5
+    }
+  },
+  {
+    "id": "7622202025587",
+    "name": "tuc",
+    "brand": "Tuc",
+    "image": "https://images.openfoodfacts.org/images/products/762/220/202/5587/front_en.31.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:salty-biscuits"
+    ],
+    "nutrition": {
+      "energy_100g": 2028,
+      "proteins_100g": 8.1,
+      "carbohydrates_100g": 68,
+      "sugars_100g": 5.2,
+      "fat_100g": 19,
+      "saturated_fat_100g": 8.7,
+      "fiber_100g": 2.1,
+      "salt_100g": 1.9
+    }
+  },
+  {
+    "id": "51000005",
+    "name": "Cheese & Onion Flavour Potato Crisps",
+    "brand": "Walkers",
+    "image": "https://images.openfoodfacts.org/images/products/000/005/100/0005/front_en.57.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:cheese-and-onion-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2140,
+      "proteins_100g": 6.8,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 2.8,
+      "fat_100g": 29.6,
+      "saturated_fat_100g": 2.4,
+      "fiber_100g": 4,
+      "salt_100g": 1.14
+    }
+  },
+  {
+    "id": "5057545916049",
+    "name": "CREAM CRACKERS",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/754/591/6049/front_en.43.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:wheat-crackers"
+    ],
+    "nutrition": {
+      "energy_100g": 1854,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 68.6,
+      "sugars_100g": 1.3,
+      "fat_100g": 13.7,
+      "saturated_fat_100g": 6.2,
+      "fiber_100g": 2.9,
+      "salt_100g": 0.7875
+    }
+  },
+  {
+    "id": "3027030011810",
+    "name": "Sticks et bretzels d'Alsace",
+    "brand": "Dr. Oetker, ANCEL",
+    "image": "https://images.openfoodfacts.org/images/products/302/703/001/1810/front_fr.47.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:pretzel"
+    ],
+    "nutrition": {
+      "energy_100g": 1652,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 73,
+      "sugars_100g": 3.2,
+      "fat_100g": 4.8,
+      "saturated_fat_100g": 0.4,
+      "fiber_100g": 6.2,
+      "salt_100g": 2.8
+    }
+  },
+  {
+    "id": "5017764128128",
+    "name": "Sea Salt & Balsamic Vinegar Crisps",
+    "brand": "Kettle",
+    "image": "https://images.openfoodfacts.org/images/products/501/776/412/8128/front_en.10.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2143,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 54.1,
+      "sugars_100g": 1.8,
+      "fat_100g": 29.3,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 4.2,
+      "salt_100g": 2.3
+    }
+  },
+  {
+    "id": "6111242040991",
+    "name": "Fakiat Barbeque",
+    "brand": "leader food",
+    "image": "https://images.openfoodfacts.org/images/products/611/124/204/0991/front_fr.21.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:seeds",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:cereal-grains",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:corn",
+      "en:flavoured-potato-crisps",
+      "en:barbecue-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2145,
+      "proteins_100g": 8,
+      "carbohydrates_100g": 63.6,
+      "sugars_100g": 0.5,
+      "fat_100g": 25,
+      "saturated_fat_100g": 11.2,
+      "fiber_100g": 6.2,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5053990101542",
+    "name": "pringles hot & spicy",
+    "brand": "pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/010/1542/front_fr.77.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2040,
+      "proteins_100g": 6.67,
+      "carbohydrates_100g": 50,
+      "sugars_100g": 2.67,
+      "fat_100g": 29,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 3.67,
+      "salt_100g": 1.2
+    }
+  },
+  {
+    "id": "5016451062110",
+    "name": "SEA SALTED",
+    "brand": "Seabrook",
+    "image": "https://images.openfoodfacts.org/images/products/501/645/106/2110/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2159,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 52.6,
+      "sugars_100g": 0.2,
+      "fat_100g": 30.4,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": null,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "5055958706288",
+    "name": "Smoky Barbecue Crunch",
+    "brand": "graze",
+    "image": "https://images.openfoodfacts.org/images/products/505/595/870/6288/front_en.39.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips",
+      "en:roasted-corn-kernels"
+    ],
+    "nutrition": {
+      "energy_100g": 1944,
+      "proteins_100g": 9.6,
+      "carbohydrates_100g": 67,
+      "sugars_100g": 5.1,
+      "fat_100g": 17.2,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 7.4,
+      "salt_100g": 0.74
+    }
+  },
+  {
+    "id": "5056051802419",
+    "name": "Veg crisps",
+    "brand": "TYRRELL'S",
+    "image": "https://images.openfoodfacts.org/images/products/505/605/180/2419/front_en.75.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:parsnip-crisps",
+      "it:snak-vegetali"
+    ],
+    "nutrition": {
+      "energy_100g": 2244,
+      "proteins_100g": 5.1,
+      "carbohydrates_100g": 42,
+      "sugars_100g": 23.5,
+      "fat_100g": 34.5,
+      "saturated_fat_100g": 3.9,
+      "fiber_100g": 11.3,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "20006174",
+    "name": "Tartines craquantes Froment",
+    "brand": "Maître Jean Pierre",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/000/6174/front_en.189.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:breads",
+      "en:crackers-appetizers",
+      "en:extruded-crispbreads",
+      "en:toasts"
+    ],
+    "nutrition": {
+      "energy_100g": 1631,
+      "proteins_100g": 11.7,
+      "carbohydrates_100g": 73.9,
+      "sugars_100g": 3.5,
+      "fat_100g": 23.4,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": 6.2,
+      "salt_100g": 1.19
+    }
+  },
+  {
+    "id": "5060198820847",
+    "name": "Rosemary & Sea Salt Sourdough Crackers",
+    "brand": "Peter’s Yard",
+    "image": "https://images.openfoodfacts.org/images/products/506/019/882/0847/front_en.11.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1720,
+      "proteins_100g": 11,
+      "carbohydrates_100g": 67,
+      "sugars_100g": 3.2,
+      "fat_100g": 9.2,
+      "saturated_fat_100g": 0.7,
+      "fiber_100g": 7.7,
+      "salt_100g": 1.9675
+    }
+  },
+  {
+    "id": "8480000336408",
+    "name": "Nachos",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/033/6408/front_en.57.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2013,
+      "proteins_100g": 8.2,
+      "carbohydrates_100g": 61,
+      "sugars_100g": 3.1,
+      "fat_100g": 22,
+      "saturated_fat_100g": 2.3,
+      "fiber_100g": 6.3,
+      "salt_100g": 0.4925
+    }
+  },
+  {
+    "id": "8411859551445",
+    "name": "Buscalios",
+    "brand": "Risi",
+    "image": "https://images.openfoodfacts.org/images/products/841/185/955/1445/front_fr.4.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2171,
+      "proteins_100g": 5.8,
+      "carbohydrates_100g": 67.3,
+      "sugars_100g": 7.5,
+      "fat_100g": 23.1,
+      "saturated_fat_100g": 2.3,
+      "fiber_100g": null,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "3168930168133",
+    "name": "Chips recette paysanne nature",
+    "brand": "Lays",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/016/8133/front_fr.40.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:farmer-s-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2148,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 0.5,
+      "fat_100g": 30,
+      "saturated_fat_100g": 3.2,
+      "fiber_100g": 3.9,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "0005100000100",
+    "name": "Ready Salted Crisps",
+    "brand": "Walkers",
+    "image": "https://images.openfoodfacts.org/images/products/000/510/000/0100/front_en.18.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2162,
+      "proteins_100g": 6.4,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 0.4,
+      "fat_100g": 31,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 3.9,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "5050974000822",
+    "name": "Thins Multi-Seed Flatbreads",
+    "brand": "Ryvita",
+    "image": "https://images.openfoodfacts.org/images/products/505/097/400/0822/front_en.45.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:breads",
+      "en:flatbreads"
+    ],
+    "nutrition": {
+      "energy_100g": 1821,
+      "proteins_100g": 16.4,
+      "carbohydrates_100g": 56.2,
+      "sugars_100g": 2.9,
+      "fat_100g": 14.1,
+      "saturated_fat_100g": 3.3,
+      "fiber_100g": 8.1,
+      "salt_100g": 1.54
+    }
+  },
+  {
+    "id": "8402001014512",
+    "name": "Sticks Vegetales",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/840/200/101/4512/front_es.57.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2050,
+      "proteins_100g": 3.3,
+      "carbohydrates_100g": 65.6,
+      "sugars_100g": 2.3,
+      "fat_100g": 23.6,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 1.8,
+      "salt_100g": 2.3
+    }
+  },
+  {
+    "id": "0612322000387",
+    "name": "Original Oatcakes",
+    "brand": "Nairn’s",
+    "image": "https://images.openfoodfacts.org/images/products/061/232/200/0387/front_en.46.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:oatcakes"
+    ],
+    "nutrition": {
+      "energy_100g": 1987,
+      "proteins_100g": 11.2,
+      "carbohydrates_100g": 52.1,
+      "sugars_100g": 0.8,
+      "fat_100g": 22.8,
+      "saturated_fat_100g": 9.1,
+      "fiber_100g": 8.4,
+      "salt_100g": 1.62
+    }
+  },
+  {
+    "id": "5053990161607",
+    "name": "Pringles Paprika",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/016/1607/front_en.51.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2164,
+      "proteins_100g": 6.7,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 3.2,
+      "fat_100g": 30,
+      "saturated_fat_100g": 2.8,
+      "fiber_100g": 4.4,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "20615420",
+    "name": "Paahdettu maapähkinä",
+    "brand": "Alesto",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/061/5420/front_en.148.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:legumes-and-their-products",
+      "en:snacks",
+      "en:legumes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:nuts-and-their-products",
+      "en:nuts",
+      "en:roasted-nuts",
+      "en:peanuts",
+      "en:roasted-peanuts"
+    ],
+    "nutrition": {
+      "energy_100g": 2620,
+      "proteins_100g": 24.7,
+      "carbohydrates_100g": 11.1,
+      "sugars_100g": 5.3,
+      "fat_100g": 51.8,
+      "saturated_fat_100g": 7.9,
+      "fiber_100g": 8.3,
+      "salt_100g": 0.04
+    }
+  },
+  {
+    "id": "5060490400242",
+    "name": "Love, Corn (Sea Salt)",
+    "brand": "Love Corn",
+    "image": "https://images.openfoodfacts.org/images/products/506/049/040/0242/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:seeds",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:cereal-grains",
+      "en:corn",
+      "en:corn-grain"
+    ],
+    "nutrition": {
+      "energy_100g": 1828,
+      "proteins_100g": 7.4,
+      "carbohydrates_100g": 66,
+      "sugars_100g": 0.7,
+      "fat_100g": 13.3,
+      "saturated_fat_100g": 1.3,
+      "fiber_100g": 7,
+      "salt_100g": 1.5
+    }
+  },
+  {
+    "id": "5410041435702",
+    "name": "TUC Original",
+    "brand": "Mondelez,Tuc",
+    "image": "https://images.openfoodfacts.org/images/products/541/004/143/5702/front_en.8.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2020,
+      "proteins_100g": 8.3,
+      "carbohydrates_100g": 67,
+      "sugars_100g": 7.1,
+      "fat_100g": 19,
+      "saturated_fat_100g": 9,
+      "fiber_100g": 2.4,
+      "salt_100g": 1.7
+    }
+  },
+  {
+    "id": "5060042641420",
+    "name": "Chips sel de mer et poivre noir",
+    "brand": "Tyrrell’s",
+    "image": "https://images.openfoodfacts.org/images/products/506/004/264/1420/front_en.87.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 1962,
+      "proteins_100g": 6.4,
+      "carbohydrates_100g": 50,
+      "sugars_100g": 1.2,
+      "fat_100g": 26,
+      "saturated_fat_100g": 2.3,
+      "fiber_100g": 5.4,
+      "salt_100g": 0.9825
+    }
+  },
+  {
+    "id": "9322969000015",
+    "name": "Corn Thins Original",
+    "brand": "Real Foods",
+    "image": "https://images.openfoodfacts.org/images/products/932/296/900/0015/front_en.162.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:corn-thins"
+    ],
+    "nutrition": {
+      "energy_100g": 1610,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 71.1,
+      "sugars_100g": 0.556,
+      "fat_100g": 3.33,
+      "saturated_fat_100g": 0.556,
+      "fiber_100g": 7.22,
+      "salt_100g": 0.653
+    }
+  },
+  {
+    "id": "5017764003395",
+    "name": "Chipotle & lime",
+    "brand": "Manomasa",
+    "image": "https://images.openfoodfacts.org/images/products/501/776/400/3395/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2155,
+      "proteins_100g": 7,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 2,
+      "fat_100g": 27.5,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 6.5,
+      "salt_100g": 0.4
+    }
+  },
+  {
+    "id": "5000137487908",
+    "name": "The Original Cracker",
+    "brand": "Ritz Bakery",
+    "image": "https://images.openfoodfacts.org/images/products/500/013/748/7908/front_en.38.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2090,
+      "proteins_100g": 7.2,
+      "carbohydrates_100g": 62,
+      "sugars_100g": 8.3,
+      "fat_100g": 23,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 2.8,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "5000137159614",
+    "name": "HIGH FIBRE CREAM CRACKERS",
+    "brand": "Jacob's, Jacobs",
+    "image": "https://images.openfoodfacts.org/images/products/500/013/715/9614/front_en.35.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1993,
+      "proteins_100g": 9.2,
+      "carbohydrates_100g": 63.1,
+      "sugars_100g": 0.8,
+      "fat_100g": 19.3,
+      "saturated_fat_100g": 9,
+      "fiber_100g": 6.4,
+      "salt_100g": 1.7
+    }
+  },
+  {
+    "id": "5060283762212",
+    "name": "BARBECUE LENTIL CHIPS",
+    "brand": "PROPER",
+    "image": "https://images.openfoodfacts.org/images/products/506/028/376/2212/front_en.49.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:barbecue-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1962,
+      "proteins_100g": 9.7,
+      "carbohydrates_100g": 61,
+      "sugars_100g": 4.1,
+      "fat_100g": 20,
+      "saturated_fat_100g": 1.6,
+      "fiber_100g": 2.6,
+      "salt_100g": 2.35
+    }
+  },
+  {
+    "id": "01708752",
+    "name": "Just Snax Tortilla Chips",
+    "brand": "Sainsbury's basics",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/170/8752/front_en.18.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2013,
+      "proteins_100g": 5.8,
+      "carbohydrates_100g": 64.6,
+      "sugars_100g": 0.5,
+      "fat_100g": 21,
+      "saturated_fat_100g": 1.9,
+      "fiber_100g": 4.9,
+      "salt_100g": 0.9
+    }
+  },
+  {
+    "id": "3497911105127",
+    "name": "Chips saveur Sel & Vinaigre",
+    "brand": "Brets",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/110/5127/front_fr.171.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:salt-and-vinegar-crisps",
+      "en:potato-crisps-in-sunflower-oil",
+      "en:salt-and-malt-vinegar-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2177,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 0.9,
+      "fat_100g": 31,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 4.8,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "5017764003142",
+    "name": "Lightly Salted Potato chips",
+    "brand": "Kettle",
+    "image": "https://images.openfoodfacts.org/images/products/501/776/400/3142/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2070,
+      "proteins_100g": 7.7,
+      "carbohydrates_100g": 56.7,
+      "sugars_100g": 0.4,
+      "fat_100g": 25.4,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 5,
+      "salt_100g": 0.7
+    }
+  },
+  {
+    "id": "3336970711064",
+    "name": "Curly cacahuète l'original",
+    "brand": "Curly, Intersnack, Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/071/1064/front_en.87.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-maize",
+      "fr:biscuits-aperitif-souffles-a-la-cacahuete"
+    ],
+    "nutrition": {
+      "energy_100g": 2034,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 1.4,
+      "fat_100g": 24,
+      "saturated_fat_100g": 3.2,
+      "fiber_100g": 5.5,
+      "salt_100g": 1.5
+    }
+  },
+  {
+    "id": "10600425",
+    "name": "Chips sea salt & cider vinegar",
+    "brand": "Tyrrels",
+    "image": "https://images.openfoodfacts.org/images/products/000/001/060/0425/front_fr.58.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2042,
+      "proteins_100g": 5.2,
+      "carbohydrates_100g": 51.8,
+      "sugars_100g": 0.6,
+      "fat_100g": 27.2,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 3.3,
+      "salt_100g": 2
+    }
+  },
+  {
+    "id": "51000009",
+    "name": "Salt and Vinegar Flavour Potato Crisps",
+    "brand": "Walkers",
+    "image": "https://images.openfoodfacts.org/images/products/000/005/100/0009/front_en.39.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:salt-and-vinegar-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2140,
+      "proteins_100g": 6.4,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 0.4,
+      "fat_100g": 29.6,
+      "saturated_fat_100g": 2.4,
+      "fiber_100g": 4,
+      "salt_100g": 4
+    }
+  },
+  {
+    "id": "5057373749130",
+    "name": "Ready Salted Crisps",
+    "brand": "Tesco Finest",
+    "image": "https://images.openfoodfacts.org/images/products/505/737/374/9130/front_en.25.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2070,
+      "proteins_100g": 6.8,
+      "carbohydrates_100g": 53.7,
+      "sugars_100g": 0.3,
+      "fat_100g": 27.4,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": 3.4,
+      "salt_100g": 0.9
+    }
+  },
+  {
+    "id": "3245550078681",
+    "name": "Snack poppé T&H",
+    "brand": "Too GoodFrance",
+    "image": "https://images.openfoodfacts.org/images/products/324/555/007/8681/front_en.128.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-potato",
+      "en:amuse-gueules",
+      "en:aperitif",
+      "en:biscuits-aperitifs",
+      "en:biscuits-aperitifs-souffles",
+      "en:snacks-sales"
+    ],
+    "nutrition": {
+      "energy_100g": 1661,
+      "proteins_100g": 18,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 7.9,
+      "fat_100g": 10,
+      "saturated_fat_100g": 1.1,
+      "fiber_100g": 8.6,
+      "salt_100g": 2.7
+    }
+  },
+  {
+    "id": "3336972109104",
+    "name": "Chips de lentilles saveur oignons caramélisés",
+    "brand": "Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/210/9104/front_fr.49.400.jpg",
+    "nutriscore": "A",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:lentil-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1895,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 1.7,
+      "fat_100g": 19,
+      "saturated_fat_100g": 1.7,
+      "fiber_100g": 7.7,
+      "salt_100g": 1
+    }
+  },
+  {
+    "id": "5010265000801",
+    "name": "ORIGINAL RYVITA CRACKERBREAD",
+    "brand": "RYVITA",
+    "image": "https://images.openfoodfacts.org/images/products/501/026/500/0801/front_en.42.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5060042641413",
+    "name": "Tyrrell's Sweet Chilli & Red Pepper",
+    "brand": "Tyrrell’s",
+    "image": "https://images.openfoodfacts.org/images/products/506/004/264/1413/front_en.109.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil",
+      "en:vegetarian"
+    ],
+    "nutrition": {
+      "energy_100g": 2105,
+      "proteins_100g": 7,
+      "carbohydrates_100g": 54.1,
+      "sugars_100g": 4.9,
+      "fat_100g": 27.3,
+      "saturated_fat_100g": 0.7,
+      "fiber_100g": 6.6,
+      "salt_100g": 0.32475
+    }
+  },
+  {
+    "id": "5053990162703",
+    "name": "Pringles",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/016/2703/front_fr.98.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2167,
+      "proteins_100g": 6.5,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 3.3,
+      "fat_100g": 29,
+      "saturated_fat_100g": 6.3,
+      "fiber_100g": 3.9,
+      "salt_100g": 1.2
+    }
+  },
+  {
+    "id": "5059697729072",
+    "name": "Tortilla chips",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/969/772/9072/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:crackers-appetizers",
+      "en:corn-chips",
+      "en:plain-salty-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 1980,
+      "proteins_100g": 6.1,
+      "carbohydrates_100g": 62.9,
+      "sugars_100g": 0.9,
+      "fat_100g": 20.5,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": 6.3,
+      "salt_100g": 0.443
+    }
+  },
+  {
+    "id": "3497917000518",
+    "name": "Chips saveur Chèvre piment d'Espelette",
+    "brand": "Brets",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/700/0518/front_en.208.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2186,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 2.6,
+      "fat_100g": 31,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 4.8,
+      "salt_100g": 1.6
+    }
+  },
+  {
+    "id": "5060042641437",
+    "name": "Mature Cheddar & Chive",
+    "brand": "Tyrell's",
+    "image": "https://images.openfoodfacts.org/images/products/506/004/264/1437/front_fr.48.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2113,
+      "proteins_100g": 7.5,
+      "carbohydrates_100g": 52.9,
+      "sugars_100g": 3.6,
+      "fat_100g": 27.8,
+      "saturated_fat_100g": 0.78,
+      "fiber_100g": 6.5,
+      "salt_100g": 0.38325
+    }
+  },
+  {
+    "id": "4056489546092",
+    "name": "Bio crackers",
+    "brand": "Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/954/6092/front_fr.50.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:wheat-crackers",
+      "fr:voorgerechten",
+      "fr:zoute-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 1870,
+      "proteins_100g": 14,
+      "carbohydrates_100g": 49,
+      "sugars_100g": 2,
+      "fat_100g": 19,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 12,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "5391528180073",
+    "name": "Oven Baked Sweet Potato Fries",
+    "brand": "Strong Roots",
+    "image": "https://images.openfoodfacts.org/images/products/539/152/818/0073/front_en.72.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fruits-and-vegetables-based-foods",
+      "en:snacks",
+      "en:vegetable-based-foods-and-beverages",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:salty-snacks",
+      "en:vegetables-based-foods",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:fries",
+      "en:frozen-fries",
+      "en:sweet-potato-fries"
+    ],
+    "nutrition": {
+      "energy_100g": 805,
+      "proteins_100g": 2.75,
+      "carbohydrates_100g": 27.5,
+      "sugars_100g": 16.2,
+      "fat_100g": 6.88,
+      "saturated_fat_100g": 0.625,
+      "fiber_100g": 5.38,
+      "salt_100g": 0.287
+    }
+  },
+  {
+    "id": "3497917002451",
+    "name": "Chips de Sarrasin au Sel de Guerande",
+    "brand": "Brets",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/700/2451/front_en.109.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:seeds",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:cereal-grains",
+      "en:crisps",
+      "en:buckwheat",
+      "en:chips-de-sarrasin"
+    ],
+    "nutrition": {
+      "energy_100g": 2359,
+      "proteins_100g": 8.9,
+      "carbohydrates_100g": 45,
+      "sugars_100g": 0.6,
+      "fat_100g": 38,
+      "saturated_fat_100g": 3.1,
+      "fiber_100g": 4.6,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5050974504139",
+    "name": "Rosemary & Sea Salt Thins",
+    "brand": "Ryvita",
+    "image": "https://images.openfoodfacts.org/images/products/505/097/450/4139/front_en.27.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:breads",
+      "en:flatbreads"
+    ],
+    "nutrition": {
+      "energy_100g": 1610,
+      "proteins_100g": 12.9,
+      "carbohydrates_100g": 68.6,
+      "sugars_100g": 2.86,
+      "fat_100g": 4.29,
+      "saturated_fat_100g": 0.857,
+      "fiber_100g": 8.57,
+      "salt_100g": 1.68
+    }
+  },
+  {
+    "id": "5000328015927",
+    "name": "Baked Sea Salt",
+    "brand": "Walkers",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/801/5927/front_en.24.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1841,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 73,
+      "sugars_100g": 5.4,
+      "fat_100g": 13,
+      "saturated_fat_100g": 1.4,
+      "fiber_100g": 6.3,
+      "salt_100g": 0.85
+    }
+  },
+  {
+    "id": "3168930167983",
+    "name": "Pomme de terre nature",
+    "brand": "Lay's, Lays",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/016/7983/front_fr.38.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:frozen-foods",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:old-fashioned-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2250,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 0.5,
+      "fat_100g": 35,
+      "saturated_fat_100g": 3.7,
+      "fiber_100g": 3.9,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "4088600107806",
+    "name": "Scottish Rough Oatcakes",
+    "brand": "Savour Bakes",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/010/7806/front_en.16.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1873,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 58,
+      "sugars_100g": 1.4,
+      "fat_100g": 17,
+      "saturated_fat_100g": 6.9,
+      "fiber_100g": 7.6,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "3336971209133",
+    "name": "Curly cacahuete",
+    "brand": "Curly, Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/120/9133/front_en.111.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-maize",
+      "en:puffed-salty-snacks-made-from-maize-with-peanuts",
+      "fr:biscuits-aperitif-souffles-a-la-cacahuete"
+    ],
+    "nutrition": {
+      "energy_100g": 1933,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 1.5,
+      "fat_100g": 20,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 3.8,
+      "salt_100g": 1.5
+    }
+  },
+  {
+    "id": "3168930171737",
+    "name": "Chips nature",
+    "brand": "Lay's, Lays",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/017/1737/front_fr.63.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2121,
+      "proteins_100g": 6.1,
+      "carbohydrates_100g": 53,
+      "sugars_100g": 0.5,
+      "fat_100g": 30,
+      "saturated_fat_100g": 3.2,
+      "fiber_100g": 4.3,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5000328376677",
+    "name": "Walkers Ready Salted Crisps 6pk",
+    "brand": "Walkers",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/837/6677/front_en.41.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2180,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 53.3,
+      "sugars_100g": 0,
+      "fat_100g": 31.1,
+      "saturated_fat_100g": 2.22,
+      "fiber_100g": 5.11,
+      "salt_100g": 0.00211
+    }
+  },
+  {
+    "id": "5000237132296",
+    "name": "POM-BEAR Potato snacks",
+    "brand": "KP Snacks",
+    "image": "https://images.openfoodfacts.org/images/products/500/023/713/2296/front_en.39.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2120,
+      "proteins_100g": 3.85,
+      "carbohydrates_100g": 60.8,
+      "sugars_100g": 3.85,
+      "fat_100g": 26.2,
+      "saturated_fat_100g": 3.08,
+      "fiber_100g": 5.38,
+      "salt_100g": 1.38
+    }
+  },
+  {
+    "id": "5026489483054",
+    "name": "Lentil Chips - Sea Salt Flavour",
+    "brand": "Eat Real",
+    "image": "https://images.openfoodfacts.org/images/products/502/648/948/3054/front_en.20.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1980,
+      "proteins_100g": 11.4,
+      "carbohydrates_100g": 61.9,
+      "sugars_100g": 0.6,
+      "fat_100g": 19,
+      "saturated_fat_100g": 1.6,
+      "fiber_100g": 5,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "4056489530091",
+    "name": "Vegetable chips",
+    "brand": "Deluxe",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/953/0091/front_en.59.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2180,
+      "proteins_100g": 4.7,
+      "carbohydrates_100g": 40,
+      "sugars_100g": 27,
+      "fat_100g": 36,
+      "saturated_fat_100g": 3.3,
+      "fiber_100g": 11,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "3497911101129",
+    "name": "Chips saveur Poulet Braisé",
+    "brand": "Brets",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/110/1129/front_fr.135.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil",
+      "en:roasted-chicken-and-thyme-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2177,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 0.8,
+      "fat_100g": 31,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 4.8,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "4056489511182",
+    "name": "Cream Crackers",
+    "brand": "Rivercote",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/951/1182/front_en.35.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:wheat-crackers"
+    ],
+    "nutrition": {
+      "energy_100g": 1888,
+      "proteins_100g": 9.8,
+      "carbohydrates_100g": 70.9,
+      "sugars_100g": 1.1,
+      "fat_100g": 13.2,
+      "saturated_fat_100g": 6,
+      "fiber_100g": 3.4,
+      "salt_100g": 1.34
+    }
+  },
+  {
+    "id": "3027030011766",
+    "name": "Sticks Bretzels d'Alsace L'original",
+    "brand": "Dr. Oetker",
+    "image": "https://images.openfoodfacts.org/images/products/302/703/001/1766/front_fr.126.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:pretzel"
+    ],
+    "nutrition": {
+      "energy_100g": 1636,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 73,
+      "sugars_100g": 3.2,
+      "fat_100g": 4.8,
+      "saturated_fat_100g": 2.4,
+      "fiber_100g": 6.2,
+      "salt_100g": 2.8
+    }
+  },
+  {
+    "id": "20952174",
+    "name": "Lightly salted tortilla",
+    "brand": "LIDL",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/095/2174/front_en.25.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 1980,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 65.5,
+      "sugars_100g": 1,
+      "fat_100g": 19.8,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": 4.3,
+      "salt_100g": 0.67
+    }
+  },
+  {
+    "id": "5055958706721",
+    "name": "chilli and lime protein nut crunch",
+    "brand": "graze",
+    "image": "https://images.openfoodfacts.org/images/products/505/595/870/6721/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2500,
+      "proteins_100g": 22,
+      "carbohydrates_100g": 22,
+      "sugars_100g": 4.9,
+      "fat_100g": 47,
+      "saturated_fat_100g": 6.7,
+      "fiber_100g": 7.4,
+      "salt_100g": 0.88
+    }
+  },
+  {
+    "id": "5013665116738",
+    "name": "Sea Salt & Cider Vinegar Veggie Cakes",
+    "brand": "Kallø",
+    "image": "https://images.openfoodfacts.org/images/products/501/366/511/6738/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:lentil-pea-cakes"
+    ],
+    "nutrition": {
+      "energy_100g": 1800,
+      "proteins_100g": 23.7,
+      "carbohydrates_100g": 50.5,
+      "sugars_100g": 1.08,
+      "fat_100g": 12.9,
+      "saturated_fat_100g": 1.08,
+      "fiber_100g": 6.45,
+      "salt_100g": 1.05
+    }
+  },
+  {
+    "id": "4056489546108",
+    "name": "Cracker épeautre et 3 graines",
+    "brand": "MAÎTRE JEAN PIERRE",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/954/6108/front_fr.57.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1922,
+      "proteins_100g": 15,
+      "carbohydrates_100g": 48,
+      "sugars_100g": 2.3,
+      "fat_100g": 21,
+      "saturated_fat_100g": 2.9,
+      "fiber_100g": 9.3,
+      "salt_100g": 1.9
+    }
+  },
+  {
+    "id": "5000168085593",
+    "name": "Melts Cheese",
+    "brand": "Carr's",
+    "image": "https://images.openfoodfacts.org/images/products/500/016/808/5593/front_en.6.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2065,
+      "proteins_100g": 10.8,
+      "carbohydrates_100g": 59.6,
+      "sugars_100g": 8,
+      "fat_100g": 22.9,
+      "saturated_fat_100g": 16.2,
+      "fiber_100g": 2.5,
+      "salt_100g": 2.2
+    }
+  },
+  {
+    "id": "8410199013545",
+    "name": "Cheetos Sticks Palitos",
+    "brand": "Cheetos",
+    "image": "https://images.openfoodfacts.org/images/products/841/019/901/3545/front_en.23.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 2167,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 56.2,
+      "sugars_100g": 4.8,
+      "fat_100g": 29.3,
+      "saturated_fat_100g": 4.2,
+      "fiber_100g": null,
+      "salt_100g": 1.7
+    }
+  },
+  {
+    "id": "8410376013191",
+    "name": "Mini mix",
+    "brand": "Gullón",
+    "image": "https://images.openfoodfacts.org/images/products/841/037/601/3191/front_en.59.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:meals"
+    ],
+    "nutrition": {
+      "energy_100g": 1946,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 64,
+      "sugars_100g": 9,
+      "fat_100g": 20,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 0,
+      "salt_100g": 2.5
+    }
+  },
+  {
+    "id": "6111242040823",
+    "name": "Chips chili",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/124/204/0823/front_fr.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2280,
+      "proteins_100g": 5.3000001907349,
+      "carbohydrates_100g": 45,
+      "sugars_100g": 0,
+      "fat_100g": 37,
+      "saturated_fat_100g": 0,
+      "fiber_100g": null,
+      "salt_100g": 0.85
+    }
+  },
+  {
+    "id": "5017764003111",
+    "name": "Lightly Salted Potato Chips",
+    "brand": "Kettle",
+    "image": "https://images.openfoodfacts.org/images/products/501/776/400/3111/front_en.24.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil",
+      "en:lightly-salted-potato-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2067,
+      "proteins_100g": 7.7,
+      "carbohydrates_100g": 56.7,
+      "sugars_100g": 0.1,
+      "fat_100g": 25.4,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 4.1,
+      "salt_100g": 0.64
+    }
+  },
+  {
+    "id": "5053990107292",
+    "name": "Pringles Hot & Spicy",
+    "brand": "PRINGLES",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/010/7292/front_fr.67.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato",
+      "en:aperitif",
+      "en:snacks-sales",
+      "en:tuiles-salees"
+    ],
+    "nutrition": {
+      "energy_100g": 2222,
+      "proteins_100g": 4.7,
+      "carbohydrates_100g": 55,
+      "sugars_100g": 2.7,
+      "fat_100g": 32,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 2.9,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "7622210998095",
+    "name": "Monaco",
+    "brand": "Belin, Mondelez",
+    "image": "https://images.openfoodfacts.org/images/products/762/221/099/8095/front_fr.184.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2303,
+      "proteins_100g": 12,
+      "carbohydrates_100g": 45,
+      "sugars_100g": 5.6,
+      "fat_100g": 36,
+      "saturated_fat_100g": 18,
+      "fiber_100g": 2.4,
+      "salt_100g": 2.1
+    }
+  },
+  {
+    "id": "3392460460409",
+    "name": "Crackers heudebert",
+    "brand": "Heudebert,LU,Mondelez",
+    "image": "https://images.openfoodfacts.org/images/products/339/246/046/0409/front_fr.67.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:plain-salty-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 1810,
+      "proteins_100g": 11,
+      "carbohydrates_100g": 68,
+      "sugars_100g": 1,
+      "fat_100g": 12,
+      "saturated_fat_100g": 5,
+      "fiber_100g": 3,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "5000137415970",
+    "name": "Cream Crackers Original",
+    "brand": "Jacob's",
+    "image": "https://images.openfoodfacts.org/images/products/500/013/741/5970/front_en.18.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1837,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 67.4,
+      "sugars_100g": 0.6,
+      "fat_100g": 13.6,
+      "saturated_fat_100g": 6.3,
+      "fiber_100g": 3,
+      "salt_100g": 1.2775
+    }
+  },
+  {
+    "id": "3168930173311",
+    "name": "Doritos goût nature",
+    "brand": "Doritos",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/017/3311/front_fr.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 1966,
+      "proteins_100g": 6.5,
+      "carbohydrates_100g": 64,
+      "sugars_100g": 1.1,
+      "fat_100g": 20,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": 6.2,
+      "salt_100g": 0.71
+    }
+  },
+  {
+    "id": "3018930004903",
+    "name": "Bretzels d'Alsace maxi",
+    "brand": "Dr. Oetker, Ancel",
+    "image": "https://images.openfoodfacts.org/images/products/301/893/000/4903/front_fr.58.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:pretzel"
+    ],
+    "nutrition": {
+      "energy_100g": 1685,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 73,
+      "sugars_100g": 1.8,
+      "fat_100g": 6.4,
+      "saturated_fat_100g": 0.6,
+      "fiber_100g": 4.6,
+      "salt_100g": 2.5
+    }
+  },
+  {
+    "id": "5941868200087",
+    "name": "Maispops",
+    "brand": "Gusto",
+    "image": "https://images.openfoodfacts.org/images/products/594/186/820/0087/front_en.79.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 1990,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 67,
+      "sugars_100g": 1,
+      "fat_100g": 20,
+      "saturated_fat_100g": 4.5,
+      "fiber_100g": 2.3,
+      "salt_100g": 0.6
+    }
+  },
+  {
+    "id": "5060283762427",
+    "name": "Salt & Vinegar Lentil Chips",
+    "brand": "Proper",
+    "image": "https://images.openfoodfacts.org/images/products/506/028/376/2427/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:salt-and-vinegar-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1940,
+      "proteins_100g": 9.5,
+      "carbohydrates_100g": 60,
+      "sugars_100g": 1.5,
+      "fat_100g": 20,
+      "saturated_fat_100g": 1.5,
+      "fiber_100g": 2.5,
+      "salt_100g": 0.00663
+    }
+  },
+  {
+    "id": "5031021069665",
+    "name": "Scottish Rough Oatcakes",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/503/102/106/9665/front_en.19.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1874,
+      "proteins_100g": 10.7,
+      "carbohydrates_100g": 57.5,
+      "sugars_100g": 0.8,
+      "fat_100g": 17.3,
+      "saturated_fat_100g": 6.4,
+      "fiber_100g": 9.6,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "00414234",
+    "name": "Fettuccine Alfrado",
+    "brand": "Trader Giotto's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/041/4234/front_en.112.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips",
+      "en:aperitif",
+      "en:chips-de-mais",
+      "en:snacks-sales"
+    ],
+    "nutrition": {
+      "energy_100g": 2013,
+      "proteins_100g": 5.5,
+      "carbohydrates_100g": 62.7,
+      "sugars_100g": 1.4,
+      "fat_100g": 21.9,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 5.7,
+      "salt_100g": 0.75
+    }
+  },
+  {
+    "id": "5053990106981",
+    "name": "Pringles Cașcaval",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/010/6981/front_en.16.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2145,
+      "proteins_100g": 6.4,
+      "carbohydrates_100g": 55,
+      "sugars_100g": 1.4,
+      "fat_100g": 29,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "9417986941806",
+    "name": "Sweet Chilli Rice Crackers",
+    "brand": "the Snack organisation",
+    "image": "https://images.openfoodfacts.org/images/products/941/798/694/1806/front_en.15.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:rice-crackers"
+    ],
+    "nutrition": {
+      "energy_100g": 1766,
+      "proteins_100g": 7.2,
+      "carbohydrates_100g": 83,
+      "sugars_100g": null,
+      "fat_100g": 6.6,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5060878780386",
+    "name": "Lentil chips",
+    "brand": "Eat Real",
+    "image": "https://images.openfoodfacts.org/images/products/506/087/878/0386/front_en.40.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:lentil-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1908,
+      "proteins_100g": 13,
+      "carbohydrates_100g": 59,
+      "sugars_100g": 0.7,
+      "fat_100g": 18,
+      "saturated_fat_100g": 1.5,
+      "fiber_100g": 4.4,
+      "salt_100g": 2.1625
+    }
+  },
+  {
+    "id": "3027030007622",
+    "name": "Sticks et Bretzels d'Alsace",
+    "brand": "Dr. Oetker, Ancel",
+    "image": "https://images.openfoodfacts.org/images/products/302/703/000/7622/front_en.53.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:pretzel"
+    ],
+    "nutrition": {
+      "energy_100g": 1648,
+      "proteins_100g": 11,
+      "carbohydrates_100g": 74,
+      "sugars_100g": 1.7,
+      "fat_100g": 5,
+      "saturated_fat_100g": 0.5,
+      "fiber_100g": null,
+      "salt_100g": 2.8525
+    }
+  },
+  {
+    "id": "3497917002741",
+    "name": "Chips saveur Pesto Mozzarella",
+    "brand": "Brets",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/700/2741/front_en.34.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:wavy-potato-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2177,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 3.4,
+      "fat_100g": 31,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 4.8,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "3609200010054",
+    "name": "Rice Crackers Finement Salé promotion",
+    "brand": "N.A!,N.A! Nature Addicts",
+    "image": "https://images.openfoodfacts.org/images/products/360/920/001/0054/front_en.12.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:plain-salty-snacks",
+      "en:rice-crackers"
+    ],
+    "nutrition": {
+      "energy_100g": 1814,
+      "proteins_100g": 6.9,
+      "carbohydrates_100g": 82,
+      "sugars_100g": 0.8,
+      "fat_100g": 8,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 0.8,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5032439100070",
+    "name": "Baked Pretzels Original Sea Salted",
+    "brand": "Penn State",
+    "image": "https://images.openfoodfacts.org/images/products/503/243/910/0070/front_en.36.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:breads",
+      "en:crackers-appetizers",
+      "en:special-breads",
+      "en:pretzel"
+    ],
+    "nutrition": {
+      "energy_100g": 1680,
+      "proteins_100g": 9.8,
+      "carbohydrates_100g": 77,
+      "sugars_100g": 2.7,
+      "fat_100g": 4.9,
+      "saturated_fat_100g": 0.6,
+      "fiber_100g": 3.2,
+      "salt_100g": 2.5
+    }
+  },
+  {
+    "id": "5000237130612",
+    "name": "Pom-Bear Original 6pk",
+    "brand": "Pom-Bear",
+    "image": "https://images.openfoodfacts.org/images/products/500/023/713/0612/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2209,
+      "proteins_100g": 3.2,
+      "carbohydrates_100g": 64,
+      "sugars_100g": 1.2,
+      "fat_100g": 28,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": 0.5,
+      "salt_100g": 1.7
+    }
+  },
+  {
+    "id": "51000012",
+    "name": "Walkers Supreme Prawn Cocktail",
+    "brand": "Walkers",
+    "image": "https://images.openfoodfacts.org/images/products/000/005/100/0012/front_en.39.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:prawn-cocktail-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2140,
+      "proteins_100g": 6.4,
+      "carbohydrates_100g": 52,
+      "sugars_100g": 2,
+      "fat_100g": 29.2,
+      "saturated_fat_100g": 2.4,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3168930168195",
+    "name": "Chips paysanne nature",
+    "brand": "Lay's",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/016/8195/front_fr.29.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:farmer-s-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2148,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 0.5,
+      "fat_100g": 30,
+      "saturated_fat_100g": 3.2,
+      "fiber_100g": 3.9,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "5000328192871",
+    "name": "Sensations Thai Sweet Chilli Crisps",
+    "brand": "Walkers",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/819/2871/front_en.49.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2046,
+      "proteins_100g": 6.6,
+      "carbohydrates_100g": 54,
+      "sugars_100g": 3.9,
+      "fat_100g": 26,
+      "saturated_fat_100g": 0.66,
+      "fiber_100g": 5.9,
+      "salt_100g": 0.5925
+    }
+  },
+  {
+    "id": "5060490400259",
+    "name": "Corn Smoked BBQ Crunchy Corn",
+    "brand": "Love Corn",
+    "image": "https://images.openfoodfacts.org/images/products/506/049/040/0259/front_en.14.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:seeds",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:cereal-grains",
+      "en:corn"
+    ],
+    "nutrition": {
+      "energy_100g": 1840,
+      "proteins_100g": 7.14,
+      "carbohydrates_100g": 71.1,
+      "sugars_100g": 2.86,
+      "fat_100g": 12.9,
+      "saturated_fat_100g": 1.43,
+      "fiber_100g": 7.14,
+      "salt_100g": 1.05
+    }
+  },
+  {
+    "id": "3083680484466",
+    "name": "Taboule oriental 300g",
+    "brand": "Bonduelle",
+    "image": "https://images.openfoodfacts.org/images/products/308/368/048/4466/front_fr.157.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:meals",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:savory-semolina-dishes",
+      "en:tabbouleh",
+      "en:eastern-tabbouleh",
+      "en:vegetables-prepared-processed-perishable"
+    ],
+    "nutrition": {
+      "energy_100g": 748,
+      "proteins_100g": 5,
+      "carbohydrates_100g": 25,
+      "sugars_100g": 4,
+      "fat_100g": 6,
+      "saturated_fat_100g": 0.6,
+      "fiber_100g": 2,
+      "salt_100g": 0.95
+    }
+  },
+  {
+    "id": "3336971307020",
+    "name": "Monster Munch Salé",
+    "brand": "Intersnack,Monster Munch,Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/130/7020/front_en.80.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-potato",
+      "en:puffed-salty-snacks-made-from-potato-and-soy"
+    ],
+    "nutrition": {
+      "energy_100g": 2021,
+      "proteins_100g": 4.3,
+      "carbohydrates_100g": 61,
+      "sugars_100g": 3.7,
+      "fat_100g": 25,
+      "saturated_fat_100g": 2.8,
+      "fiber_100g": 4.8,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "3336971410027",
+    "name": "La Vicoise saveur sel de mer",
+    "brand": "Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/141/0027/front_en.64.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2001,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 50,
+      "sugars_100g": 0.64,
+      "fat_100g": 27,
+      "saturated_fat_100g": 2.4,
+      "fiber_100g": 5.4,
+      "salt_100g": 0.89
+    }
+  },
+  {
+    "id": "5060198641169",
+    "name": "Black Peppercorn Bolli Italian Crackers",
+    "brand": "Crosta & Mollica",
+    "image": "https://images.openfoodfacts.org/images/products/506/019/864/1169/front_en.6.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1796,
+      "proteins_100g": 9,
+      "carbohydrates_100g": 72,
+      "sugars_100g": 11,
+      "fat_100g": 11,
+      "saturated_fat_100g": 4.7,
+      "fiber_100g": 1.5,
+      "salt_100g": 2
+    }
+  },
+  {
+    "id": "5000137016955",
+    "name": "CRUNCHY SAVOURY WHOLEWHEAT STICKS",
+    "brand": "pladis",
+    "image": "https://images.openfoodfacts.org/images/products/500/013/701/6955/front_en.75.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1766,
+      "proteins_100g": 12.4,
+      "carbohydrates_100g": 57,
+      "sugars_100g": 0.5,
+      "fat_100g": 13.4,
+      "saturated_fat_100g": 1.9,
+      "fiber_100g": 11.3,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5000328154893",
+    "name": "Sweet Chilli Flavour Wholegrain Snack",
+    "brand": "Sunbites",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/815/4893/front_en.22.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1990,
+      "proteins_100g": 7.2,
+      "carbohydrates_100g": 60,
+      "sugars_100g": 6,
+      "fat_100g": 20.8,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 6.8,
+      "salt_100g": 0.55
+    }
+  },
+  {
+    "id": "5000436405719",
+    "name": "Sea salted potato crisps",
+    "brand": "Tesco Finest",
+    "image": "https://images.openfoodfacts.org/images/products/500/043/640/5719/front_en.18.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2171,
+      "proteins_100g": 5.1,
+      "carbohydrates_100g": 58.6,
+      "sugars_100g": 0.2,
+      "fat_100g": 28.8,
+      "saturated_fat_100g": 2.4,
+      "fiber_100g": 2.5,
+      "salt_100g": 0.9825
+    }
+  },
+  {
+    "id": "5000328250687",
+    "name": "Snack a jacks mini",
+    "brand": "Snackajacks",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/825/0687/front_en.36.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 1760,
+      "proteins_100g": 6.32,
+      "carbohydrates_100g": 73.7,
+      "sugars_100g": 2.11,
+      "fat_100g": 10,
+      "saturated_fat_100g": 1.05,
+      "fiber_100g": 3.16,
+      "salt_100g": 1.09
+    }
+  },
+  {
+    "id": "5053990156061",
+    "name": "Pringles original",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/015/6061/front_fr.77.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2252,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 56,
+      "sugars_100g": 1.4,
+      "fat_100g": 31,
+      "saturated_fat_100g": 6.6,
+      "fiber_100g": 3.5,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "5017764004019",
+    "name": "Sea Salt & Crushed Black Peppercorns",
+    "brand": "Kettle Chips",
+    "image": "https://images.openfoodfacts.org/images/products/501/776/400/4019/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2029,
+      "proteins_100g": 8.1,
+      "carbohydrates_100g": 58.4,
+      "sugars_100g": 0.9,
+      "fat_100g": 23.5,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": 4,
+      "salt_100g": 0.62
+    }
+  },
+  {
+    "id": "5410041143508",
+    "name": "Gout Bacon",
+    "brand": "Tuc,LU,Mondelēz",
+    "image": "https://images.openfoodfacts.org/images/products/541/004/114/3508/front_fr.174.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers"
+    ],
+    "nutrition": {
+      "energy_100g": 2011,
+      "proteins_100g": 8.5,
+      "carbohydrates_100g": 66,
+      "sugars_100g": 7,
+      "fat_100g": 19,
+      "saturated_fat_100g": 8.9,
+      "fiber_100g": 2.4,
+      "salt_100g": 2.2
+    }
+  },
+  {
+    "id": "3245550078674",
+    "name": "SNACK POPPÉ",
+    "brand": "TOO GOOD",
+    "image": "https://images.openfoodfacts.org/images/products/324/555/007/8674/front_en.151.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:crackers-appetizers",
+      "en:flavoured-potato-crisps",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-potato-and-soy"
+    ],
+    "nutrition": {
+      "energy_100g": 1705,
+      "proteins_100g": 18.9,
+      "carbohydrates_100g": 56.3,
+      "sugars_100g": 6.9,
+      "fat_100g": 9.7,
+      "saturated_fat_100g": 0.9,
+      "fiber_100g": 8.5,
+      "salt_100g": 1.62
+    }
+  },
+  {
+    "id": "6111242040847",
+    "name": "Leader Chips saveur Sel",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/124/204/0847/front_fr.6.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "ar:حليب-ساليم"
+    ],
+    "nutrition": {
+      "energy_100g": 2407,
+      "proteins_100g": 6.6,
+      "carbohydrates_100g": 52.4,
+      "sugars_100g": 0.2,
+      "fat_100g": 37.7,
+      "saturated_fat_100g": 17.8,
+      "fiber_100g": null,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "7300400483063",
+    "name": "Wasa tartine croustillante sensation aux graines de chia & touche de sel 245g",
+    "brand": "Wasa",
+    "image": "https://images.openfoodfacts.org/images/products/730/040/048/3063/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:seeds",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:chips-and-fries",
+      "en:cereal-grains",
+      "en:crisps",
+      "en:breads",
+      "en:chia",
+      "en:crispbreads"
+    ],
+    "nutrition": {
+      "energy_100g": 1427,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 58,
+      "sugars_100g": 0.5,
+      "fat_100g": 3,
+      "saturated_fat_100g": 0.4,
+      "fiber_100g": 20,
+      "salt_100g": 1.2
+    }
+  },
+  {
+    "id": "3336972006014",
+    "name": "L'extra craquante nature",
+    "brand": "Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/200/6014/front_en.46.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2190,
+      "proteins_100g": 5.9,
+      "carbohydrates_100g": 47,
+      "sugars_100g": 0.61,
+      "fat_100g": 34,
+      "saturated_fat_100g": 2.8,
+      "fiber_100g": 4.5,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "8410376051940",
+    "name": "Mini Bites Quinoa & Chía",
+    "brand": "Gullón",
+    "image": "https://images.openfoodfacts.org/images/products/841/037/605/1940/front_en.124.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2006,
+      "proteins_100g": 8.2,
+      "carbohydrates_100g": 58,
+      "sugars_100g": 6.2,
+      "fat_100g": 22,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 8.3,
+      "salt_100g": 2.8
+    }
+  },
+  {
+    "id": "3168930173373",
+    "name": "Doritos cheese",
+    "brand": "Doritos, PepsiCo",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/017/3373/front_fr.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:frozen-foods",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2010,
+      "proteins_100g": 6.8,
+      "carbohydrates_100g": 61,
+      "sugars_100g": 3.7,
+      "fat_100g": 22,
+      "saturated_fat_100g": 2.2,
+      "fiber_100g": 5.5,
+      "salt_100g": 0.875
+    }
+  },
+  {
+    "id": "7622201386597",
+    "name": "the ORIGINAL CRACKER",
+    "brand": "RITZ",
+    "image": "https://images.openfoodfacts.org/images/products/762/220/138/6597/front_en.31.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2042,
+      "proteins_100g": 7.8,
+      "carbohydrates_100g": 61,
+      "sugars_100g": 8.5,
+      "fat_100g": 23,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 3.3,
+      "salt_100g": 0.00325
+    }
+  },
+  {
+    "id": "4088600058306",
+    "name": "Gourmet Sea Salt Savoury crackers",
+    "brand": "Aldi",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/005/8306/front_en.9.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2004,
+      "proteins_100g": 7.7,
+      "carbohydrates_100g": 67,
+      "sugars_100g": 5.1,
+      "fat_100g": 19.6,
+      "saturated_fat_100g": 1.6,
+      "fiber_100g": 1.7,
+      "salt_100g": 2.25
+    }
+  },
+  {
+    "id": "00440127",
+    "name": "Cream crackers",
+    "brand": "By sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/044/0127/front_en.24.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1874,
+      "proteins_100g": 9.8,
+      "carbohydrates_100g": 70.9,
+      "sugars_100g": 11,
+      "fat_100g": 13.2,
+      "saturated_fat_100g": 6,
+      "fiber_100g": 3.4,
+      "salt_100g": 0.1
+    }
+  },
+  {
+    "id": "3056440083193",
+    "name": "Chipster",
+    "brand": "Belin, Mondelez",
+    "image": "https://images.openfoodfacts.org/images/products/305/644/008/3193/front_fr.186.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 1977,
+      "proteins_100g": 4.3,
+      "carbohydrates_100g": 66,
+      "sugars_100g": 0.7,
+      "fat_100g": 20,
+      "saturated_fat_100g": 9.2,
+      "fiber_100g": 4,
+      "salt_100g": 3
+    }
+  },
+  {
+    "id": "5053990155941",
+    "name": "Pringles Hot & Spicy",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/015/5941/front_fr.167.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato",
+      "en:aperitif",
+      "en:snacks-sales",
+      "en:tuiles-salees"
+    ],
+    "nutrition": {
+      "energy_100g": 2171,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 55,
+      "sugars_100g": 3,
+      "fat_100g": 29,
+      "saturated_fat_100g": 6.3,
+      "fiber_100g": 3.7,
+      "salt_100g": 1.2
+    }
+  },
+  {
+    "id": "5000396021202",
+    "name": "Ritz Crackers Original 200 g",
+    "brand": "Mondelez",
+    "image": "https://images.openfoodfacts.org/images/products/500/039/602/1202/front_en.107.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-appetizers",
+      "en:amuse-gueules",
+      "en:biscuits-crackers",
+      "en:biscuits-sucres-biscuits-aperitifs",
+      "en:snacks-sales",
+      "en:surgeles"
+    ],
+    "nutrition": {
+      "energy_100g": 2033,
+      "proteins_100g": 7.8,
+      "carbohydrates_100g": 61,
+      "sugars_100g": 8.6,
+      "fat_100g": 23,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 3.3,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "5000237117446",
+    "name": "hula hoops original",
+    "brand": "KP Snacks",
+    "image": "https://images.openfoodfacts.org/images/products/500/023/711/7446/front_en.49.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2100,
+      "proteins_100g": 3.4,
+      "carbohydrates_100g": 66,
+      "sugars_100g": 0.6,
+      "fat_100g": 24,
+      "saturated_fat_100g": 2.3,
+      "fiber_100g": 2.3,
+      "salt_100g": 1.4
+    }
+  },
+  {
+    "id": "5000328018942",
+    "name": "Doritos",
+    "brand": "Doritos",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/801/8942/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 1972,
+      "proteins_100g": 6.5,
+      "carbohydrates_100g": 64,
+      "sugars_100g": 1.1,
+      "fat_100g": 20,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": 6.8,
+      "salt_100g": 0.66
+    }
+  },
+  {
+    "id": "5053990161935",
+    "name": "Barbeque",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/016/1935/front_fr.34.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "5017764003371",
+    "name": "Manchego & Green Olive",
+    "brand": "Manomasa",
+    "image": "https://images.openfoodfacts.org/images/products/501/776/400/3371/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:tortilla-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1978,
+      "proteins_100g": 7.3,
+      "carbohydrates_100g": 57.2,
+      "sugars_100g": 5.6,
+      "fat_100g": 22.3,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 7,
+      "salt_100g": 0.95
+    }
+  },
+  {
+    "id": "8422114170806",
+    "name": "Totas",
+    "brand": "tosfrit",
+    "image": "https://images.openfoodfacts.org/images/products/842/211/417/0806/front_fr.4.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2195,
+      "proteins_100g": 5.6,
+      "carbohydrates_100g": 54.8,
+      "sugars_100g": 2,
+      "fat_100g": 31,
+      "saturated_fat_100g": 3.6,
+      "fiber_100g": 2.6,
+      "salt_100g": 2.03
+    }
+  },
+  {
+    "id": "4088600463575",
+    "name": "Lentil Chips",
+    "brand": "Snackrite",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/046/3575/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2004,
+      "proteins_100g": 9.6,
+      "carbohydrates_100g": 60.4,
+      "sugars_100g": 0.6,
+      "fat_100g": 21.4,
+      "saturated_fat_100g": 1.9,
+      "fiber_100g": 2.5,
+      "salt_100g": 1.6825
+    }
+  },
+  {
+    "id": "8480000823656",
+    "name": "REGAÑA",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/082/3656/front_en.68.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:cereals-and-their-products",
+      "en:breads",
+      "en:crackers-appetizers",
+      "en:special-breads",
+      "en:wheat-crackers",
+      "es:reganas",
+      "en:alimentos-y-bebidas-de-origen-vegetal-alimentos-de-origen-vegetal-cereales-y-patatas-panes-panes-especiales-reganas"
+    ],
+    "nutrition": {
+      "energy_100g": 1885,
+      "proteins_100g": 11.8,
+      "carbohydrates_100g": 65,
+      "sugars_100g": 2.6,
+      "fat_100g": 15,
+      "saturated_fat_100g": 2.3,
+      "fiber_100g": 3.7,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "8002190020167",
+    "name": "Crackers integrales",
+    "brand": "Galbusera",
+    "image": "https://images.openfoodfacts.org/images/products/800/219/002/0167/front_es.23.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1809,
+      "proteins_100g": 11,
+      "carbohydrates_100g": 64.9,
+      "sugars_100g": 2,
+      "fat_100g": 12.6,
+      "saturated_fat_100g": 1.3,
+      "fiber_100g": 6.5,
+      "salt_100g": 1.75
+    }
+  },
+  {
+    "id": "3497911119124",
+    "name": "Chips Craquante Sel Brets",
+    "brand": "Bret's",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/111/9124/front_en.87.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2251,
+      "proteins_100g": 6.1,
+      "carbohydrates_100g": 50,
+      "sugars_100g": 0.5,
+      "fat_100g": 34,
+      "saturated_fat_100g": 2.7,
+      "fiber_100g": 4.9,
+      "salt_100g": 0.6
+    }
+  },
+  {
+    "id": "4003586100313",
+    "name": "chipsfrisch ungarisch",
+    "brand": "funny-frisch",
+    "image": "https://images.openfoodfacts.org/images/products/400/358/610/0313/front_de.63.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2223,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 49,
+      "sugars_100g": 2.5,
+      "fat_100g": 33,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 4.5,
+      "salt_100g": 1.5
+    }
+  },
+  {
+    "id": "5060198642289",
+    "name": "Fennel Seed Tarallini",
+    "brand": "Crosta & Mollica",
+    "image": "https://images.openfoodfacts.org/images/products/506/019/864/2289/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:tarallini"
+    ],
+    "nutrition": {
+      "energy_100g": 1989,
+      "proteins_100g": 9.4,
+      "carbohydrates_100g": 63,
+      "sugars_100g": 1.1,
+      "fat_100g": 20,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 3.8,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "8411859552176",
+    "name": "Onduladas campesinas",
+    "brand": "Risi",
+    "image": "https://images.openfoodfacts.org/images/products/841/185/955/2176/front_es.20.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:wavy-potato-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2297,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 53.5,
+      "sugars_100g": 1.6,
+      "fat_100g": 34.5,
+      "saturated_fat_100g": 4.3,
+      "fiber_100g": 0,
+      "salt_100g": 0.8
+    }
+  },
+  {
+    "id": "5000328015552",
+    "name": "Sweet & Salty Popped Crisps",
+    "brand": "Popworks",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/801/5552/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 1870,
+      "proteins_100g": 6.7,
+      "carbohydrates_100g": 75,
+      "sugars_100g": 8.9,
+      "fat_100g": 14,
+      "saturated_fat_100g": 1.2,
+      "fiber_100g": 4.6,
+      "salt_100g": 0.885
+    }
+  },
+  {
+    "id": "4056489546085",
+    "name": "Bio crackers",
+    "brand": "maître Jean pierre",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/954/6085/front_fr.46.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:wheat-crackers"
+    ],
+    "nutrition": {
+      "energy_100g": 1851,
+      "proteins_100g": 18,
+      "carbohydrates_100g": 47,
+      "sugars_100g": 2.4,
+      "fat_100g": 18,
+      "saturated_fat_100g": 4.8,
+      "fiber_100g": 10,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "5057545696439",
+    "name": "Tortilla Chips",
+    "brand": "Stockwell & Co.",
+    "image": "https://images.openfoodfacts.org/images/products/505/754/569/6439/front_en.35.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2090,
+      "proteins_100g": 5.5,
+      "carbohydrates_100g": 64.9,
+      "sugars_100g": 1,
+      "fat_100g": 23.5,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 2.9,
+      "salt_100g": 0.8
+    }
+  },
+  {
+    "id": "5060040253724",
+    "name": "KIDDYLICIOUS Veggie Straws - saveur Légumes - 48g (4x12g)",
+    "brand": "Kiddylicious",
+    "image": "https://images.openfoodfacts.org/images/products/506/004/025/3724/front_en.39.400.jpg",
+    "nutriscore": "NOT-APPLICABLE",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:baby-foods",
+      "en:crisps",
+      "en:snacks-and-desserts-for-babies",
+      "en:crackers-appetizers",
+      "en:biscuits-for-babies",
+      "fr:bebe",
+      "fr:bebe-gouter",
+      "fr:biscuits-et-gouter"
+    ],
+    "nutrition": {
+      "energy_100g": 2396,
+      "proteins_100g": 2.6,
+      "carbohydrates_100g": 53,
+      "sugars_100g": 0.6,
+      "fat_100g": 30,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 2.9,
+      "salt_100g": 0.33
+    }
+  },
+  {
+    "id": "5033060100040",
+    "name": "Anglesey sea salt crisps",
+    "brand": "Pipers",
+    "image": "https://images.openfoodfacts.org/images/products/503/306/010/0040/front_en.45.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2223,
+      "proteins_100g": 5.1,
+      "carbohydrates_100g": 57.2,
+      "sugars_100g": 0.5,
+      "fat_100g": 30.7,
+      "saturated_fat_100g": 3.3,
+      "fiber_100g": 3.5,
+      "salt_100g": 0.94
+    }
+  },
+  {
+    "id": "5000168035031",
+    "name": "Mini cheddars",
+    "brand": "Jacob’s",
+    "image": "https://images.openfoodfacts.org/images/products/500/016/803/5031/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cheese-biscuits"
+    ],
+    "nutrition": {
+      "energy_100g": 2130,
+      "proteins_100g": 10.4,
+      "carbohydrates_100g": 51.3,
+      "sugars_100g": 4.35,
+      "fat_100g": 28.7,
+      "saturated_fat_100g": 14.3,
+      "fiber_100g": 2.61,
+      "salt_100g": 2.14
+    }
+  },
+  {
+    "id": "5000328270548",
+    "name": "Ready Salted Grab Bag Crisps",
+    "brand": "Walkers",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/827/0548/front_en.25.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2160,
+      "proteins_100g": 6.44,
+      "carbohydrates_100g": 53.3,
+      "sugars_100g": 0.444,
+      "fat_100g": 31.1,
+      "saturated_fat_100g": 2.44,
+      "fiber_100g": 4,
+      "salt_100g": 1.33
+    }
+  },
+  {
+    "id": "4088600226736",
+    "name": "Savoury Crackers",
+    "brand": "Savour Bakes",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/022/6736/front_en.12.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:biscuits-and-cakes",
+      "en:biscuits-and-crackers",
+      "en:biscuits",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1950,
+      "proteins_100g": 7.6,
+      "carbohydrates_100g": 67.3,
+      "sugars_100g": 7.9,
+      "fat_100g": 18,
+      "saturated_fat_100g": 1.4,
+      "fiber_100g": 2.1,
+      "salt_100g": 0.88
+    }
+  },
+  {
+    "id": "20472122",
+    "name": "Multigrain Crackers",
+    "brand": "Rivercote (LIDL)",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/047/2122/front_en.4.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2002,
+      "proteins_100g": 8.8,
+      "carbohydrates_100g": 60.8,
+      "sugars_100g": 4.2,
+      "fat_100g": 20.8,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": 6.2,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "5060292308708",
+    "name": "Sour Cream & Onion Potato Chips",
+    "brand": "Popchips",
+    "image": "https://images.openfoodfacts.org/images/products/506/029/230/8708/front_en.10.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 1807,
+      "proteins_100g": 6.7,
+      "carbohydrates_100g": 69,
+      "sugars_100g": 4.4,
+      "fat_100g": 13,
+      "saturated_fat_100g": 1.7,
+      "fiber_100g": 4.8,
+      "salt_100g": 1.0825
+    }
+  },
+  {
+    "id": "5060283762649",
+    "name": "Sea salt lentil chips",
+    "brand": "proper",
+    "image": "https://images.openfoodfacts.org/images/products/506/028/376/2649/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2040,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 60.7,
+      "sugars_100g": 0.714,
+      "fat_100g": 21.4,
+      "saturated_fat_100g": 1.43,
+      "fiber_100g": 2.14,
+      "salt_100g": 4.11
+    }
+  },
+  {
+    "id": "3168930000990",
+    "name": "3D's Bugles goût nature",
+    "brand": "3D's Bugles, BENENUTS, LAYS, Lay's",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/000/0990/front_fr.99.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks-potato-soy-based",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-maize"
+    ],
+    "nutrition": {
+      "energy_100g": 2171,
+      "proteins_100g": 5.4,
+      "carbohydrates_100g": 55,
+      "sugars_100g": 3.5,
+      "fat_100g": 31,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 0.7,
+      "salt_100g": 2.1
+    }
+  },
+  {
+    "id": "3168930000020",
+    "name": "Laus nature",
+    "brand": "Lay's, Lays, PepsiCo",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/000/0020/front_en.72.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2121,
+      "proteins_100g": 6.1,
+      "carbohydrates_100g": 53,
+      "sugars_100g": 0.5,
+      "fat_100g": 30,
+      "saturated_fat_100g": 3.2,
+      "fiber_100g": 4.3,
+      "salt_100g": 1.1
+    }
+  },
+  {
+    "id": "8412600028599",
+    "name": "Takis Fuego 90g",
+    "brand": "Eagle",
+    "image": "https://images.openfoodfacts.org/images/products/841/260/002/8599/front_en.63.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2059,
+      "proteins_100g": 5.6,
+      "carbohydrates_100g": 53,
+      "sugars_100g": 1.7,
+      "fat_100g": 27,
+      "saturated_fat_100g": 9.9,
+      "fiber_100g": 8.6,
+      "salt_100g": 1.5725
+    }
+  },
+  {
+    "id": "5060292308203",
+    "name": "popped potato snacks",
+    "brand": "popchips",
+    "image": "https://images.openfoodfacts.org/images/products/506/029/230/8203/front_en.39.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:potato-crisps-in-sunflower-oil",
+      "en:barbeque-potato-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 1824,
+      "proteins_100g": 6.5,
+      "carbohydrates_100g": 68,
+      "sugars_100g": 8.2,
+      "fat_100g": 14,
+      "saturated_fat_100g": 1.5,
+      "fiber_100g": 4.7,
+      "salt_100g": 0.855
+    }
+  },
+  {
+    "id": "5053990167531",
+    "name": "Pringles Salt & Vinegar",
+    "brand": "Pringles",
+    "image": "https://images.openfoodfacts.org/images/products/505/399/016/7531/front_en.35.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:salty-snacks-made-from-potato"
+    ],
+    "nutrition": {
+      "energy_100g": 2180,
+      "proteins_100g": 4,
+      "carbohydrates_100g": 58,
+      "sugars_100g": 4,
+      "fat_100g": 30,
+      "saturated_fat_100g": 9,
+      "fiber_100g": 2,
+      "salt_100g": 1.95
+    }
+  },
+  {
+    "id": "8410376014051",
+    "name": "Mini cracker!",
+    "brand": "Gullón",
+    "image": "https://images.openfoodfacts.org/images/products/841/037/601/4051/front_it.35.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:meals",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1946,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 64,
+      "sugars_100g": 9,
+      "fat_100g": 20,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 2.3,
+      "salt_100g": 2.5
+    }
+  },
+  {
+    "id": "2006050102860",
+    "name": "Tartines croquantes",
+    "brand": "Aldi, Simplement Bon et Bio",
+    "image": "https://images.openfoodfacts.org/images/products/200/605/010/2860/front_fr.79.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:extruded-crispbreads",
+      "en:wheat-crackers"
+    ],
+    "nutrition": {
+      "energy_100g": 1922,
+      "proteins_100g": 15,
+      "carbohydrates_100g": 48,
+      "sugars_100g": 2.3,
+      "fat_100g": 21,
+      "saturated_fat_100g": 2.5,
+      "fiber_100g": 9.3,
+      "salt_100g": 1.9
+    }
+  },
+  {
+    "id": "5000168137605",
+    "name": "Jacobs Savours Salt And Black Pepper Bakes",
+    "brand": "Jacobs",
+    "image": "https://images.openfoodfacts.org/images/products/500/016/813/7605/front_en.21.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1970,
+      "proteins_100g": 9.1,
+      "carbohydrates_100g": 66.7,
+      "sugars_100g": 0.6,
+      "fat_100g": 17.6,
+      "saturated_fat_100g": 8.1,
+      "fiber_100g": 4,
+      "salt_100g": 1.28
+    }
+  },
+  {
+    "id": "5000328741901",
+    "name": "Chilli Heatwave Tortilla Chips",
+    "brand": "Doritos",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/874/1901/front_en.30.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 2076,
+      "proteins_100g": 6.1,
+      "carbohydrates_100g": 59.3,
+      "sugars_100g": 6.1,
+      "fat_100g": 24.9,
+      "saturated_fat_100g": 3,
+      "fiber_100g": 5.6,
+      "salt_100g": 1.35
+    }
+  },
+  {
+    "id": "4088600058313",
+    "name": "Black Pepper Savoury Crackers",
+    "brand": "Aldi, Specially Selected",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/005/8313/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 2088,
+      "proteins_100g": 8.2,
+      "carbohydrates_100g": 62.5,
+      "sugars_100g": 2.5,
+      "fat_100g": 23.4,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": null,
+      "salt_100g": 1.3
+    }
+  },
+  {
+    "id": "3168930171683",
+    "name": "Lays",
+    "brand": "Lay's",
+    "image": "https://images.openfoodfacts.org/images/products/316/893/017/1683/front_fr.22.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:old-fashioned-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2141,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 55,
+      "sugars_100g": 0.5,
+      "fat_100g": 29,
+      "saturated_fat_100g": 2.1,
+      "fiber_100g": 5.2,
+      "salt_100g": 0.65
+    }
+  },
+  {
+    "id": "00355858",
+    "name": "Lightly sea salted",
+    "brand": "Sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/035/5858/front_en.20.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:potato-crisps-in-sunflower-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 2110,
+      "proteins_100g": 6.2,
+      "carbohydrates_100g": 57.1,
+      "sugars_100g": 0.5,
+      "fat_100g": 27.5,
+      "saturated_fat_100g": 2.8,
+      "fiber_100g": 2,
+      "salt_100g": 0.94
+    }
+  },
+  {
+    "id": "5060283762359",
+    "name": "Barbecue Lentil Chips",
+    "brand": "Proper Chips",
+    "image": "https://images.openfoodfacts.org/images/products/506/028/376/2359/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:flavoured-potato-crisps",
+      "en:barbecue-crisps",
+      "en:barbecue-lentil-chips",
+      "en:barbecue-lentil-crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 1960,
+      "proteins_100g": 10,
+      "carbohydrates_100g": 61.4,
+      "sugars_100g": 4.29,
+      "fat_100g": 20,
+      "saturated_fat_100g": 1.43,
+      "fiber_100g": 2.86,
+      "salt_100g": 2.32
+    }
+  },
+  {
+    "id": "5055958704123",
+    "name": "Honey Roast Crunch",
+    "brand": "Graze",
+    "image": "https://images.openfoodfacts.org/images/products/505/595/870/4123/front_en.28.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:sweet-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips",
+      "en:graze"
+    ],
+    "nutrition": {
+      "energy_100g": 1890,
+      "proteins_100g": 11,
+      "carbohydrates_100g": 63,
+      "sugars_100g": 13,
+      "fat_100g": 15,
+      "saturated_fat_100g": 1.7,
+      "fiber_100g": 8.8,
+      "salt_100g": 0.57
+    }
+  },
+  {
+    "id": "3497917002789",
+    "name": "Chips saveur beurre salé",
+    "brand": "Brets",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/700/2789/front_fr.43.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:frozen-foods",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "fr:chips-au-beurre-sale"
+    ],
+    "nutrition": {
+      "energy_100g": 2177,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 53,
+      "sugars_100g": 1,
+      "fat_100g": 31,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": 4.8,
+      "salt_100g": 1.5
+    }
+  },
+  {
+    "id": "4088600214689",
+    "name": "Lightly salted tortilla chips",
+    "brand": "Aldi",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/021/4689/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:corn-chips"
+    ],
+    "nutrition": {
+      "energy_100g": 1983,
+      "proteins_100g": 6.8,
+      "carbohydrates_100g": 62.2,
+      "sugars_100g": 1.9,
+      "fat_100g": 20.7,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": 5.9,
+      "salt_100g": 0.66
+    }
+  },
+  {
+    "id": "5000328333731",
+    "name": "Rice and Corn Cakes",
+    "brand": "Snack a Jacks",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/833/3731/front_en.8.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:cereals-and-their-products",
+      "en:puffed-cereal-cakes",
+      "en:puffed-rice-cakes"
+    ],
+    "nutrition": {
+      "energy_100g": 1640,
+      "proteins_100g": 9.28,
+      "carbohydrates_100g": 80.4,
+      "sugars_100g": 2.06,
+      "fat_100g": 3.09,
+      "saturated_fat_100g": 1.03,
+      "fiber_100g": 2.06,
+      "salt_100g": 1.11
+    }
+  },
+  {
+    "id": "0612322000776",
+    "name": "Rosemary & sea salt Flatbreads",
+    "brand": "Nairn's",
+    "image": "https://images.openfoodfacts.org/images/products/061/232/200/0776/front_en.34.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:breads",
+      "en:crackers-appetizers",
+      "en:flatbread-crackers",
+      "en:flatbread-oat"
+    ],
+    "nutrition": {
+      "energy_100g": 1810,
+      "proteins_100g": 8.8,
+      "carbohydrates_100g": 63.2,
+      "sugars_100g": 3.2,
+      "fat_100g": 14.4,
+      "saturated_fat_100g": 5.6,
+      "fiber_100g": 7.2,
+      "salt_100g": 1.8
+    }
+  },
+  {
+    "id": "5000328020792",
+    "name": "Caramelised Onion & Balsamic Vinegar Pea & Bean Sticks",
+    "brand": "Off The Eaten Path",
+    "image": "https://images.openfoodfacts.org/images/products/500/032/802/0792/front_en.3.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:pea-sticks"
+    ],
+    "nutrition": {
+      "energy_100g": 1877,
+      "proteins_100g": 9.6,
+      "carbohydrates_100g": 59.1,
+      "sugars_100g": 4.2,
+      "fat_100g": 17.2,
+      "saturated_fat_100g": 1.8,
+      "fiber_100g": 9.1,
+      "salt_100g": 1.99
+    }
+  },
+  {
+    "id": "8434165466166",
+    "name": "Krit crackers",
+    "brand": "Cuétara",
+    "image": "https://images.openfoodfacts.org/images/products/843/416/546/6166/front_es.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "es:galletas-saladas"
+    ],
+    "nutrition": {
+      "energy_100g": 1950,
+      "proteins_100g": 7.602,
+      "carbohydrates_100g": 65,
+      "sugars_100g": 5.9,
+      "fat_100g": 19,
+      "saturated_fat_100g": 5.1,
+      "fiber_100g": null,
+      "salt_100g": 2
+    }
+  },
+  {
+    "id": "3336971409151",
+    "name": "Monster Munch - Produit soufflé à base de pomme de terre goût salé",
+    "brand": "Vico",
+    "image": "https://images.openfoodfacts.org/images/products/333/697/140/9151/front_fr.72.400.jpg",
+    "nutriscore": "D",
+    "nova_group": 4,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:puffed-salty-snacks-made-from-potato",
+      "fr:gezouten-vlinders",
+      "fr:voorgerechten",
+      "fr:zoute-snacks"
+    ],
+    "nutrition": {
+      "energy_100g": 2021,
+      "proteins_100g": 4.4,
+      "carbohydrates_100g": 66,
+      "sugars_100g": 5.7,
+      "fat_100g": 22,
+      "saturated_fat_100g": 2.8,
+      "fiber_100g": 2.4,
+      "salt_100g": 2
+    }
+  },
+  {
+    "id": "3497917000136",
+    "name": "Chips Paysanne",
+    "brand": "Brets",
+    "image": "https://images.openfoodfacts.org/images/products/349/791/700/0136/front_en.75.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps",
+      "en:potato-crisps",
+      "en:farmer-s-crisps",
+      "en:potato-crisps-in-sunflower-oil",
+      "en:aliments-d-origine-vegetale",
+      "en:aliments-et-boissons-a-base-de-vegetaux",
+      "en:amuse-gueules",
+      "en:chips",
+      "en:chips-de-pommes-de-terre",
+      "en:chips-de-pommes-de-terre-a-l-huile-de-tournesol",
+      "en:chips-et-frites",
+      "en:chips-paysannes",
+      "en:cereales-et-pommes-de-terre",
+      "en:snacks-sales"
+    ],
+    "nutrition": {
+      "energy_100g": 2218,
+      "proteins_100g": 6,
+      "carbohydrates_100g": 51,
+      "sugars_100g": 0.4,
+      "fat_100g": 34,
+      "saturated_fat_100g": 2,
+      "fiber_100g": 4,
+      "salt_100g": 1
+    }
+  },
+  {
+    "id": "6420211000332",
+    "name": "Pufuleti",
+    "brand": "Gusto",
+    "image": "https://images.openfoodfacts.org/images/products/642/021/100/0332/front_en.87.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 3,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:fermented-foods",
+      "en:plant-based-foods",
+      "en:snacks",
+      "en:cereals-and-potatoes",
+      "en:salty-snacks",
+      "en:seeds",
+      "en:appetizers",
+      "en:biscuits-and-crackers",
+      "en:cereals-and-their-products",
+      "en:cereal-grains",
+      "en:corn",
+      "en:crackers-appetizers",
+      "en:puffed-salty-snacks",
+      "en:crackersappetizers"
+    ],
+    "nutrition": {
+      "energy_100g": 1586,
+      "proteins_100g": 12,
+      "carbohydrates_100g": 69,
+      "sugars_100g": 2.5,
+      "fat_100g": 5.3,
+      "saturated_fat_100g": 2.8,
+      "fiber_100g": 3.7,
+      "salt_100g": 3.64
+    }
+  },
+  {
+    "id": "8412600028605",
+    "name": "Takis Queso Volcano",
+    "brand": "Bimbo,Takis",
+    "image": "https://images.openfoodfacts.org/images/products/841/260/002/8605/front_es.68.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:snacks",
+      "en:salty-snacks",
+      "en:appetizers",
+      "en:chips-and-fries",
+      "en:crisps"
+    ],
+    "nutrition": {
+      "energy_100g": 2249,
+      "proteins_100g": 6.3,
+      "carbohydrates_100g": 60,
+      "sugars_100g": 3.9,
+      "fat_100g": 29,
+      "saturated_fat_100g": 8.6,
+      "fiber_100g": 6.1,
+      "salt_100g": 1.9
+    }
+  }
+]

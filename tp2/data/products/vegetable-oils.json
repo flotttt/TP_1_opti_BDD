@@ -1,0 +1,5468 @@
+[
+  {
+    "id": "6111024001516",
+    "name": "Huile de table équilibrée riche en vitamines A,E,D3",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/1516/front_fr.25.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils",
+      "fr:huile-de-table"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111099000247",
+    "name": "Hule D'olive",
+    "brand": "زيت الزيتون واد سوس",
+    "image": "https://images.openfoodfacts.org/images/products/611/109/900/0247/front_fr.4.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 4,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 90,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 66,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489141877",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/914/1877/front_en.93.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111024002186",
+    "name": "Houilor",
+    "brand": "Huilor",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/2186/front_en.6.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 12.6,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111099000582",
+    "name": "Lio huile de table",
+    "brand": "lio",
+    "image": "https://images.openfoodfacts.org/images/products/611/109/900/0582/front_en.18.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "ar:6-50dh-1-2litr"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111024004746",
+    "name": "Huile d'olive vierge de Maroc",
+    "brand": "ALHORRA",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/4746/front_fr.23.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 17,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111024001530",
+    "name": "Huile Lesieur 3 Graines",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/1530/front_fr.27.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 5,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111099000254",
+    "name": "Huile d'olive",
+    "brand": "oued souss",
+    "image": "https://images.openfoodfacts.org/images/products/611/109/900/0254/front_fr.29.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils",
+      "ar:huile-d-olive"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 12,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002470023727",
+    "name": "Huile d'olive vierge extra Bio Classico",
+    "brand": "Carapelli",
+    "image": "https://images.openfoodfacts.org/images/products/800/247/002/3727/front_en.71.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3374,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489973010",
+    "name": "Huile d’olive",
+    "brand": "Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/997/3010/front_en.12.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3473,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 93,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "6111024001202",
+    "name": "Huile de tournesol",
+    "brand": "Lesieur Cristal",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/1202/front_fr.19.400.jpg",
+    "nutriscore": "C",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 11.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8964000577066",
+    "name": "Hemani Coconut Oil Pure & Natural (400ML)",
+    "brand": "Hemani",
+    "image": "https://images.openfoodfacts.org/images/products/896/400/057/7066/front_en.20.400.jpg",
+    "nutriscore": "D",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 527,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0.7,
+      "sugars_100g": 0,
+      "fat_100g": 14,
+      "saturated_fat_100g": 13,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111062000175",
+    "name": "Huile de grignon d’olive",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/106/200/0175/front_en.35.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-pomace-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": 100,
+      "saturated_fat_100g": 16.8,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000442007594",
+    "name": "olive spray oil",
+    "brand": "Fry light",
+    "image": "https://images.openfoodfacts.org/images/products/500/044/200/7594/front_en.48.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 1980,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0.1,
+      "sugars_100g": 0,
+      "fat_100g": 49.5,
+      "saturated_fat_100g": 7.1,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111245470023",
+    "name": "Afia",
+    "brand": "AFIA",
+    "image": "https://images.openfoodfacts.org/images/products/611/124/547/0023/front_fr.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:legumes-and-their-products",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:legume-oils",
+      "en:soybean-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489102977",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/910/2977/front_en.34.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "4056489608264",
+    "name": "Huile d'olive bio",
+    "brand": "PRIMADONNA",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/960/8264/front_fr.24.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3560070910366",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Carrefour BIO,Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/356/007/091/0366/front_fr.104.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils",
+      "en:olive-oil-blends"
+    ],
+    "nutrition": {
+      "energy_100g": 3382,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 13,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265474000018",
+    "name": "Huile Isio 4",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/400/0018/front_fr.125.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:flavoured-oils",
+      "en:mixed-vegetable-oils",
+      "en:combined-oil-blended-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 9,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3178050000749",
+    "name": "Huile d'olive",
+    "brand": "Puget",
+    "image": "https://images.openfoodfacts.org/images/products/317/805/000/0749/front_fr.95.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8410179009391",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Tramier",
+    "image": "https://images.openfoodfacts.org/images/products/841/017/900/9391/front_fr.14.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 16,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111024004753",
+    "name": "Huille",
+    "brand": "horra",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/4753/front_fr.4.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 16.8,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111024001288",
+    "name": "Oleor",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/1288/front_ar.5.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:legumes-and-their-products",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:legume-oils",
+      "en:soybean-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14.6,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265474573000",
+    "name": "Fleur de Colza",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/457/3000/front_fr.86.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 7.2,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8410179012230",
+    "name": "huile d’olive vierge extra",
+    "brand": "tramier",
+    "image": "https://images.openfoodfacts.org/images/products/841/017/901/2230/front_fr.62.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 16,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8005510001525",
+    "name": "Huile d'olive vierge extra GranFruttato",
+    "brand": "Monini",
+    "image": "https://images.openfoodfacts.org/images/products/800/551/000/1525/front_fr.51.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-italy",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489091936",
+    "name": "Organic virgin coconut oil",
+    "brand": "Vita d'or",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/909/1936/front_en.69.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils",
+      "en:virgin-coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 94,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489135623",
+    "name": "Rapsöl",
+    "brand": "Vita D'or,Vita dor,VitaD'or",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/913/5623/front_en.79.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 7,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3270190008262",
+    "name": "Huile d\\'olive",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/327/019/000/8262/front_fr.96.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3382,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6191509900855",
+    "name": "Organic Extra Virgin Olive Oil",
+    "brand": "Terra Delyssa",
+    "image": "https://images.openfoodfacts.org/images/products/619/150/990/0855/front_fr.60.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:olive-oils-from-tunisia",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3350,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 86.7,
+      "saturated_fat_100g": 16.7,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3178050000725",
+    "name": "Huile d'Olive Vierge Extra",
+    "brand": "Puget",
+    "image": "https://images.openfoodfacts.org/images/products/317/805/000/0725/front_fr.58.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265479432005",
+    "name": "Huile d'olive vierge extra - Bio",
+    "brand": "Puget",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/943/2005/front_fr.8.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils",
+      "fr:huile-d-olive-vierge-extra-bio"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002210500204",
+    "name": "Filippo Berio Extra Virgin Olive Oil imp",
+    "brand": "Filippo Berio",
+    "image": "https://images.openfoodfacts.org/images/products/800/221/050/0204/front_en.19.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3378,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.3,
+      "saturated_fat_100g": 13.9,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4088600391977",
+    "name": "Puglian Extra Virgin Oil",
+    "brand": "Aldi",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/039/1977/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3450,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "8002470023147",
+    "name": "Huile d'olive vierge extra Vivace",
+    "brand": "Carapelli",
+    "image": "https://images.openfoodfacts.org/images/products/800/247/002/3147/front_fr.52.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3443,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002470030923",
+    "name": "Huile d'olive vierge extra Classico",
+    "brand": "Carapelli",
+    "image": "https://images.openfoodfacts.org/images/products/800/247/003/0923/front_fr.59.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3374,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 13,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111024001295",
+    "name": "زيت المائدة المختارة",
+    "brand": "Oléor",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/1295/front_ar.5.400.jpg",
+    "nutriscore": "C",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils",
+      "es:aceite-de-mesa",
+      "es:huile-de-table"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": null,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14.6,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8480000041937",
+    "name": "Aceite de coco virgen",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/004/1937/front_es.81.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 94.5,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489135524",
+    "name": "Sunflower Oil",
+    "brand": "Vita d'Or, VitaD'or",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/913/5524/front_en.59.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489334538",
+    "name": "British cold pressed rapeseed oil",
+    "brand": "Deluxe, Lidl, Lidl Deluxe",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/933/4538/front_en.32.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3452,
+      "proteins_100g": 0.1,
+      "carbohydrates_100g": 0.1,
+      "sugars_100g": 0.1,
+      "fat_100g": 91.5,
+      "saturated_fat_100g": 6.3,
+      "fiber_100g": 0.1,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "5031021679253",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/503/102/167/9253/front_en.33.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111245470016",
+    "name": "Afia",
+    "brand": "Savola Morocco",
+    "image": "https://images.openfoodfacts.org/images/products/611/124/547/0016/front_fr.12.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8410179003498",
+    "name": "Tramier Optima 1L",
+    "brand": "Tramier",
+    "image": "https://images.openfoodfacts.org/images/products/841/017/900/3498/front_fr.58.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils",
+      "fr:olives-extra-vierge"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 12,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5425600102483",
+    "name": "Coconut oil",
+    "brand": "Bumble bee foods",
+    "image": "https://images.openfoodfacts.org/images/products/542/560/010/2483/front_fr.356.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils",
+      "en:refined-coco-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 91,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3564707000031",
+    "name": "Huile d'Olive Vierge Extra",
+    "brand": "Bio Village, Marque Repère",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/700/0031/front_fr.63.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:olive-oils-from-tunisia",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3367,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265471024086",
+    "name": "Cœur de Tournesol",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/102/4086/front_fr.88.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 8.5,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489095897",
+    "name": "Huile d'olive vierge extra origine Espagne extraite à froid bio",
+    "brand": "LIDL, PRIMADONNA",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/909/5897/front_en.67.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3350,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 93.3,
+      "saturated_fat_100g": 13.3,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6191509900664",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Terra Delyssa",
+    "image": "https://images.openfoodfacts.org/images/products/619/150/990/0664/front_en.114.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:olive-oils-from-tunisia",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3350,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 86.7,
+      "saturated_fat_100g": 17.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000442007617",
+    "name": "Frylight Sunflower Oil Spray 190ml",
+    "brand": "Frylight",
+    "image": "https://images.openfoodfacts.org/images/products/500/044/200/7617/front_en.56.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "6191509900671",
+    "name": "EXTRA VIRGIN OLIVE OIL",
+    "brand": "TERRA DELYSSA",
+    "image": "https://images.openfoodfacts.org/images/products/619/150/990/0671/front_en.11.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:olive-oils-from-tunisia",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3449,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 19,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4061459381702",
+    "name": "EXTRA VIRGIN OLIVE OIL",
+    "brand": "Solesta",
+    "image": "https://images.openfoodfacts.org/images/products/406/145/938/1702/front_en.21.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3430,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.3,
+      "saturated_fat_100g": 13.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8005510007961",
+    "name": "Extra virgin olive oil",
+    "brand": "Monini",
+    "image": "https://images.openfoodfacts.org/images/products/800/551/000/7961/front_fr.26.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:virgin-olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3467,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6111099000131",
+    "name": "Zohor",
+    "brand": "Zohor",
+    "image": "https://images.openfoodfacts.org/images/products/611/109/900/0131/front_fr.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "fr:food"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 12,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5901234123457",
+    "name": "Sauce chiltepin",
+    "brand": "La lumbre",
+    "image": "https://images.openfoodfacts.org/images/products/590/123/412/3457/front_en.100.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 824,
+      "proteins_100g": 2.8,
+      "carbohydrates_100g": 6,
+      "sugars_100g": 4.2,
+      "fat_100g": 18,
+      "saturated_fat_100g": 12,
+      "fiber_100g": null,
+      "salt_100g": 2.1
+    }
+  },
+  {
+    "id": "5000119511027",
+    "name": "Olive Oil",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/500/011/951/1027/front_en.26.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14.3,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "20179649",
+    "name": "Puglian Extra Virgin Olive Oil",
+    "brand": "Italiamo, Lidl",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/017/9649/front_en.61.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-italy",
+      "en:extra-virgin-olive-oils",
+      "en:olive-oils-from-terra-di-bari",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3440,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 91.3,
+      "saturated_fat_100g": 13.3,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "4088600054537",
+    "name": "British Cold Pressed Rapeseed Oil",
+    "brand": "Specially Selected,Aldi",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/005/4537/front_en.8.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3456,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 5.8,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3336590083787",
+    "name": "Huile vierge extra biologique",
+    "brand": "Cauvin",
+    "image": "https://images.openfoodfacts.org/images/products/333/659/008/3787/front_fr.29.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 17,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265470063260",
+    "name": "Huile d'Olive Vierge Extra",
+    "brand": "Puget",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/006/3260/front_fr.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3768,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000119809902",
+    "name": "Pure Vegetable Oil",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/500/011/980/9902/front_en.23.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:legumes-and-their-products",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:legume-oils",
+      "en:soybean-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3740,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 93.3,
+      "saturated_fat_100g": 7.33,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8007270127903",
+    "name": "Huile d'olive vierge extra - Il Biologico",
+    "brand": "Costa d'Oro",
+    "image": "https://images.openfoodfacts.org/images/products/800/727/012/7903/front_en.20.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000232919953",
+    "name": "Napolina Extra Virgin Olive Oil 500Ml",
+    "brand": "Napolina",
+    "image": "https://images.openfoodfacts.org/images/products/500/023/291/9953/front_en.21.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3443,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.4,
+      "saturated_fat_100g": 13.1,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489091745",
+    "name": "Olive oil",
+    "brand": "Lidl,Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/909/1745/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-spain",
+      "en:olive-oils-from-antequera"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "6111245470054",
+    "name": "hala",
+    "brand": "",
+    "image": "https://images.openfoodfacts.org/images/products/611/124/547/0054/front_fr.7.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": 100,
+      "saturated_fat_100g": 13.1,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "80508816",
+    "name": "Classic extra virgin oil",
+    "brand": "Lesieur, Monini",
+    "image": "https://images.openfoodfacts.org/images/products/000/008/050/8816/front_en.62.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "00415668",
+    "name": "Olive oil",
+    "brand": "Sainsbury’s",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/041/5668/front_en.23.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3450,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 91.5,
+      "saturated_fat_100g": 13.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "5051008865622",
+    "name": "Sesame oil",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/100/886/5622/front_en.29.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:fats",
+      "en:cereals-and-their-products",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:cereal-oils",
+      "en:sesame-oils",
+      "en:toasted-sesame-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14.6,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3250391594245",
+    "name": "Huile d'olive Bio BO 75cl",
+    "brand": "Bouton d'or",
+    "image": "https://images.openfoodfacts.org/images/products/325/039/159/4245/front_fr.46.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 16,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "9557129008819",
+    "name": "Healthier Oil for Cooking (Red Palm Fruit & Rapeseed Oil)",
+    "brand": "Carotino",
+    "image": "https://images.openfoodfacts.org/images/products/955/712/900/8819/front_en.14.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8410179018393",
+    "name": "Huile d'Olive Vierge Extra Sans Résidus de Pesticides",
+    "brand": "Tramier",
+    "image": "https://images.openfoodfacts.org/images/products/841/017/901/8393/front_fr.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 18,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3336590104260",
+    "name": "Huile de noix 2 Flaschen",
+    "brand": "Cauvin",
+    "image": "https://images.openfoodfacts.org/images/products/333/659/010/4260/front_fr.30.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:nuts-and-their-products",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:nut-oils",
+      "en:walnut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5011308900935",
+    "name": "2 Korma Paste Pots",
+    "brand": "Patak's",
+    "image": "https://images.openfoodfacts.org/images/products/501/130/890/0935/front_en.3.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:condiments",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sauces",
+      "en:flavoured-oils",
+      "en:meal-sauces",
+      "en:curry-pastes",
+      "en:spiced-flavoured-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 945,
+      "proteins_100g": 3,
+      "carbohydrates_100g": 14.8,
+      "sugars_100g": 9.1,
+      "fat_100g": 15.4,
+      "saturated_fat_100g": 2.6,
+      "fiber_100g": null,
+      "salt_100g": 4.75
+    }
+  },
+  {
+    "id": "8002470023154",
+    "name": "Huile d'olive vierge extra Bio Delicato",
+    "brand": "Carapelli",
+    "image": "https://images.openfoodfacts.org/images/products/800/247/002/3154/front_fr.49.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils",
+      "en:olive-oil-blends"
+    ],
+    "nutrition": {
+      "energy_100g": 3382,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "20998141",
+    "name": "Kokosnussöl",
+    "brand": "VitaD'or",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/099/8141/front_de.109.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:kokosole"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 94,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8480000047182",
+    "name": "Aceite de oliva virgen extra",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/004/7182/front_es.93.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3389,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 91,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000232828736",
+    "name": "Sunflower oil",
+    "brand": "Flora, Superdrug",
+    "image": "https://images.openfoodfacts.org/images/products/500/023/282/8736/front_en.3.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:legumes-and-their-products",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils",
+      "en:legume-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 10.1,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8410660049769",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "La Española",
+    "image": "https://images.openfoodfacts.org/images/products/841/066/004/9769/front_en.20.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3381,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.4,
+      "saturated_fat_100g": 12.8,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4066447646283",
+    "name": "Kokosöl",
+    "brand": "dmBio",
+    "image": "https://images.openfoodfacts.org/images/products/406/644/764/6283/front_de.17.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils",
+      "en:virgin-coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 87,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "4061459298888",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Solesta",
+    "image": "https://images.openfoodfacts.org/images/products/406/145/929/8888/front_en.13.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3430,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 91.3,
+      "saturated_fat_100g": 13.3,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "4056489168317",
+    "name": "Huile vierge de noix de coco bio",
+    "brand": "VITAD'OR",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/916/8317/front_fr.48.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils",
+      "en:virgin-coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 94,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002210500303",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Filippo Berio",
+    "image": "https://images.openfoodfacts.org/images/products/800/221/050/0303/front_en.28.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3378,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.3,
+      "saturated_fat_100g": 13.9,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "0799439110564",
+    "name": "Extra Virgin Cold-Pressed Avocado Oil",
+    "brand": "Pure South Press Co",
+    "image": "https://images.openfoodfacts.org/images/products/079/943/911/0564/front_en.4.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:avocado-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3387,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.4,
+      "saturated_fat_100g": 16.9,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3560070854998",
+    "name": "Huile d'olive",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/356/007/085/4998/front_fr.52.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3378,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6191509909933",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Terra Delyssa",
+    "image": "https://images.openfoodfacts.org/images/products/619/150/990/9933/front_fr.10.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3435,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.2,
+      "saturated_fat_100g": 19.3,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8901088000451",
+    "name": "Parachnute 100% Pure Coconut Oil",
+    "brand": "Parachute",
+    "image": "https://images.openfoodfacts.org/images/products/890/108/800/0451/front_en.18.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 91,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3256221712155",
+    "name": "Huile d'olive vierge extra Bouteille 1L",
+    "brand": "U",
+    "image": "https://images.openfoodfacts.org/images/products/325/622/171/2155/front_fr.87.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3596710375561",
+    "name": "Huile d'olive vierge extra Assemblage d'huiles d'olive origine UE et non UE",
+    "brand": "Auchan, Auchan Bio",
+    "image": "https://images.openfoodfacts.org/images/products/359/671/037/5561/front_fr.141.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 100,
+      "saturated_fat_100g": 17,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "4056489135579",
+    "name": "Natives Olivenöl extra",
+    "brand": "Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/913/5579/front_de.96.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3467,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5060127360116",
+    "name": "Borderfields English Pressed Rapeseed Oil",
+    "brand": "Borderfields",
+    "image": "https://images.openfoodfacts.org/images/products/506/012/736/0116/front_en.20.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3390,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 5.8,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6191509909957",
+    "name": "Huile d'olive",
+    "brand": "Terra Delyssa",
+    "image": "https://images.openfoodfacts.org/images/products/619/150/990/9957/front_fr.8.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3435,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 91.2,
+      "saturated_fat_100g": 19.3,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "4056489166856",
+    "name": "Olivenöl",
+    "brand": "Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/916/6856/front_en.31.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3448,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.6,
+      "saturated_fat_100g": 14.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265470082384",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Puget",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/008/2384/front_fr.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489091738",
+    "name": "Mild olive oil",
+    "brand": "Lidl,Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/909/1738/front_en.28.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oil-mixes"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5200101804582",
+    "name": "Huile D'Olive Vierge Extra De Crète",
+    "brand": "Terra Creta Estate",
+    "image": "https://images.openfoodfacts.org/images/products/520/010/180/4582/front_en.49.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:greek-oils-and-fats",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3435,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.2,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5060106170002",
+    "name": "Mellow Yellow Rapeseed oil",
+    "brand": "Farrington Oil",
+    "image": "https://images.openfoodfacts.org/images/products/506/010/617/0002/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3423,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 1,
+      "sugars_100g": 0.1,
+      "fat_100g": 90.9,
+      "saturated_fat_100g": 6.8,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000232828750",
+    "name": "Crisp'n Dry 100% Rapeseed Oil",
+    "brand": "Crisp -n Dry",
+    "image": "https://images.openfoodfacts.org/images/products/500/023/282/8750/front_en.6.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3460,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 92,
+      "saturated_fat_100g": 7.33,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3265472382000",
+    "name": "Huile d'olive",
+    "brand": "Puget",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/238/2000/front_fr.25.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3560070973743",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Carrefour BIO, Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/356/007/097/3743/front_fr.62.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3378,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3259810009919",
+    "name": "HUILE OLIVE VIERGE EXTRA BIO",
+    "brand": "Soléou",
+    "image": "https://images.openfoodfacts.org/images/products/325/981/000/9919/front_fr.52.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-spain",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8480000040404",
+    "name": "Aceite de girasol refinado 0,2º",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/004/0404/front_es.41.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3374,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 9,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5038695000062",
+    "name": "Organic extra virgin coconut oil",
+    "brand": "The groovyfood company, Ecover",
+    "image": "https://images.openfoodfacts.org/images/products/503/869/500/0062/front_en.10.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3155,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92.5,
+      "saturated_fat_100g": 86.6,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "00358767",
+    "name": "Vegetable oil",
+    "brand": "Sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/035/8767/front_en.7.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3393,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 91.7,
+      "saturated_fat_100g": 7.3,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "6111099000186",
+    "name": "Lousra",
+    "brand": "lousra",
+    "image": "https://images.openfoodfacts.org/images/products/611/109/900/0186/front_fr.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "fr:huile-de-table-lousra"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 1,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3760020508425",
+    "name": "Huile vierge de coco",
+    "brand": "Jardin bio",
+    "image": "https://images.openfoodfacts.org/images/products/376/002/050/8425/front_fr.89.400.jpg",
+    "nutriscore": "E",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils",
+      "en:virgin-coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 83,
+      "fiber_100g": 0,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "20691776",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/069/1776/front_en.37.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3389,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.6,
+      "saturated_fat_100g": 13.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000119018663",
+    "name": "Sunflower oil",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/500/011/901/8663/front_en.31.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 11,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000232879677",
+    "name": "Olivio Oil",
+    "brand": "Olivio",
+    "image": "https://images.openfoodfacts.org/images/products/500/023/287/9677/front_en.10.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 11,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3770012239237",
+    "name": "Huile d'Olive Vierge Extra Le Moulin Antonin",
+    "brand": "Le Moulin Antonin",
+    "image": "https://images.openfoodfacts.org/images/products/377/001/223/9237/front_fr.25.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:virgin-olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3699,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 16,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3259810012599",
+    "name": "HUILE OLIVE VE BIO",
+    "brand": "Soléou",
+    "image": "https://images.openfoodfacts.org/images/products/325/981/001/2599/front_fr.21.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 11.9,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002470023765",
+    "name": "Huile d'olive vierge extra Bio Classico",
+    "brand": "Carapelli",
+    "image": "https://images.openfoodfacts.org/images/products/800/247/002/3765/front_fr.103.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3374,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8480000047403",
+    "name": "Aceite de oliva virgen extra",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/004/7403/front_en.13.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3442,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "0815074022915",
+    "name": "Avocado Oil Spray",
+    "brand": "Chosen Foods",
+    "image": "https://images.openfoodfacts.org/images/products/081/507/402/2915/front_en.153.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fruits-and-vegetables-based-foods",
+      "en:fats",
+      "en:fruits-based-foods",
+      "en:vegetable-fats",
+      "en:fruits",
+      "en:vegetable-oils",
+      "en:tropical-fruits",
+      "en:avocados",
+      "en:fruit-and-fruit-seed-oils",
+      "en:avocado-oils"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "8410179016375",
+    "name": "OPTIMA Bio Olive",
+    "brand": "Tramier",
+    "image": "https://images.openfoodfacts.org/images/products/841/017/901/6375/front_fr.27.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 12,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8480000047069",
+    "name": "Aceite de oliva virgen extra gran selección",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/004/7069/front_es.46.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-spain",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3378,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5060265830274",
+    "name": "Extra Virgin Rapeseed Oil",
+    "brand": "Mr Hughs",
+    "image": "https://images.openfoodfacts.org/images/products/506/026/583/0274/front_en.23.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3761,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 95.5,
+      "saturated_fat_100g": 6.69,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3270190008279",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/327/019/000/8279/front_fr.78.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3378,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5900012000232",
+    "name": "Olej rzepakowy z pierwszego tłoczenia, filtrowany",
+    "brand": "Kujawski",
+    "image": "https://images.openfoodfacts.org/images/products/590/001/200/0232/front_pl.7.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 7.5,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002470030886",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Carapelli",
+    "image": "https://images.openfoodfacts.org/images/products/800/247/003/0886/front_fr.32.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3435,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 13,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8007153008091",
+    "name": "Il casolare",
+    "brand": "Farchioni",
+    "image": "https://images.openfoodfacts.org/images/products/800/715/300/8091/front_en.29.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3389,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.6,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000442008003",
+    "name": "Mild and light rapeseed oil cooking spray",
+    "brand": "Fry light",
+    "image": "https://images.openfoodfacts.org/images/products/500/044/200/8003/front_en.3.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 4,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "3564700001028",
+    "name": "Huile de tournesol",
+    "brand": "Marque Repère, Rustica",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/000/1028/front_fr.32.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:frozen-foods",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3259810006437",
+    "name": "Huile d'olives vierge extra bio",
+    "brand": "Soléou",
+    "image": "https://images.openfoodfacts.org/images/products/325/981/000/6437/front_fr.33.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 11.9,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5000232852908",
+    "name": "Rapeseed Oil",
+    "brand": "Mazola",
+    "image": "https://images.openfoodfacts.org/images/products/500/023/285/2908/front_en.23.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3393,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.7,
+      "saturated_fat_100g": 7.6,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489973027",
+    "name": "Olivenöl",
+    "brand": "Lidl",
+    "image": null,
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3564700130070",
+    "name": "Huile de colza",
+    "brand": "Marque Repère,Rustica",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/013/0070/front_fr.132.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 7.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265474528000",
+    "name": "Huile Isio 4 Olive",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/452/8000/front_fr.59.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils",
+      "en:combined-oil-blended-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 9.8,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3336590080809",
+    "name": "L'Olive vierge extra",
+    "brand": "Cauvin",
+    "image": "https://images.openfoodfacts.org/images/products/333/659/008/0809/front_fr.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5051008878592",
+    "name": "Organic Extra Virgin Olive Oil",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/100/887/8592/front_en.29.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "00064491",
+    "name": "Sunflower Oil",
+    "brand": "Sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/006/4491/front_en.18.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 10.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "4056489798552",
+    "name": "Olivenöl",
+    "brand": "Deluxe",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/979/8552/front_en.6.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3389,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.6,
+      "saturated_fat_100g": 14.2,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265475009003",
+    "name": "HUILE D'OLIVE  SQUEEZE",
+    "brand": "Puget",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/500/9003/front_fr.24.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6191509907892",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Terra Delyssa",
+    "image": "https://images.openfoodfacts.org/images/products/619/150/990/7892/front_fr.72.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:frozen-foods",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:olive-oils-from-tunisia",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3374,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.2,
+      "saturated_fat_100g": 19.3,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3250390002659",
+    "name": "Hulie d'olive vierge extra",
+    "brand": "Bouton d'Or",
+    "image": "https://images.openfoodfacts.org/images/products/325/039/000/2659/front_fr.29.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-spain",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "5013635101818",
+    "name": "100% pure coconut oil",
+    "brand": "Ktc",
+    "image": "https://images.openfoodfacts.org/images/products/501/363/510/1818/front_en.43.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3696,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 87,
+      "fiber_100g": 0,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3564707082563",
+    "name": "Huile vierge de colza bio",
+    "brand": "Bio Village, Marque Repère",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/708/2563/front_fr.24.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 8,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6191509905058",
+    "name": "Huile d'olive vierge extra (Biologique)",
+    "brand": "Terra Delyssa",
+    "image": "https://images.openfoodfacts.org/images/products/619/150/990/5058/front_en.109.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:olive-oils-from-tunisia",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3350,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 90,
+      "saturated_fat_100g": 17,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3336590053759",
+    "name": "Huile vierge de colza biologique",
+    "brand": "Cauvin",
+    "image": "https://images.openfoodfacts.org/images/products/333/659/005/3759/front_fr.42.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 8,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8007270127934",
+    "name": "Il classico Huile d'olive vierge extra",
+    "brand": "Costa d'Oro",
+    "image": "https://images.openfoodfacts.org/images/products/800/727/012/7934/front_fr.33.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3427,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002210500105",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Filippo Berio",
+    "image": "https://images.openfoodfacts.org/images/products/800/221/050/0105/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3442,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.3,
+      "saturated_fat_100g": 13.9,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3245412849381",
+    "name": "Huile de Colza",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/324/541/284/9381/front_fr.55.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 6.6,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "80053835",
+    "name": "Olivenöl",
+    "brand": "Monini",
+    "image": "https://images.openfoodfacts.org/images/products/000/008/005/3835/front_de.84.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "6191509910014",
+    "name": "Huile d'olive extra vierge zero résidu de pesticides",
+    "brand": "Terra Delyssa",
+    "image": "https://images.openfoodfacts.org/images/products/619/150/991/0014/front_fr.25.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3374,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.2,
+      "saturated_fat_100g": 19.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4061459385779",
+    "name": "Olive Oil",
+    "brand": "Aldi,Solesta",
+    "image": "https://images.openfoodfacts.org/images/products/406/145/938/5779/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3443,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.4,
+      "saturated_fat_100g": 13.1,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3336590106264",
+    "name": "CAUVIN - Huile vierge de sésame grillé BIO",
+    "brand": "Cauvin",
+    "image": "https://images.openfoodfacts.org/images/products/333/659/010/6264/front_fr.48.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:fats",
+      "en:cereals-and-their-products",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:cereal-oils",
+      "en:sesame-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 17,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3210170507026",
+    "name": "Huile de pépins de raisin",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/321/017/050/7026/front_fr.65.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:grape-seed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 11,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002210560000",
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Filippo Berio",
+    "image": "https://images.openfoodfacts.org/images/products/800/221/056/0000/front_en.7.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3439,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.3,
+      "saturated_fat_100g": 15.5,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3245413442000",
+    "name": "Huile vierge de colza",
+    "brand": "Carrefour BIO, Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/324/541/344/2000/front_fr.57.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils",
+      "fr:huile-de-colza-bio"
+    ],
+    "nutrition": {
+      "energy_100g": 3367,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 6,
+      "fiber_100g": 0,
+      "salt_100g": 0.0027725
+    }
+  },
+  {
+    "id": "8002210501201",
+    "name": "Olive oil",
+    "brand": "Filippo Berio",
+    "image": "https://images.openfoodfacts.org/images/products/800/221/050/1201/front_en.26.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3439,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 91.3,
+      "saturated_fat_100g": 16,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "0078895710922",
+    "name": "Pure sesame oil",
+    "brand": "Lee Kum Kee",
+    "image": "https://images.openfoodfacts.org/images/products/007/889/571/0922/front_en.46.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:fats",
+      "en:cereals-and-their-products",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:cereal-oils",
+      "en:sesame-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 13,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3256220280136",
+    "name": "Huile d'olive vierge extra bouteille de 75cl",
+    "brand": "U,U Bio",
+    "image": "https://images.openfoodfacts.org/images/products/325/622/028/0136/front_fr.82.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3564700471579",
+    "name": "Huile de noix",
+    "brand": "Marque Repère, Rustica",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/047/1579/front_fr.66.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:nuts-and-their-products",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:nut-oils",
+      "en:walnut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 9.3,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3256221712162",
+    "name": "Huile d'olive Bouteille 50cL",
+    "brand": "U",
+    "image": "https://images.openfoodfacts.org/images/products/325/622/171/2162/front_fr.44.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 14,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3256221712254",
+    "name": "Huile de colza Bouteille 1L",
+    "brand": "U",
+    "image": "https://images.openfoodfacts.org/images/products/325/622/171/2254/front_fr.55.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 8,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3270190130468",
+    "name": "Mélange 4 huiles",
+    "brand": "Carrefour Classic",
+    "image": "https://images.openfoodfacts.org/images/products/327/019/013/0468/front_fr.55.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 8,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002470030954",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Carapelli",
+    "image": "https://images.openfoodfacts.org/images/products/800/247/003/0954/front_fr.39.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3435,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 13,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4058172504969",
+    "name": "Kokosöl nativ",
+    "brand": "DmBio, dm",
+    "image": "https://images.openfoodfacts.org/images/products/405/817/250/4969/front_de.65.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils",
+      "en:virgin-coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 87,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "6130234001024",
+    "name": "Huile elio",
+    "brand": "cevital",
+    "image": "https://images.openfoodfacts.org/images/products/613/023/400/1024/front_fr.6.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:legumes-and-their-products",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:legume-oils",
+      "en:soybean-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265479328018",
+    "name": "Fruit d'Or",
+    "brand": "Fruit d'Or",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/932/8018/front_fr.28.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:spreads",
+      "en:plant-based-spreads",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 9.4,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3250390000518",
+    "name": "Huile de colza",
+    "brand": "Bouton d'or",
+    "image": "https://images.openfoodfacts.org/images/products/325/039/000/0518/front_fr.45.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils",
+      "fr:autres-produits"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 7.2,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5608394421019",
+    "name": "Oleo Extra Virgem De Coco",
+    "brand": "origens",
+    "image": "https://images.openfoodfacts.org/images/products/560/839/442/1019/front_es.39.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3515,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 99,
+      "saturated_fat_100g": 89,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "5054775980437",
+    "name": "Tesco Virgin Organic Coconut Oil 300ML",
+    "brand": "Tesco",
+    "image": "https://images.openfoodfacts.org/images/products/505/477/598/0437/front_fr.7.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils",
+      "en:virgin-coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3448,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 91.5,
+      "saturated_fat_100g": 80.2,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "4088600054544",
+    "name": "British rapeseed oil",
+    "brand": "Aldi, Specially Selected",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/005/4544/front_en.7.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3421,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 91,
+      "saturated_fat_100g": 5.8,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "5052909743354",
+    "name": "Rapeseed oil",
+    "brand": "Tesco Finest",
+    "image": "https://images.openfoodfacts.org/images/products/505/290/974/3354/front_en.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils",
+      "en:cold-pressed-rapeseed-oil"
+    ],
+    "nutrition": {
+      "energy_100g": 3452,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.7,
+      "saturated_fat_100g": 6.1,
+      "fiber_100g": 0,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "6111024001660",
+    "name": "Oleor",
+    "brand": "Oléo",
+    "image": "https://images.openfoodfacts.org/images/products/611/102/400/1660/front_fr.16.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:combined-oil-blended-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": null,
+      "proteins_100g": null,
+      "carbohydrates_100g": null,
+      "sugars_100g": null,
+      "fat_100g": null,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": null
+    }
+  },
+  {
+    "id": "9001466207911",
+    "name": "Rapsöl",
+    "brand": "Rapso",
+    "image": "https://images.openfoodfacts.org/images/products/900/146/620/7911/front_en.24.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:rapeseed-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3386,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 6,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3250391989836",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Bouton d'or",
+    "image": "https://images.openfoodfacts.org/images/products/325/039/198/9836/front_fr.32.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 99.9,
+      "saturated_fat_100g": 15.1,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "4056489135531",
+    "name": "Huile de tournesol",
+    "brand": "VITAD'OR",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/913/5531/front_fr.21.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "20032432",
+    "name": "Italian Extra Virgin Olive Oil",
+    "brand": "Primadonna",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/003/2432/front_en.25.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-italy",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3448,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.6,
+      "saturated_fat_100g": 14.1,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4056489269274",
+    "name": "Olivenöl",
+    "brand": "Primadonna, Primadonna Bio",
+    "image": "https://images.openfoodfacts.org/images/products/405/648/926/9274/front_de.18.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "0096619104574",
+    "name": "Organic Virgin Coconut Oil",
+    "brand": "Kirkland Signature",
+    "image": "https://images.openfoodfacts.org/images/products/009/661/910/4574/front_en.77.400.jpg",
+    "nutriscore": "E",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils",
+      "en:virgin-coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3630,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 86.7,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4066447423761",
+    "name": "Olivenöl",
+    "brand": "DmBio",
+    "image": "https://images.openfoodfacts.org/images/products/406/644/742/3761/front_de.32.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3389,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3564700001059",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Marque Repère, Rustica",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/000/1059/front_fr.47.400.jpg",
+    "nutriscore": "B",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils",
+      "en:olive-oils-from-the-european-union"
+    ],
+    "nutrition": {
+      "energy_100g": 3367,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 13,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4061458029650",
+    "name": "Natives Olivenöl Extra",
+    "brand": "Gut Bio",
+    "image": "https://images.openfoodfacts.org/images/products/406/145/802/9650/front_en.77.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 14,
+      "fiber_100g": null,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "3596710463091",
+    "name": "Huile d'olive vierge extra. Origine: Espagne.",
+    "brand": "Auchan",
+    "image": "https://images.openfoodfacts.org/images/products/359/671/046/3091/front_fr.104.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "5000169024812",
+    "name": "Extra virgin olive oil",
+    "brand": "Waitrose",
+    "image": "https://images.openfoodfacts.org/images/products/500/016/902/4812/front_en.7.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-spain",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3443,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.4,
+      "saturated_fat_100g": 12.8,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "00115292",
+    "name": "Olive Oil",
+    "brand": "By Sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/011/5292/front_en.12.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:seafood",
+      "en:fishes-and-their-products",
+      "en:canned-foods",
+      "en:fats",
+      "en:fishes",
+      "en:fatty-fishes",
+      "en:vegetable-fats",
+      "en:canned-fishes",
+      "en:olive-tree-products",
+      "en:sardines",
+      "en:vegetable-oils",
+      "en:canned-sardines",
+      "en:olive-oils",
+      "en:sardines-in-oil",
+      "en:sardines-in-olive-oil",
+      "en:olive-oil-mixes"
+    ],
+    "nutrition": {
+      "energy_100g": 3443,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 91.5,
+      "saturated_fat_100g": 13.1,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265470087853",
+    "name": "Olizéa",
+    "brand": "LESIEUR",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/008/7853/front_fr.3.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 8.8,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3560070482238",
+    "name": "Huile d'olive vierge extra",
+    "brand": "Carrefour",
+    "image": "https://images.openfoodfacts.org/images/products/356/007/048/2238/front_fr.68.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3378,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4088600112510",
+    "name": "Sunflower oil",
+    "brand": "Aldi",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/011/2510/front_en.28.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "5060302580001",
+    "name": "Organic Fair Trade Extra Virgin Raw Coconut Oil",
+    "brand": "Lucy bee",
+    "image": null,
+    "nutriscore": "D",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:coconut-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3694,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 94,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8410179019277",
+    "name": "Mon huile d’olive",
+    "brand": "TRAMIER",
+    "image": "https://images.openfoodfacts.org/images/products/841/017/901/9277/front_fr.13.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 16,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4088600112527",
+    "name": "Vegetable Oil",
+    "brand": "Solesta",
+    "image": "https://images.openfoodfacts.org/images/products/408/860/011/2527/front_en.22.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 7,
+      "fiber_100g": 0.5,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "0853807005828",
+    "name": "Avocado Oil",
+    "brand": "Chosen Foods",
+    "image": "https://images.openfoodfacts.org/images/products/085/380/700/5828/front_en.70.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:avocado-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3350,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": null,
+      "fat_100g": 93.3,
+      "saturated_fat_100g": 13.3,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265479278009",
+    "name": "Huile Isio 4",
+    "brand": "Isio 4,Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/927/8009/front_fr.51.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 8.5,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3564707127837",
+    "name": "Huile d'olive",
+    "brand": "Bio Village, Marque Repère",
+    "image": "https://images.openfoodfacts.org/images/products/356/470/712/7837/front_fr.40.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:olive-oils-from-tunisia",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3367,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265479568001",
+    "name": "Huile Isio 4",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/956/8001/front_fr.45.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3766,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 9,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "20601881",
+    "name": "Huile d'avocat",
+    "brand": "Deluxe, VitaDor",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/060/1881/front_fr.37.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:fruit-and-fruit-seed-oils",
+      "en:avocado-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3448,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.6,
+      "saturated_fat_100g": 16.4,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8480000047496",
+    "name": "Aceite de Oliva Virgen  VISIT",
+    "brand": "Hacendado",
+    "image": "https://images.openfoodfacts.org/images/products/848/000/004/7496/front_es.41.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3367,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 91.4,
+      "saturated_fat_100g": 12.8,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "4061458024808",
+    "name": "Sonnenblumenöl",
+    "brand": "Bellasan, Bellsan, VitaDor, Aldi",
+    "image": "https://images.openfoodfacts.org/images/products/406/145/802/4808/front_en.26.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3404,
+      "proteins_100g": 0.5,
+      "carbohydrates_100g": 0.5,
+      "sugars_100g": 0.5,
+      "fat_100g": 92,
+      "saturated_fat_100g": 25,
+      "fiber_100g": null,
+      "salt_100g": 0.01
+    }
+  },
+  {
+    "id": "00466868",
+    "name": "Toasted sesame oil",
+    "brand": "By sainsbury's",
+    "image": "https://images.openfoodfacts.org/images/products/000/000/046/6868/front_en.4.400.jpg",
+    "nutriscore": "UNKNOWN",
+    "nova_group": null,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:cereals-and-potatoes",
+      "en:fats",
+      "en:cereals-and-their-products",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:cereal-oils",
+      "en:sesame-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": null,
+      "fiber_100g": null,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "3265472161001",
+    "name": "Huile Isio 4",
+    "brand": "Lesieur",
+    "image": "https://images.openfoodfacts.org/images/products/326/547/216/1001/front_fr.61.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:mixed-vegetable-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 9,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "20013592",
+    "name": "Sonnenblumenöl",
+    "brand": "Brökelmann   Co – Oelmühle, Lidl, Vita D'or",
+    "image": "https://images.openfoodfacts.org/images/products/000/002/001/3592/front_en.95.400.jpg",
+    "nutriscore": "C",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:vegetable-oils",
+      "en:sunflower-seeds-and-their-products",
+      "en:sunflower-oils",
+      "de:öle-und-fette"
+    ],
+    "nutrition": {
+      "energy_100g": 3464,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 92,
+      "saturated_fat_100g": 10,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8002802102083",
+    "name": "Huile d'olive vierge extra Biologique",
+    "brand": "Elisa",
+    "image": "https://images.openfoodfacts.org/images/products/800/280/210/2083/front_fr.55.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:extra-virgin-olive-oils",
+      "en:virgin-olive-oils",
+      "fr:huile-d-olive-bio"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  },
+  {
+    "id": "8410179100036",
+    "name": "Aceite de Oliva Extra Virgen Original",
+    "brand": "Borges",
+    "image": "https://images.openfoodfacts.org/images/products/841/017/910/0036/front_en.74.400.jpg",
+    "nutriscore": "B",
+    "nova_group": 2,
+    "categories": [
+      "en:plant-based-foods-and-beverages",
+      "en:plant-based-foods",
+      "en:fats",
+      "en:vegetable-fats",
+      "en:olive-tree-products",
+      "en:vegetable-oils",
+      "en:olive-oils",
+      "en:olive-oils-from-spain",
+      "en:extra-virgin-olive-oils"
+    ],
+    "nutrition": {
+      "energy_100g": 3700,
+      "proteins_100g": 0,
+      "carbohydrates_100g": 0,
+      "sugars_100g": 0,
+      "fat_100g": 100,
+      "saturated_fat_100g": 15,
+      "fiber_100g": 0,
+      "salt_100g": 0
+    }
+  }
+]

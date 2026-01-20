@@ -1,0 +1,502 @@
+[
+  {
+    "id": "en:plant-based-foods-and-beverages",
+    "name": "Plant-based foods and beverages",
+    "products_count": 526758
+  },
+  {
+    "id": "en:plant-based-foods",
+    "name": "Plant-based foods",
+    "products_count": 459489
+  },
+  {
+    "id": "en:snacks",
+    "name": "Snacks",
+    "products_count": 317206
+  },
+  {
+    "id": "en:sweet-snacks",
+    "name": "Sweet snacks",
+    "products_count": 233794
+  },
+  {
+    "id": "en:beverages",
+    "name": "Beverages",
+    "products_count": 218235
+  },
+  {
+    "id": "en:dairies",
+    "name": "Dairies",
+    "products_count": 167741
+  },
+  {
+    "id": "en:cereals-and-potatoes",
+    "name": "Cereals and potatoes",
+    "products_count": 157994
+  },
+  {
+    "id": "en:meats-and-their-products",
+    "name": "Meats and their products",
+    "products_count": 148131
+  },
+  {
+    "id": "en:fermented-foods",
+    "name": "Fermented foods",
+    "products_count": 130470
+  },
+  {
+    "id": "en:fermented-milk-products",
+    "name": "Fermented milk products",
+    "products_count": 125794
+  },
+  {
+    "id": "en:fruits-and-vegetables-based-foods",
+    "name": "Fruits and vegetables based foods",
+    "products_count": 119866
+  },
+  {
+    "id": "en:condiments",
+    "name": "Condiments",
+    "products_count": 118454
+  },
+  {
+    "id": "en:meats",
+    "name": "Meats",
+    "products_count": 109326
+  },
+  {
+    "id": "en:desserts",
+    "name": "Desserts",
+    "products_count": 102278
+  },
+  {
+    "id": "en:meals",
+    "name": "Meals",
+    "products_count": 100806
+  },
+  {
+    "id": "en:biscuits-and-cakes",
+    "name": "Biscuits and cakes",
+    "products_count": 100048
+  },
+  {
+    "id": "en:beverages-and-beverages-preparations",
+    "name": "Beverages and beverages preparations",
+    "products_count": 99482
+  },
+  {
+    "id": "en:cereals-and-their-products",
+    "name": "Cereals and their products",
+    "products_count": 97816
+  },
+  {
+    "id": "en:spreads",
+    "name": "Spreads",
+    "products_count": 88882
+  },
+  {
+    "id": "en:cheeses",
+    "name": "Cheeses",
+    "products_count": 82228
+  },
+  {
+    "id": "en:confectioneries",
+    "name": "Confectioneries",
+    "products_count": 81190
+  },
+  {
+    "id": "en:sauces",
+    "name": "Sauces",
+    "products_count": 80179
+  },
+  {
+    "id": "en:breakfasts",
+    "name": "Breakfasts",
+    "products_count": 77050
+  },
+  {
+    "id": "en:frozen-foods",
+    "name": "Frozen foods",
+    "products_count": 73748
+  },
+  {
+    "id": "en:prepared-meats",
+    "name": "Prepared meats",
+    "products_count": 72071
+  },
+  {
+    "id": "en:plant-based-beverages",
+    "name": "Plant-based beverages",
+    "products_count": 69364
+  },
+  {
+    "id": "en:groceries",
+    "name": "Groceries",
+    "products_count": 67036
+  },
+  {
+    "id": "en:vegetables-based-foods",
+    "name": "Vegetables based foods",
+    "products_count": 60016
+  },
+  {
+    "id": "en:cocoa-and-its-products",
+    "name": "Cocoa and its products",
+    "products_count": 55380
+  },
+  {
+    "id": "en:seafood",
+    "name": "Seafood",
+    "products_count": 53526
+  },
+  {
+    "id": "en:biscuits",
+    "name": "Biscuits",
+    "products_count": 52708
+  },
+  {
+    "id": "en:fruits-based-foods",
+    "name": "Fruits based foods",
+    "products_count": 50605
+  },
+  {
+    "id": "en:sweet-spreads",
+    "name": "Sweet spreads",
+    "products_count": 50594
+  },
+  {
+    "id": "en:canned-foods",
+    "name": "Canned foods",
+    "products_count": 49804
+  },
+  {
+    "id": "en:dairy-desserts",
+    "name": "Dairy desserts",
+    "products_count": 47504
+  },
+  {
+    "id": "en:breads",
+    "name": "Breads",
+    "products_count": 46367
+  },
+  {
+    "id": "en:plant-based-spreads",
+    "name": "Plant-based spreads",
+    "products_count": 42588
+  },
+  {
+    "id": "en:salty-snacks",
+    "name": "Salty snacks",
+    "products_count": 41879
+  },
+  {
+    "id": "en:fermented-dairy-desserts",
+    "name": "Fermented dairy desserts",
+    "products_count": 39742
+  },
+  {
+    "id": "en:fishes-and-their-products",
+    "name": "Fishes and their products",
+    "products_count": 39435
+  },
+  {
+    "id": "en:fats",
+    "name": "Fats",
+    "products_count": 38794
+  },
+  {
+    "id": "en:fishes",
+    "name": "Fishes",
+    "products_count": 37807
+  },
+  {
+    "id": "en:pastas",
+    "name": "Pastas",
+    "products_count": 37278
+  },
+  {
+    "id": "en:alcoholic-beverages",
+    "name": "Alcoholic beverages",
+    "products_count": 37118
+  },
+  {
+    "id": "en:appetizers",
+    "name": "Appetizers",
+    "products_count": 35226
+  },
+  {
+    "id": "en:undefined",
+    "name": "Undefined",
+    "products_count": 34259
+  },
+  {
+    "id": "en:yogurts",
+    "name": "Yogurts",
+    "products_count": 33859
+  },
+  {
+    "id": "en:poultries",
+    "name": "Poultries",
+    "products_count": 33055
+  },
+  {
+    "id": "en:farming-products",
+    "name": "Farming products",
+    "products_count": 32676
+  },
+  {
+    "id": "en:seeds",
+    "name": "Seeds",
+    "products_count": 32653
+  },
+  {
+    "id": "en:legumes-and-their-products",
+    "name": "Legumes and their products",
+    "products_count": 32227
+  },
+  {
+    "id": "en:sweeteners",
+    "name": "Sweeteners",
+    "products_count": 31895
+  },
+  {
+    "id": "en:frozen-desserts",
+    "name": "Frozen desserts",
+    "products_count": 31835
+  },
+  {
+    "id": "en:nuts-and-their-products",
+    "name": "Nuts and their products",
+    "products_count": 30405
+  },
+  {
+    "id": "en:vegetable-fats",
+    "name": "Vegetable fats",
+    "products_count": 30399
+  },
+  {
+    "id": "en:chocolates",
+    "name": "Chocolates",
+    "products_count": 29811
+  },
+  {
+    "id": "en:cakes",
+    "name": "Cakes",
+    "products_count": 29425
+  },
+  {
+    "id": "en:dried-products",
+    "name": "Dried products",
+    "products_count": 28875
+  },
+  {
+    "id": "en:fruit-based-beverages",
+    "name": "Fruit-based beverages",
+    "products_count": 28577
+  },
+  {
+    "id": "en:vegetables",
+    "name": "Vegetables",
+    "products_count": 28515
+  },
+  {
+    "id": "en:dietary-supplements",
+    "name": "Dietary supplements",
+    "products_count": 27908
+  },
+  {
+    "id": "en:canned-plant-based-foods",
+    "name": "Canned plant-based foods",
+    "products_count": 27712
+  },
+  {
+    "id": "en:biscuits-and-crackers",
+    "name": "Biscuits and crackers",
+    "products_count": 27252
+  },
+  {
+    "id": "en:fatty-fishes",
+    "name": "Fatty fishes",
+    "products_count": 26361
+  },
+  {
+    "id": "en:vegetable-oils",
+    "name": "Vegetable oils",
+    "products_count": 25849
+  },
+  {
+    "id": "en:juices-and-nectars",
+    "name": "Juices and nectars",
+    "products_count": 25278
+  },
+  {
+    "id": "en:breakfast-cereals",
+    "name": "Breakfast cereals",
+    "products_count": 24685
+  },
+  {
+    "id": "en:chocolate-candies",
+    "name": "Chocolate candies",
+    "products_count": 23802
+  },
+  {
+    "id": "en:chicken-and-its-products",
+    "name": "Chicken and its products",
+    "products_count": 23723
+  },
+  {
+    "id": "en:carbonated-drinks",
+    "name": "Carbonated drinks",
+    "products_count": 23398
+  },
+  {
+    "id": "en:hot-beverages",
+    "name": "Hot beverages",
+    "products_count": 23052
+  },
+  {
+    "id": "en:chips-and-fries",
+    "name": "Chips and fries",
+    "products_count": 22346
+  },
+  {
+    "id": "en:bee-products",
+    "name": "Bee products",
+    "products_count": 21954
+  },
+  {
+    "id": "en:fruit-and-vegetable-preserves",
+    "name": "Fruit and vegetable preserves",
+    "products_count": 21938
+  },
+  {
+    "id": "en:candies",
+    "name": "Candies",
+    "products_count": 21435
+  },
+  {
+    "id": "en:legumes",
+    "name": "Legumes",
+    "products_count": 21297
+  },
+  {
+    "id": "en:cow-cheeses",
+    "name": "Cow cheeses",
+    "products_count": 21220
+  },
+  {
+    "id": "en:chickens",
+    "name": "Chickens",
+    "products_count": 21105
+  },
+  {
+    "id": "en:olive-tree-products",
+    "name": "Olive tree products",
+    "products_count": 21052
+  },
+  {
+    "id": "en:honeys",
+    "name": "Honeys",
+    "products_count": 20895
+  },
+  {
+    "id": "en:fruits",
+    "name": "Fruits",
+    "products_count": 20803
+  },
+  {
+    "id": "en:crisps",
+    "name": "Crisps",
+    "products_count": 20729
+  },
+  {
+    "id": "en:nuts",
+    "name": "Nuts",
+    "products_count": 19837
+  },
+  {
+    "id": "en:ice-creams-and-sorbets",
+    "name": "Ice creams and sorbets",
+    "products_count": 18731
+  },
+  {
+    "id": "en:fruit-juices",
+    "name": "Fruit juices",
+    "products_count": 18723
+  },
+  {
+    "id": "en:sodas",
+    "name": "Sodas",
+    "products_count": 18620
+  },
+  {
+    "id": "en:hams",
+    "name": "Hams",
+    "products_count": 18360
+  },
+  {
+    "id": "en:salted-spreads",
+    "name": "Salted spreads",
+    "products_count": 18043
+  },
+  {
+    "id": "en:sausages",
+    "name": "Sausages",
+    "products_count": 17688
+  },
+  {
+    "id": "en:soups",
+    "name": "Soups",
+    "products_count": 17598
+  },
+  {
+    "id": "en:jams",
+    "name": "Jams",
+    "products_count": 17563
+  },
+  {
+    "id": "en:milks",
+    "name": "Milks",
+    "products_count": 17450
+  },
+  {
+    "id": "en:cereal-grains",
+    "name": "Cereal grains",
+    "products_count": 17028
+  },
+  {
+    "id": "en:dried-plant-based-foods",
+    "name": "Dried plant-based foods",
+    "products_count": 16596
+  },
+  {
+    "id": "en:canned-vegetables",
+    "name": "Canned vegetables",
+    "products_count": 16071
+  },
+  {
+    "id": "en:wines",
+    "name": "Wines",
+    "products_count": 15962
+  },
+  {
+    "id": "en:dairy-substitutes",
+    "name": "Dairy substitutes",
+    "products_count": 15926
+  },
+  {
+    "id": "en:pizzas-pies-and-quiches",
+    "name": "Pizzas pies and quiches",
+    "products_count": 15835
+  },
+  {
+    "id": "en:teas",
+    "name": "Teas",
+    "products_count": 15608
+  },
+  {
+    "id": "en:waters",
+    "name": "Waters",
+    "products_count": 15565
+  }
+]
