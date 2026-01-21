@@ -7,6 +7,7 @@ Système de monitoring PostgreSQL avec collecte de données de vols, optimisatio
 ### 1. Configuration
 
 ```bash
+cd tp3
 cp .env.exemple .env
 ```
 
@@ -15,7 +16,6 @@ Modifier le fichier `.env` si nécessaire avec vos propres valeurs.
 ### 2. Démarrer l'infrastructure
 
 ```bash
-cd tp3
 docker-compose up -d
 ```
 
@@ -61,7 +61,7 @@ python3 main.py
 ### 5. Site web (optionnel)
 
 ```bash
-cd flight-map
+cd ../flight-map
 npm install --legacy-peer-deps
 npm run dev
 ```
