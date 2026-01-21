@@ -1,0 +1,7 @@
+✅ Connexion MongoDB active (rétention: 24h, intervalle: 30s)
+🚀 Démarrage de l'ingestion continue (Zone: France)...
+Appuie sur CTRL+C pour arrêter.
+
+⚠️  Erreur API: 429
+⚠️  Erreur API: 429
+Traceback (most recent call last):

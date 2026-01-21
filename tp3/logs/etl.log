@@ -1,0 +1,12 @@
+🚀 Démarrage du pipeline ETL MongoDB → PostgreSQL
+Intervalle: 60s | Batch size: 500
+
+✅ Schéma PostgreSQL initialisé
+
+[13:30:47] Cycle #0 | Aucune nouvelle donnée
+Traceback (most recent call last):
+  File "/Users/florianthubin/Documents/COUR MASTER /opti bdd/tp1/tp3/etl_pipeline.py", line 232, in <module>
+    run_etl()
+  File "/Users/florianthubin/Documents/COUR MASTER /opti bdd/tp1/tp3/etl_pipeline.py", line 228, in run_etl
+    time.sleep(ETL_INTERVAL)
+KeyboardInterrupt

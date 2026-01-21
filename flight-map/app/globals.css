@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.leaflet-container {
+    height: 100vh;
+    width: 100%;
+}
+
+.custom-airplane-icon {
+    background: transparent !important;
+    border: none !important;
+    transition: transform 0.5s ease-out;
+}
+
+.custom-airplane-icon div {
+    transition: transform 0.3s ease-out;
+}

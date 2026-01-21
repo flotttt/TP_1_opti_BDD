@@ -1,0 +1,91 @@
+groups:
+  - name: postgresql_alerts
+    interval: 30s
+    rules:
+      # Alerte 1: CPU PostgreSQL élevé
+      - alert: PostgreSQLHighCPU
+        expr: rate(process_cpu_seconds_total{job="postgres"}[1m]) * 100 > 80
+        for: 5m
+        labels:
+          severity: warning
+          component: postgresql
+        annotations:
+          summary: "PostgreSQL CPU usage élevé"
+          description: "L'utilisation CPU de PostgreSQL est à {{ $value | humanize }}% depuis plus de 5 minutes."
+
+      # Alerte 2: Cache hit ratio faible
+      - alert: PostgreSQLLowCacheHitRatio
+        expr: |
+          (
+            sum(rate(pg_stat_database_blks_hit{datname="perfdb"}[5m]))
+            /
+            (sum(rate(pg_stat_database_blks_hit{datname="perfdb"}[5m])) + sum(rate(pg_stat_database_blks_read{datname="perfdb"}[5m])))
+          ) * 100 < 95
+        for: 10m
+        labels:
+          severity: warning
+          component: postgresql
+        annotations:
+          summary: "Cache hit ratio PostgreSQL faible"
+          description: "Le cache hit ratio est de {{ $value | humanize }}% (< 95%). Cela indique trop de lectures disque."
+
+      # Alerte 3: Temps moyen des requêtes élevé
+      - alert: PostgreSQLSlowQueries
+        expr: |
+          rate(pg_stat_database_active_time_seconds_total{datname="perfdb"}[5m])
+          /
+          rate(pg_stat_database_xact_commit{datname="perfdb"}[5m]) > 0.1
+        for: 5m
+        labels:
+          severity: warning
+          component: postgresql
+        annotations:
+          summary: "Requêtes PostgreSQL lentes détectées"
+          description: "Le temps moyen des requêtes est de {{ $value | humanize }}s (> 100ms)."
+
+      # Alerte 4: Trop de connexions actives
+      - alert: PostgreSQLTooManyConnections
+        expr: sum(pg_stat_activity_count{datname="perfdb", state="active"}) > 50
+        for: 5m
+        labels:
+          severity: warning
+          component: postgresql
+        annotations:
+          summary: "Nombre de connexions PostgreSQL élevé"
+          description: "Il y a {{ $value }} connexions actives (> 50)."
+
+      # Alerte 5: I/O disque élevé
+      - alert: PostgreSQLHighDiskIO
+        expr: rate(pg_stat_database_blks_read{datname="perfdb"}[5m]) > 1000
+        for: 5m
+        labels:
+          severity: warning
+          component: postgresql
+        annotations:
+          summary: "I/O disque PostgreSQL élevé"
+          description: "PostgreSQL lit {{ $value | humanize }} blocs/s depuis le disque (> 1000)."
+
+      # Alerte 6: PostgreSQL Down
+      - alert: PostgreSQLDown
+        expr: up{job="postgres"} == 0
+        for: 1m
+        labels:
+          severity: critical
+          component: postgresql
+        annotations:
+          summary: "PostgreSQL Exporter est DOWN"
+          description: "Le postgres_exporter ne répond plus. PostgreSQL est peut-être inaccessible."
+
+      # Alerte 7: Rollbacks fréquents
+      - alert: PostgreSQLHighRollbackRate
+        expr: |
+          rate(pg_stat_database_xact_rollback{datname="perfdb"}[5m])
+          /
+          rate(pg_stat_database_xact_commit{datname="perfdb"}[5m]) > 0.05
+        for: 5m
+        labels:
+          severity: warning
+          component: postgresql
+        annotations:
+          summary: "Taux de rollback PostgreSQL élevé"
+          description: "{{ $value | humanizePercentage }} des transactions sont rollback (> 5%). Vérifier les erreurs applicatives."
