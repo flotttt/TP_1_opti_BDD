@@ -1,6 +1,8 @@
 import os
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta
+from threading import Lock
 
 import psycopg2
 from dotenv import load_dotenv
@@ -23,12 +25,17 @@ PG_CONFIG = {
 
 ETL_INTERVAL = int(os.getenv("ETL_INTERVAL"))
 BATCH_SIZE = int(os.getenv("ETL_BATCH_SIZE"))
+NUM_WORKERS = int(os.getenv("ETL_WORKERS", "4"))
 MONGO_DATABASE = os.getenv("MONGO_DATABASE")
 MONGO_COLLECTION = os.getenv("MONGO_COLLECTION")
 
 mongo_client = MongoClient(MONGO_URI)
 mongo_db = mongo_client[MONGO_DATABASE]
 mongo_collection = mongo_db[MONGO_COLLECTION]
+
+aircraft_cache = {}
+country_cache = {}
+cache_lock = Lock()
 
 
 def get_pg_connection():
@@ -39,29 +46,43 @@ def get_or_create_aircraft_batch(cursor, icao24_list):
     if not icao24_list:
         return {}
 
-    cursor.execute(
-        "SELECT aircraft_id, icao24 FROM dim_aircraft WHERE icao24 = ANY(%s)",
-        (icao24_list,),
-    )
-    existing = {row[1]: row[0] for row in cursor.fetchall()}
+    with cache_lock:
+        cached = {
+            icao: aircraft_cache[icao] for icao in icao24_list if icao in aircraft_cache
+        }
+        missing = [icao for icao in icao24_list if icao not in aircraft_cache]
 
-    new_icao24 = list(set(icao24_list) - set(existing.keys()))
+    result = cached.copy()
 
-    if new_icao24:
-        execute_values(
-            cursor,
-            "INSERT INTO dim_aircraft (icao24) VALUES %s ON CONFLICT (icao24) DO NOTHING RETURNING aircraft_id, icao24",
-            [(icao,) for icao in new_icao24],
+    if missing:
+        cursor.execute(
+            "SELECT aircraft_id, icao24 FROM dim_aircraft WHERE icao24 = ANY(%s)",
+            (missing,),
         )
-        for row in cursor.fetchall():
-            existing[row[1]] = row[0]
+        existing = {row[1]: row[0] for row in cursor.fetchall()}
+        result.update(existing)
 
-    cursor.execute(
-        "UPDATE dim_aircraft SET last_seen = NOW() WHERE icao24 = ANY(%s)",
-        (icao24_list,),
-    )
+        new_icao24 = list(set(missing) - set(existing.keys()))
 
-    return existing
+        if new_icao24:
+            execute_values(
+                cursor,
+                "INSERT INTO dim_aircraft (icao24) VALUES %s ON CONFLICT (icao24) DO NOTHING RETURNING aircraft_id, icao24",
+                [(icao,) for icao in new_icao24],
+            )
+            for row in cursor.fetchall():
+                result[row[1]] = row[0]
+
+        with cache_lock:
+            aircraft_cache.update(result)
+
+    if icao24_list:
+        cursor.execute(
+            "UPDATE dim_aircraft SET last_seen = NOW() WHERE icao24 = ANY(%s)",
+            (icao24_list,),
+        )
+
+    return result
 
 
 def get_or_create_country_batch(cursor, country_list):
@@ -70,93 +91,118 @@ def get_or_create_country_batch(cursor, country_list):
 
     country_list = [c for c in country_list if c]
 
-    cursor.execute(
-        "SELECT country_id, country_name FROM dim_country WHERE country_name = ANY(%s)",
-        (country_list,),
-    )
-    existing = {row[1]: row[0] for row in cursor.fetchall()}
+    with cache_lock:
+        cached = {
+            country: country_cache[country]
+            for country in country_list
+            if country in country_cache
+        }
+        missing = [country for country in country_list if country not in country_cache]
 
-    new_countries = list(set(country_list) - set(existing.keys()))
+    result = cached.copy()
 
-    if new_countries:
-        execute_values(
-            cursor,
-            "INSERT INTO dim_country (country_name) VALUES %s ON CONFLICT (country_name) DO NOTHING RETURNING country_id, country_name",
-            [(country,) for country in new_countries],
+    if missing:
+        cursor.execute(
+            "SELECT country_id, country_name FROM dim_country WHERE country_name = ANY(%s)",
+            (missing,),
         )
-        for row in cursor.fetchall():
-            existing[row[1]] = row[0]
+        existing = {row[1]: row[0] for row in cursor.fetchall()}
+        result.update(existing)
 
-    return existing
+        new_countries = list(set(missing) - set(existing.keys()))
 
-
-def process_batch(cursor, documents):
-    if not documents:
-        return 0, 0
-
-    icao24_list = [doc.get("icao24") for doc in documents if doc.get("icao24")]
-    country_list = [
-        doc.get("origin_country") for doc in documents if doc.get("origin_country")
-    ]
-
-    aircraft_map = get_or_create_aircraft_batch(cursor, icao24_list)
-    country_map = get_or_create_country_batch(cursor, country_list)
-
-    values = []
-    for doc in documents:
-        icao24 = doc.get("icao24")
-        if not icao24 or icao24 not in aircraft_map:
-            continue
-
-        values.append(
-            (
-                aircraft_map[icao24],
-                country_map.get(doc.get("origin_country")),
-                doc.get("callsign"),
-                doc.get("longitude"),
-                doc.get("latitude"),
-                doc.get("geo_altitude"),
-                doc.get("velocity"),
-                doc.get("true_track"),
-                doc.get("on_ground"),
-                doc.get("api_timestamp"),
-                doc.get("ingestion_time"),
+        if new_countries:
+            execute_values(
+                cursor,
+                "INSERT INTO dim_country (country_name) VALUES %s ON CONFLICT (country_name) DO NOTHING RETURNING country_id, country_name",
+                [(country,) for country in new_countries],
             )
-        )
+            for row in cursor.fetchall():
+                result[row[1]] = row[0]
 
-    if not values:
-        return 0, 0
+        with cache_lock:
+            country_cache.update(result)
 
-    execute_values(
-        cursor,
-        """
-        INSERT INTO fact_flight_positions (
-            aircraft_id, country_id, callsign, longitude, latitude,
-            geo_altitude, velocity, true_track, on_ground,
-            api_timestamp, ingestion_time
-        ) VALUES %s
-        ON CONFLICT (aircraft_id, api_timestamp)
-        DO UPDATE SET
-            country_id = EXCLUDED.country_id,
-            callsign = EXCLUDED.callsign,
-            longitude = EXCLUDED.longitude,
-            latitude = EXCLUDED.latitude,
-            geo_altitude = EXCLUDED.geo_altitude,
-            velocity = EXCLUDED.velocity,
-            true_track = EXCLUDED.true_track,
-            on_ground = EXCLUDED.on_ground,
-            ingestion_time = EXCLUDED.ingestion_time,
-            processed_time = NOW()
-        """,
-        values,
-    )
+    return result
 
-    return len(values), 0
+
+def process_chunk(chunk):
+    if not chunk:
+        return 0
+
+    conn = get_pg_connection()
+    try:
+        with conn.cursor() as cursor:
+            icao24_list = [doc.get("icao24") for doc in chunk if doc.get("icao24")]
+            country_list = [
+                doc.get("origin_country") for doc in chunk if doc.get("origin_country")
+            ]
+
+            aircraft_map = get_or_create_aircraft_batch(cursor, icao24_list)
+            country_map = get_or_create_country_batch(cursor, country_list)
+
+            values = []
+            for doc in chunk:
+                icao24 = doc.get("icao24")
+                if not icao24 or icao24 not in aircraft_map:
+                    continue
+
+                values.append(
+                    (
+                        aircraft_map[icao24],
+                        country_map.get(doc.get("origin_country")),
+                        doc.get("callsign"),
+                        doc.get("longitude"),
+                        doc.get("latitude"),
+                        doc.get("geo_altitude"),
+                        doc.get("velocity"),
+                        doc.get("true_track"),
+                        doc.get("on_ground"),
+                        doc.get("api_timestamp"),
+                        doc.get("ingestion_time"),
+                    )
+                )
+
+            if values:
+                execute_values(
+                    cursor,
+                    """
+                    INSERT INTO fact_flight_positions (
+                        aircraft_id, country_id, callsign, longitude, latitude,
+                        geo_altitude, velocity, true_track, on_ground,
+                        api_timestamp, ingestion_time
+                    ) VALUES %s
+                    ON CONFLICT (aircraft_id, api_timestamp)
+                    DO UPDATE SET
+                        country_id = EXCLUDED.country_id,
+                        callsign = EXCLUDED.callsign,
+                        longitude = EXCLUDED.longitude,
+                        latitude = EXCLUDED.latitude,
+                        geo_altitude = EXCLUDED.geo_altitude,
+                        velocity = EXCLUDED.velocity,
+                        true_track = EXCLUDED.true_track,
+                        on_ground = EXCLUDED.on_ground,
+                        ingestion_time = EXCLUDED.ingestion_time,
+                        processed_time = NOW()
+                    """,
+                    values,
+                )
+
+        conn.commit()
+        return len(values)
+    except Exception as e:
+        conn.rollback()
+        print(f"Erreur chunk: {e}", flush=True)
+        return 0
+    finally:
+        conn.close()
 
 
 def run_etl():
-    print("Démarrage du pipeline ETL MongoDB -> PostgreSQL")
-    print(f"Intervalle: {ETL_INTERVAL}s | Batch size: {BATCH_SIZE}\n")
+    print("Démarrage du pipeline ETL MongoDB -> PostgreSQL (multi-thread)")
+    print(
+        f"Intervalle: {ETL_INTERVAL}s | Batch size: {BATCH_SIZE} | Workers: {NUM_WORKERS}\n"
+    )
 
     last_processed_time = datetime.now() - timedelta(hours=1)
 
@@ -185,23 +231,34 @@ def run_etl():
             )
 
             if documents:
-                conn = get_pg_connection()
-                try:
-                    with conn.cursor() as cursor:
-                        processed, _ = process_batch(cursor, documents)
-                    conn.commit()
+                chunk_size = len(documents) // NUM_WORKERS
+                if chunk_size == 0:
+                    chunk_size = len(documents)
 
-                    last_processed_time = max(
-                        doc["ingestion_time"] for doc in documents
-                    )
+                chunks = [
+                    documents[i : i + chunk_size]
+                    for i in range(0, len(documents), chunk_size)
+                ]
 
-                    now = datetime.now().strftime("%H:%M:%S")
-                    print(
-                        f"[{now}] Cycle #{cycle_count} | {processed} positions traitées dans PostgreSQL",
-                        flush=True,
-                    )
+                total_processed = 0
+                with ThreadPoolExecutor(max_workers=NUM_WORKERS) as executor:
+                    futures = [
+                        executor.submit(process_chunk, chunk) for chunk in chunks
+                    ]
+                    for future in as_completed(futures):
+                        total_processed += future.result()
 
-                    if cycle_count % 60 == 0 and cycle_count > 0:
+                last_processed_time = max(doc["ingestion_time"] for doc in documents)
+
+                now = datetime.now().strftime("%H:%M:%S")
+                print(
+                    f"[{now}] Cycle #{cycle_count} | {total_processed} positions traitées ({NUM_WORKERS} threads)",
+                    flush=True,
+                )
+
+                if cycle_count % 60 == 0 and cycle_count > 0:
+                    conn = get_pg_connection()
+                    try:
                         with conn.cursor() as cursor:
                             cursor.execute("SELECT refresh_latest_positions()")
                             cursor.execute("SELECT aggregate_hourly_stats()")
@@ -213,12 +270,9 @@ def run_etl():
                             f"   Vue matérialisée rafraîchie | {stats_count} stats horaires | {deleted} anciennes positions supprimées",
                             flush=True,
                         )
+                    finally:
+                        conn.close()
 
-                except Exception as e:
-                    conn.rollback()
-                    print(f"Erreur insertion: {e}", flush=True)
-                finally:
-                    conn.close()
             else:
                 now = datetime.now().strftime("%H:%M:%S")
                 print(
